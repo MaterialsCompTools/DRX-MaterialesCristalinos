@@ -15,3 +15,16 @@ Familiarizar al estudiante con las diferentes herramientas matemáticas y comput
 | Cargue de archivo      | En este archivo aprenderás a cargar el archivo de trabajo, corroborar la longitud de onda de los rayos X utilizados, eliminar la difracción del kalfa-2 y definir el background de la medida.|
 | Indexación de picos    | En este apartado aprenderás a hacer búsqueda y reconocimiento de picos, correr la identificación de picos, seleccionar las fases, revisar la información cristalográfica de la fase, e indexar los picos.|
 | Exportación de archivos| En este apartado aprenderás a exportar archivos dependiendo de la necesidad que se tenga.|
+
+## Sección 2: Determinación de rasgos cristalográficos<br>
+
+|    Microcontenidos          | Contenido |
+|-----------------------------|:---------------------|
+| Qué es Origin                       | En este apartado aprenderás qué es Origin.|
+| Tipos de archivos                   | En este apartado aprenderás qué tipo de archivo puede utilizarse en Origin.|
+| Interfaz                            | En este apartado aprenderás cómo es la interfaz de Origin.|
+| Resutados de DRX en Origin          | En este apartado aprenderás a abrir los archivos de DRX del Match! y a reportar el difractograma.|
+| Ajuste de picos                     | En este apartado aprenderás a hacer el ajuste de los picos de forma individual para extraer la información del ancho a la altura media del pico y la posición del mismo.|
+| Cálculo de parámetros de red        | En este apartado aprenderás en qué consiste el método de las funciones de extrapolación y cómo se usa este para el cálculo de parámetros de red de estructuras cristalinas.|
+| Williamson-Hall                     | En este apartado aprenderás a aplicar el método de Williamson-Hall para calcular las microdeformaciones y el tamaño de cristalito|
+| Cálculo de densidad de dislocaciones| En este apartado aprenderás a calcular la densidad de dislocaciones.|

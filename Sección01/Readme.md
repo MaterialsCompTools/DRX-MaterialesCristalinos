@@ -23,5 +23,40 @@ Es un _software_ para el análisis de fases cristalinas a partir de datos de dif
 
 ## Tipos de archivo
 
+El _software_ MATCH! puede abrir archivos de salida de diferentes difractómetros:
+*	Bruker/Siemens raw data (*.raw)
+*	Bruker/Siemens DIFFRAC AT peak (dif) data (*.dif)
+*	DRON-3
+*	G670 raw data (*.gdf)
+*	GNR raw data (formerly Ital Structures raw data) (*.esg)
+*	INEL raw data (*.dat)
+*	Jade/MDI/SCINTAG raw data (*.mdi)
+*	JEOL ASCII Export raw data (*.txt)
+*	PANalytical/Philips raw data (*.rd)
+*	PANalytical/Philips raw data (*.udf)
+*	PANalytical/Philips peak data (*.udi)
+*	Rigaku RAS raw data (*.ras)
+*	Rigaku raw data (*.raw)
+*	SCINTAG raw data (*.raw, *.rd)
+*	Seifert
+*	Shimadzu raw data (*.raw)
+*	Siemens raw data (*.uxd)
+*	Sietronics XRD scan data (*.cpi)
+*	Stoe Raw data (*.raw)
+*	Stoe Peak File (*.pks)
+*	TXRD text export (*.txt)
+*	XPowder raw data (*.plv)
+*	XRDML Scan raw data (*.xrdml)
 
+En este apartado vamos a trabajar con archivos XRDML. Esta es una extensión de nombre de archivo asociada con un programa para analizar la difracción en cristales, desarrollado por PANalytical.<br>
+   ![Logo PANalytical](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/0e26da7f-eeb9-40e1-a9e1-bfc3da9c9a24)
 
+## Interfaz de MATCH!
+
+A continuación, se muestra la interfaz del _software_ al abrirlo. En la parte izquierda, grande, se ubica el panel donde se verá el patrón de difracción después de cargar el archivo. En la parte derecha se observa la tabla periódica, de donde se podrán escoger los elementos químicos que componen el material o la muestra, según su composición elemental. En la parte inferior izquierda aparecerán los patrones con los que se podría hacer match, mientras que en la parte inferior derecha aparecerán los que seleccionemos.
+
+![Figura 1](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/13dd10ae-aeef-487e-81df-e9ee81b29cd0)
+
+## Cargue de archivo
+
+Para cargar el archivo _clickeamos_ en <kbd>File</kbd> y posteriormente en <kbd>Open</kbd>.

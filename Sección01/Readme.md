@@ -207,4 +207,4 @@ Pueden verse varias opciones. En este caso se escoge Al2O3, que es la fórmula e
 
 Posteriormente se despliegan las opciones de las fases candidatas para proceder.
 
-
+## Refinamiento automático

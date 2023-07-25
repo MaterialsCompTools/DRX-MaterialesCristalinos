@@ -19,7 +19,7 @@ Familiarizar al estudiante con las diferentes herramientas matemáticas y comput
 ## Sección 2: Determinación de rasgos cristalográficos<br>
 
 |    Microcontenidos          | Contenido |
-|-----------------------------|:---------------------|
+|-------------------------------------|:---------------------|
 | Qué es Origin                       | En este apartado aprenderás qué es Origin.|
 | Tipos de archivos                   | En este apartado aprenderás qué tipo de archivo puede utilizarse en Origin.|
 | Interfaz                            | En este apartado aprenderás cómo es la interfaz de Origin.|
@@ -28,3 +28,20 @@ Familiarizar al estudiante con las diferentes herramientas matemáticas y comput
 | Cálculo de parámetros de red        | En este apartado aprenderás en qué consiste el método de las funciones de extrapolación y cómo se usa este para el cálculo de parámetros de red de estructuras cristalinas.|
 | Williamson-Hall                     | En este apartado aprenderás a aplicar el método de Williamson-Hall para calcular las microdeformaciones y el tamaño de cristalito|
 | Cálculo de densidad de dislocaciones| En este apartado aprenderás a calcular la densidad de dislocaciones.|
+
+## Sección 3: Determinación de porcentajes de fases por refinamiento Rietveld<br>
+
+|    Microcontenidos          | Contenido |
+|-----------------------------|:---------------------|
+| Qué es FullProf                             | En esta apartado aprenderás qué es FullProf|
+| Refinamiento Rietveld                       | En este apartado aprenderás qué es el método Rietveld.|
+| Preparación de archivos                     | En este apartado aprenderás a preparar los archivos para llevar a cabo el refinamiento con FullProf: .CIF, .DAT y .BGR.|
+| Interfaz                                    |En este apartado aprenderás cómo es la interfaz del FullProf.|
+| Creación del archivo .PCR de la primera fase| En este apartado aprenderás a crear el archivo .PCR de la primera fase|
+| Cargue del archivo .BGR                     | En este apartado aprenderás a cargar el archivo .BGR|
+| Refinamiento de la primera fase             | En este apartado aprenderás a cómo llevar a cabo el refinamiento paso a paso de la primera fase del material usando FullProf|
+| Creación del archivo .PCR de la segunda fase| En este apartado aprenderás a crear el archivo .PCR de la segunda fase|
+| Adición del archivo .PCR de la segunda fase al de la primera fase| En este apartado aprenderás a adicionar la información del archivo .PCR de la segunda fase en el archivo .PCR de la primera fase|
+| Refinamiento de la segunda fase             | En este apartado aprenderás a cómo llevar a cabo el refinamiento paso a paso de la segunda fase del material usando FullProf|
+| WinPlotr                                    | En este apartado aprenderás a usar WinPlotr para extraer información después del refinamiento.|
+| Archivos de salida                          | En este apartado aprenderás a extraer la información después del proceso de refinamiento.|

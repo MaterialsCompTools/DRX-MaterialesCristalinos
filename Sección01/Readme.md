@@ -141,9 +141,70 @@ Esos picos extra señalados se pueden eliminar señalándonos con _click_ derech
 
 Ahora el patrón está listo para ser analizado por el _software_ y evaluar la coincidencia con los patrones de sus bases de datos. Se tienen 13 picos.
 
+## Indexación de picos
 
+Para evaluar la coincidencia, damos _click_ en <kbd>Search</kbd> y en <kbd>Search-Match</kbd>.
 
+<img width="960" alt="Figura 21" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/a5280d66-d88f-4562-bb02-def4a84833b1">
 
+Puede ver cómo en la parte inferior-izquierda de la pantalla aparece una lista de fases con las que podría coincidir nuestra muestra.
 
+<img width="960" alt="Figura 22" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/c7dcc56d-361c-4902-ad3b-0a48c97e4a83"><br>
+
+La lista resultante consta de 11 columnas. La primera muestra el <kbd>color</kbd> con el que aparece la fase en la que nos estamos parando en parte de arriba. Fíjese en la cuarta línea, que está en rojo, en la parte superior derecha del cuadro del patrón de difracción. Esa línea hace alusión a la fase en que nos estamos parando. Y las líneas rojas que se observan sobre el patrón son los picos de esa fase de la base de datos. <kbd>Qual</kbd>. Significa Quality, y la <kbd>c</kbd> quiere decir que fue calculada. La columna <kbd>Entry</kbd> tiene que ver con el código que tiene la fase en la base de datos, y que se usa para la referencia respectiva. La columna de <kbd>Formula</kbd> muestra la fórmula estequiométrica de la fase. La columna <kbd>Cryst.</kbd> muestra la familia cristalina de la fase (C, cúbico; H, hexagonal; R, romboédrica; T, tetragonal; O, ortorrómbica; M, monoclínica; T, triclínica). La fase que se está señalando en este caso es de aluminio, que es cúbica. La columna de <kbd>Candidate phase</kbd> muestra el nombre de la fase, que en este caso es aluminio.
+
+La última columna, <kbd>FoM</kbd>, muestra la Figura de Mérito, o _Figure of Merit_, que es un valor numérico que describe la calidad de la coherencia entre el patrón experimental y la respectiva fase de la base de datos. El _software_ calcula el valor teniendo en cuenta las diferencias entre los ángulos 2Theta, entre las intensidades de los picos, entre la cantidad de picos correlacionados con los que deberían ser correlacionados, y el factor de escala de las intensidades. Mientras más alto el valor de la figura de mérito, más coincidencia hay con el patrón experimental. El _software_ muestra las fases candidatas con los valores más altos de FoM en la parte de arriba. Hacia abajo ese valor va disminuyendo.
+
+![Figura 23](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/5b63cd8d-336f-4cc5-9e3f-7401b2326706)
+
+Como la primera fase mostrada es la mejor candidata, damos doble-click. Al hacer esto, la fase pasa a la parte inferior derecha de nuestra pantalla y desaparecen las otras fases candidatas.
+
+![Figura 24](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/af8229bd-a39f-4e54-8810-27ea9d1f72dd)
+
+En <kbd>Data sheet</kbd> puede verse la información de la fase seleccionada. Primero, vemos el número de la fase, para la referencia. En este caso es #96-431-3207. Más abajo podemos ver la clasificación de la fase: su nombre, fórmula estequiométrica, y la razón de intensidad de referencia (I/Ic, que es importante para el análisis cuantitativo). Más abajo puede verse la publicación científica de la que salió ese patrón de difracción y un _link_ por si se desea descargar el archivo (más adelante lo requeriremos). Luego podemos ver la información cristalográfica de la fase: su grupo espacial, sistema cristalino, parámetros de red, número de átomos por celda y las coordenadas donde se ubican los átomos (asumiendo un sistema de 3 ejes y la celda unitaria, la notación muestra en qué puntos se ubican los átomos).<br>
+
+Por último, observamos los picos difractados, con la distancia interatómica, las intensidades relativas (siendo de 1000 la del pico más intenso), los índices de Miller de los picos y la multiplicidad de los planos.<br>
+
+Bajando con la barra se puede ver el patrón con algunas propiedades del material.<br>
+
+![Figura 25](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/381730f8-7258-4950-81ed-2bc1f8883233)
+
+Otra forma de buscar fases, si ya las conocemos, es con CTR+F, o en Search, Find phase/entry.
+
+![Figura 26](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/7311785a-a371-4ddb-958b-eb2d31b1caac)
+
+En el caso de este ejemplo, la otra fase es alúmina o Al2O3, que también se conoce como corindón o corundum, en inglés.
+
+<img width="960" alt="Figura 27" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/28002d6a-06c9-4600-bf15-3b698f036db8">
+
+Así, aparecen los candidatos de esta segunda fase. Las fases candidatas, en este caso, se muestran de color verde. En este caso se seleccionó el segundo archivo de la lista, por la mayor cercanía de 2Theta. Puede verse que todos los picos quedan indexados.
+
+<img width="960" alt="Figura 28" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/6fe89cce-0e04-464e-83dc-734997a8dbd9">
+
+Como puede verse, el MATCH! también puede hacer un análisis cuantitativo del porcentaje de fases dentro del material. En este caso se muestra un 87.7% para el aluminio y un 12.3% para la alúmina. Sin embargo, este valor no es correcto. Para que lo sea, debe hacerse un proceso de refinamiento, que hace que el patrón calculado (rojo) sea igual al experimental (azul).
+
+![Figura 29](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/dd4cb8a2-6c90-4f30-93d7-1ef92cefe106)
+
+En la siguiente figura puede verse que estos aún no coinciden bien. Más adelante aprenderemos cómo hacerlo. Por ahora el análisis es sólo cualitativo.
+
+![Figura 30](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/586e4a96-2b7b-4474-9b64-2bf22297d9b4)
+
+Otra forma de buscar las fases es usando la tabla periódica de la izquierda. Después de cargar el archivo, marcamos en <kbd>Toogle</kbd> hasta que todo rojo (de lo que no se escoge ningún elemento).
+
+![Figura 31](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/e04f5658-05e2-4f81-a6e8-8267682d6cf8)
+
+Luego ubicamos el mouse sobre el elemento que queremos que se tenga en cuenta en la búsqueda, en este caso Al y O, lo dejamos en verde (que se usan para la búsqueda de fases).
+
+![Figura 32](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/aefba7e5-df81-48c2-8df0-f693cc9bf559)
+
+Abriendo la ventana de donde dice <kbd>Formula Sum</kbd>, escogemos la estequiometría deseada:
+
+![Figura 33](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/f6e3863f-1770-402c-ae78-73ab3ec37cdf)
+
+Pueden verse varias opciones. En este caso se escoge Al2O3, que es la fórmula estequiométrica de la alúmina.
+
+![Figura 34](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8530f157-4de2-4858-9222-6d99a45862d7)
+
+Posteriormente se despliegan las opciones de las fases candidatas para proceder.
 
 

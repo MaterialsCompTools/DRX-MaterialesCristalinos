@@ -10,7 +10,7 @@ Familiarizar al estudiante con las diferentes herramientas matemáticas y comput
 |    Microcontenidos     | Contenido |
 |------------------------|:---------------------|
 | [Qué es MATCH!](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/edit/main/Secci%C3%B3n01/Readme.md#qu%C3%A9-es-match)| En este apartado aprenderás qué es MATCH!|
-| Tipos de archivos      | En este apartado aprenderás qué tipo de archivo puede utilizarse en MATCH!|
+| [Tipos de archivos](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n01#interfaz-de-match)| En este apartado aprenderás qué tipo de archivo puede utilizarse en MATCH!|
 | Interfaz               | En este apartado aprenderás cómo es la interfaz de MATCH!|
 | Cargue de archivo      | En este archivo aprenderás a cargar el archivo de trabajo, corroborar la longitud de onda de los rayos X utilizados, eliminar la difracción del kalfa-2 y definir el background de la medida.|
 | Indexación de picos    | En este apartado aprenderás a hacer búsqueda y reconocimiento de picos, correr la identificación de picos, seleccionar las fases, revisar la información cristalográfica de la fase, e indexar los picos.|

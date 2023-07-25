@@ -208,3 +208,8 @@ Pueden verse varias opciones. En este caso se escoge Al2O3, que es la fórmula e
 Posteriormente se despliegan las opciones de las fases candidatas para proceder.
 
 ## Refinamiento automático
+
+Para ello, clickeamos en el logo de FP (más adelante veremos qué significa).
+
+![Figura 35](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ef4143f3-c7fe-4449-b708-926c1817147e)
+

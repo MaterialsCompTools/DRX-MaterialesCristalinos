@@ -14,6 +14,7 @@ Familiarizar al estudiante con las diferentes herramientas matemáticas y comput
 | Interfaz               | En este apartado aprenderás cómo es la interfaz de MATCH!|
 | Cargue de archivo      | En este archivo aprenderás a cargar el archivo de trabajo, corroborar la longitud de onda de los rayos X utilizados, eliminar la difracción del kalfa-2 y definir el background de la medida.|
 | Indexación de picos    | En este apartado aprenderás a hacer búsqueda y reconocimiento de picos, correr la identificación de picos, seleccionar las fases, revisar la información cristalográfica de la fase, e indexar los picos.|
+| Refinamiento automático | En este apartado aprenderás cómo usar el MATCH! para cuantificar las fases presentes en el material.|
 | Exportación de archivos| En este apartado aprenderás a exportar archivos dependiendo de la necesidad que se tenga.|
 
 ## Sección 2: Determinación de rasgos cristalográficos<br>

@@ -55,8 +55,26 @@ En este apartado vamos a trabajar con archivos XRDML. Esta es una extensión de 
 
 A continuación, se muestra la interfaz del _software_ al abrirlo. En la parte izquierda, grande, se ubica el panel donde se verá el patrón de difracción después de cargar el archivo. En la parte derecha se observa la tabla periódica, de donde se podrán escoger los elementos químicos que componen el material o la muestra, según su composición elemental. En la parte inferior izquierda aparecerán los patrones con los que se podría hacer match, mientras que en la parte inferior derecha aparecerán los que seleccionemos.
 
-![Figura 1](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/13dd10ae-aeef-487e-81df-e9ee81b29cd0)
+<img width="960" alt="Figura 1" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/dda1bf77-fd8d-4a9a-8645-95711631cc7d">
 
 ## Cargue de archivo
 
 Para cargar el archivo _clickeamos_ en <kbd>File</kbd> y posteriormente en <kbd>Open</kbd>.
+
+<img width="960" alt="Figura 3" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/93a216b2-4318-4c23-a2d4-a22cb6192545">
+
+En la ventana que se abre buscamos el archivo, lo seleccionamos, y damos _click_ en <kbd>Abrir</kbd>.
+
+![Figura 2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/df98b56f-65a2-44f6-8cb3-a0337be1a091)
+
+Al hacer esto, se carga el patrón de difracción en el panel superior izquierdo de la pantalla. En azul puede verse el patrón de difracción experimental que cargué y en naranja se ve el _background_, que más adelante se explica qué es.
+
+<img width="960" alt="Figura 4" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/dc33b104-4c15-49de-96f4-a3fd75d65c40">
+
+## Preparar el archivo
+
+Ya cargado el archivo, con la pestaña <kbd>Pattern</kbd> lo preparamos para el análisis de coincidencia o _matching_.
+Primero, podemos revisar y/o cambiar la longitud de onda. Para ello, se hace _click_ en <kbd>Pattern</kbd> y posteriormente en <kbd>Wavelength</kbd>.
+
+![Figura 5](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1d78a8cc-6b18-446f-be08-d08807923478)
+

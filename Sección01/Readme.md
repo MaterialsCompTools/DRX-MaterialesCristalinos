@@ -209,13 +209,13 @@ Posteriormente se despliegan las opciones de las fases candidatas para proceder.
 
 ## Refinamiento automático
 
-Para ello, clickeamos en el logo de FP (más adelante veremos qué significa).
+Para ello, clickeamos en el logo de FP (más adelante veremos qué significa).<br>
 
-![Figura 35](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ef4143f3-c7fe-4449-b708-926c1817147e)
+![Figura 35](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ef4143f3-c7fe-4449-b708-926c1817147e)<br>
 
 Señalamos Automatic Rietveld Refinement (parte superior derecha) y damos _click_ en el botón <kbd>Run FullProf</kbd> (Rietveld Refinement). 
 
-![Figura 36](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8054a3a0-abc5-4ac0-82d9-e3168a14219a)
+![Figura 36](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8054a3a0-abc5-4ac0-82d9-e3168a14219a)<br>
 
 Al hacer esto, la coincidencia entre el patrón calculado y el experimental debería ser mejor. Dos valores importantes son el Factor de Bragg y el Chi-2 que, como puede verse, han cambiado. Aunque lo entenderemos mejor después, por ahora diremos que el valor del Chi-2 está bien, pero el del factor de Bragg es muy alto. Además, la línea azul claro en la parte inferior presenta aún mucho ruido. Lo que quiere decir que el refinamiento automático no es suficiente.<br>
 Sin embargo, los valores de porcentajes de fases, que han cambiado después del refinamiento, son más confiables que los mostrados anteriormente.<br>
@@ -226,7 +226,7 @@ Sin embargo, los valores de porcentajes de fases, que han cambiado después del 
 
 Al dar _click_ en el ícono señalado, se despliega un reporte de lo hecho.
 
-![Figura 38](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/06d918d6-1807-4c29-af20-bedf5274ca8d)
+![Figura 38](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/06d918d6-1807-4c29-af20-bedf5274ca8d)<br>
 
 El reporte luce como se muestra a continuación. Muestra el nombre de la muestra, la ruta para encontrar el archivo y las condiciones de medida, las fases coincidentes y cómo las indexa –la fase A es el aluminio y la fase B es el corindón-, la composición elemental y las características de las fases seleccionadas de las bases de datos. Recordar que los porcentajes de fases o de elementos químicos, hasta este punto, no es correcta debido a que no se ha hecho un refinamiento.<br>
 
@@ -247,8 +247,20 @@ Si queremos ver los índices de Miller de cada plano difractado, podemos hacerlo
 
 Los índices de Miller aparecerán sobre cada pico:<br>
 
-<img width="960" alt="Figura 43" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ba2020e0-108b-42ec-97dd-b1315f6bcc0c">
+<img width="960" alt="Figura 43" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ba2020e0-108b-42ec-97dd-b1315f6bcc0c"><br>
 
+## Exportar archivos
 
+Por último, vamos a exportar un archivo con extensión .dat para abrir en el OriginPro, que nos ayuda a procesar los datos de forma elegante. Damos _click_ en <kbd>File</kbd>, <kbd>Export</kbd>, <kbd>Profile Data</kbd>.<br>
 
+<img width="960" alt="Figura 44" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b454f809-f956-4ad8-8c63-95196d2e15cb"><br>
 
+![Figura 45](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/610f2f0e-3500-408d-8e48-6e584e99f812)<br>
+
+Escogemos la opción de 2 columnas: 2Theta Intensity.
+
+<img width="960" alt="Figura 46" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/f432f520-2d5b-41f8-a9cf-5e9fc0622ac9">
+
+El archivo resultante queda de dos columnas. La de la izquierda corresponde al ángulo 2Theta y la de la derecha a la intensidad.
+
+![Figura 47](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/3acff0f5-aad1-43e1-9959-a605d503bfad)

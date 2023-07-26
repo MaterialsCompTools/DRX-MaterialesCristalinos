@@ -32,3 +32,17 @@ Si quiere conocer los otros tipos de archivos que puede abrir Origin, puede diri
 ## Interfaz de Origin
 
 Al abrir Origin nos encontramos con una ventana que se denomina _New WorkBook_. En nuestro caso, escogemos la primera opción, de un libro de trabajo en blanco. Lo escogemos dando doble _click_.<br>
+
+![Figura 48](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/37d67ae2-37ef-40b7-b362-32257f9a0c74)
+
+Esa acción nos abre un primer libro.<br>
+
+<img width="960" alt="Figura 49" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b0a0bb02-5a46-4199-9f0e-be75a17a699b">
+
+Como puede verse, tenemos 4 barras de tareas, en las partes superior, inferior, derecha e izquierda. En la parte superior tenemos varias ventas: <kbd>File</kbd>, <kbd>Edit</kbd>, <kbd>View</kbd>, <kbd>Plot</kbd>, <kbd>Column</kbd>, <kbd>Worksheet</kbd>, <kbd>Analysis</kbd>, <kbd>Statistics</kbd>, <kbd>Image</kbd>, <kbd>Tools</kbd>, <kbd>Format</kbd>, <kbd>Window</kbd> y <kbd>Help</kbd>. Veremos, de manera práctica, cómo las usamos.<br>
+
+El libro tiene varias partes importantes. Nos indica la columna del eje _x_ y del eje _y_. El nombre del libro, que quedará definido por el título del archivo que abramos. Nos indica cuáles son las casillas para los nombres de las columnas, donde pondremos la variable medida. Esto definirá el título de cada uno de los ejes. Luego tenemos la casilla de las unidades de medida de cada variable. Los comentarios son para poner alguna información relevante sobre la muestra que vamos a analizar. Una temperatura o un tiempo de proceso, por ejemplo, o una composición química. Esto dependerá de lo que estemos analizando. Y <kbd>F(x)</kbd> es para colocar alguna fórmula matemática para que se haga alguna operación.<br>
+
+![Figura 50](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/3bd498cb-9ce6-499c-9541-a75540586cdf)
+
+Para aprender a exportar el archivo, podemos dirigirnos a la sección anterior (link). Para importarlo, vamos a la pestaña de <kbd>File</kbd>, <kbd>Import</kbd>, <kbd>Single ASCII</kbd>.

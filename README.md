@@ -21,7 +21,7 @@ Familiarizar al estudiante con las diferentes herramientas matemáticas y comput
 
 |    Microcontenidos          | Contenido |
 |-------------------------------------|:---------------------|
-| Qué es Origin                       | En este apartado aprenderás qué es Origin.|
+| [Qué es Origin](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#qu%C3%A9-es-origin)                       | En este apartado aprenderás qué es Origin.|
 | Tipos de archivos                   | En este apartado aprenderás qué tipo de archivo puede utilizarse en Origin.|
 | Interfaz                            | En este apartado aprenderás cómo es la interfaz de Origin.|
 | Resutados de DRX en Origin          | En este apartado aprenderás a abrir los archivos de DRX del Match! y a reportar el difractograma.|

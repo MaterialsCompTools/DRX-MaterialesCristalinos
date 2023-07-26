@@ -169,7 +169,7 @@ Bajando con la barra se puede ver el patrón con algunas propiedades del materia
 
 ![Figura 25](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/381730f8-7258-4950-81ed-2bc1f8883233)
 
-Otra forma de buscar fases, si ya las conocemos, es con CTR+F, o en Search, Find phase/entry.
+Otra forma de buscar fases, si ya las conocemos, es con CTR+F, o en <kbd>Search</kbd>, <kbd>Find phase/entry</kbd>.
 
 ![Figura 26](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/7311785a-a371-4ddb-958b-eb2d31b1caac)
 
@@ -212,4 +212,43 @@ Posteriormente se despliegan las opciones de las fases candidatas para proceder.
 Para ello, clickeamos en el logo de FP (más adelante veremos qué significa).
 
 ![Figura 35](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ef4143f3-c7fe-4449-b708-926c1817147e)
+
+Señalamos Automatic Rietveld Refinement (parte superior derecha) y damos _click_ en el botón <kbd>Run FullProf</kbd> (Rietveld Refinement). 
+
+![Figura 36](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8054a3a0-abc5-4ac0-82d9-e3168a14219a)
+
+Al hacer esto, la coincidencia entre el patrón calculado y el experimental debería ser mejor. Dos valores importantes son el Factor de Bragg y el Chi-2 que, como puede verse, han cambiado. Aunque lo entenderemos mejor después, por ahora diremos que el valor del Chi-2 está bien, pero el del factor de Bragg es muy alto. Además, la línea azul claro en la parte inferior presenta aún mucho ruido. Lo que quiere decir que el refinamiento automático no es suficiente.<br>
+Sin embargo, los valores de porcentajes de fases, que han cambiado después del refinamiento, son más confiables que los mostrados anteriormente.<br>
+
+![Figura 37](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/19ac0859-4224-44b1-9e09-6bbf677b650a)
+
+## Resultados
+
+Al dar _click_ en el ícono señalado, se despliega un reporte de lo hecho.
+
+![Figura 38](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/06d918d6-1807-4c29-af20-bedf5274ca8d)
+
+El reporte luce como se muestra a continuación. Muestra el nombre de la muestra, la ruta para encontrar el archivo y las condiciones de medida, las fases coincidentes y cómo las indexa –la fase A es el aluminio y la fase B es el corindón-, la composición elemental y las características de las fases seleccionadas de las bases de datos. Recordar que los porcentajes de fases o de elementos químicos, hasta este punto, no es correcta debido a que no se ha hecho un refinamiento.<br>
+
+![Figura 39](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/74b1fd61-443c-4f39-b07a-706ead4cdaef)
+
+Además de esto, el informe muestra otras fases candidatas, con su número de archivo y su Figura de Mérito. <br>
+
+![Figura 40](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/96a4f514-06a7-458c-8045-57a7aff227ad)<br>
+
+Además de otra información, el reporte muestra la lista de picos y cómo quedaron indexados.<br>
+
+![Figura 41](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/4f1c8933-3243-4fc1-bbf4-a2087dac2906)
+
+Por último, el reporte puede guardarse como un archivo PDF.<br>
+Si queremos ver los índices de Miller de cada plano difractado, podemos hacerlo dando _click_ derecho sobre la pantalla del patrón de difracción. Así, se despliegan varias opciones. Damos _click_ en <kbd>Miller Indices</kbd>.
+
+<img width="960" alt="Figura 42" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/6e4a4f74-05dc-4373-a250-bfb6b29715a5"><br>
+
+Los índices de Miller aparecerán sobre cada pico:<br>
+
+<img width="960" alt="Figura 43" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ba2020e0-108b-42ec-97dd-b1315f6bcc0c">
+
+
+
 

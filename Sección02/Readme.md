@@ -45,6 +45,8 @@ El libro tiene varias partes importantes. Nos indica la columna del eje _x_ y de
 
 ![Figura 50](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/3bd498cb-9ce6-499c-9541-a75540586cdf)<br>
 
+## Importar archivo y reportar el patrón de DRX
+
 Para aprender a exportar el archivo, podemos dirigirnos a la sección anterior [Exportar archivos](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n01#exportar-archivos). Para importarlo, vamos a la pestaña de <kbd>File</kbd>, <kbd>Import</kbd>, <kbd>Single ASCII</kbd>.
 
 <img width="960" alt="Figura 51" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/d9d9a9bd-2003-4a0c-a4c3-e442d937f133">

@@ -184,3 +184,12 @@ Después de exportar el gráfico en *.tiff, queda así:
 Ajustar los picos significa encontrar la curva o función matemática que los representa. Típicamente hay varias curvas que sirven para ajustar los picos de difracción de rayos X. Entre ellas están las siguientes, que se muestran con sus respectivas ecuaciones:
 
 *	Curva gaussiana
+
+$G = \frac{{ \sqrt {C_{0}} }}{{Γ_{k}\sqrt {π}}} e^{[-\frac{{ C_{0}}}{{{Γ_{k}^2}}}(2θ_{i}-2θ_{k})]};C_{0}=4ln2$
+
+*	Curva Lorentziana
+
+$L = \frac{{ 2 \sqrt {C_{0}} }}{{ π Γ_{k}}} \frac{{1}}{{1 + \frac{{C_{0}}}{{{Γ_{k}^2}(2θ_{i}-2θ_{k})}} }};C_{0}=4$
+
+* Pearson VII
+

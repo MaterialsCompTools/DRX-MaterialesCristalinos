@@ -23,7 +23,7 @@ Familiarizar al estudiante con las diferentes herramientas matemáticas y comput
 |-------------------------------------|:---------------------|
 | [Qué es Origin](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#qu%C3%A9-es-origin)                       | En este apartado aprenderás qué es Origin.|
 | [Tipos de archivos](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#extensiones-de-archivos-de-trabajo)                  | En este apartado aprenderás qué tipo de archivo puede utilizarse en Origin.|
-| Interfaz                            | En este apartado aprenderás cómo es la interfaz de Origin.|
+| [Interfaz](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/Readme.md#interfaz-de-origin)                            | En este apartado aprenderás cómo es la interfaz de Origin.|
 | Resutados de DRX en Origin          | En este apartado aprenderás a abrir los archivos de DRX del Match! y a reportar el difractograma.|
 | Ajuste de picos                     | En este apartado aprenderás a hacer el ajuste de los picos de forma individual para extraer la información del ancho a la altura media del pico y la posición del mismo.|
 | Cálculo de parámetros de red        | En este apartado aprenderás en qué consiste el método de las funciones de extrapolación y cómo se usa este para el cálculo de parámetros de red de estructuras cristalinas.|

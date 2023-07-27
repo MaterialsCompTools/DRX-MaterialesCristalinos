@@ -57,7 +57,12 @@ El _software_ MATCH! puede abrir archivos de salida de diferentes difractómetro
 *	XRDML Scan raw data (*.xrdml)
 
 En este apartado vamos a trabajar con archivos XRDML. Esta es una extensión de nombre de archivo asociada con un programa para analizar la difracción en cristales, desarrollado por PANalytical.<br>
+
+<div align="center">
+   
    ![Logo PANalytical](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/0e26da7f-eeb9-40e1-a9e1-bfc3da9c9a24)
+
+</div>
 
 ## Interfaz de MATCH!
 

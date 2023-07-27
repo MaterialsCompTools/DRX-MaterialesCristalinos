@@ -625,6 +625,8 @@ $β_{ε} = 4 ε tan(θ)$
 
 Donde _θ_ es medio ángulo de difracción y _ε_ es la medida de las microdeformaciones.
 
+### Ecuación de Williamson-Hall
+
 Remplazando los términos del ensanchamiento por tamaño de cristalito y por microdeformaciones en la ecuación del ensanchamiento y reacomodando los términos, tenemos la siguiente ecuación:
 
 <div align="center">

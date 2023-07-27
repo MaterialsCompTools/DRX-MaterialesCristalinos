@@ -636,3 +636,48 @@ $FWHM cos(θ) = \frac{{0.9λ}}{{D)}} + 2 ε sen(θ)$
 El método de Williamson-Hall consiste, entonces, en calcular el ancho a la altura media de cada pico y su ángulo de difracción y hacer un gráfico de **FWHM×cos⁡θ** _versus_ **2sin⁡θ**. El resultado es una línea recta, cuya pendiente corresponde a la microdeformación y a partir de la pendiente, con la longitud de onda de los rayos X difractado, se puede calcular el tamaño de cristalito.
 
 Vamos a hacer el cálculo para el aluminio de nuestro patrón de difracción de rayos X. Como ya habíamos ajustado los picos según la curva pseudo-voigt, vamos a colocar la información que requerimos en una tabla de EXCEL.
+
+![Figura 114](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/fd677d57-ad7c-48d4-a2be-a2fd4b77e17d)
+
+A continuación, se muestra el resultado de la gráfica en Origin. El ajuste es aceptable, con un R2 = 0.9408 para una línea recta.
+
+<div align="center">
+
+![Williamson-Hall Aluminio](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8b086f96-c16c-4bbe-bf8b-cc1548e96ce8)
+
+</div>
+
+Las microdeformaciones tienen el valor de 0.00188 ± 0.00021
+Haciendo el cálculo del tamaño de cristalito, tenemos:
+
+<div align="center">
+
+$D = \frac{{0.9×0.154184 nm}}{{0.00218}} = 63.6 nm$
+
+</div>
+
+Podemos calcular, también, la propagación del error, teniendo que b, en este caso, es el intercepto.
+
+<div align="center">
+
+$∆D = \lvert \frac{{∂D}}{{∂b}} \rvert ∆b = 0.9×0.154184 {b^{-2}} ∆b = \frac{{0.9×0.154184}}{{{b^2}}} ∆b$
+
+$∆D = \frac{{0.9×0.154184}}{{{0.00218^2}}} 0.00025 = 7.3 nm$
+
+</div>
+
+Así, el dato completo del tamaño de cristalito del aluminio es 63.6 ± 7.3 nm.
+
+## Cálculo de densidad de dislocaciones
+
+Teniendo el valor de la microdeformación del cristal, podemos calcular, según la siguiente ecuación, la densidad de dislocaciones de la fase:
+
+<div align="center">
+
+$ρ = \frac{{2 \sqrt {3} ε}} {{D×b}}$
+
+</div>
+
+Siendo _ε_ el valor absoluto de la microdeformación, _D_ el tamaño de cristalito y _b_ el vector de Burger.
+
+Recordemos que para la estructura cristalina FCC, según la siguiente tabla, el módulo del vector de Burger es $b = \frac{{a}} {{\sqrt {3}}}$. 

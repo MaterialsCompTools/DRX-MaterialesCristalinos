@@ -295,6 +295,109 @@ La **pseudo-voigt1** es la que mejor ajuste muestra en este caso, con un $R^2 = 
 
 ![Figura 97](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/beb6f452-d989-4a1b-82ad-a873eaf62375)
 
+## Cálculo de parámetros de red
+
+Ya sabemos que hay una ecuación que relaciona la distancia interplanar de un plano con índices de Miller **(hkl)** con los parámetros de red de la estructura cristalina.
+
+<div align="center">
+
+  $\frac{{1}}{{{d^2}}} =\frac{{{h^2}}}{{{a^2}}} + \frac{{{k^2}}}{{{b^2}}} + \frac{{{l^2}}}{{{c^2}}}$
+
+</div>
+
+Si la **estructura cristalina** es **cúbica**, como es el caso del aluminio, que exhibe estructura cristalina FCC, la ecuación se simplifica:
+
+<div align="center">
+
+$\frac{{1}}{{{d^2}}} = \frac{{{h^2}+{k^2}+{l^2}}}{{{a^2}}}$
+
+</div>
+
+Despejando, vemos que podríamos calcular el parámetro de red de una estructura cúbica si conocemos la distancia interplanar y los índices de Miller del plano de un pico difractado.
+
+<div align="center">
+
+$a = d_{(hkl)} \sqrt {{h^2}+{k^2}+{l^2}}$
+
+</div>
+
+Para conocer la distancia interplanar, como ya veíamos, usamos la Ley de Bragg, usando _n_ = 1.
+
+<div align="center">
+
+$2 d Sen(θ) = n λ$
+
+</div>
+
+Si combinamos ambas ecuaciones, tenemos que:
+
+<div align="center">
+
+$a = \frac{{λ}}{{2 Sen(θ)}} \sqrt {{h^2}+{k^2}+{l^2}}$
+
+</div>
+
+Recordemos que theta es el ángulo al que difracta el pico. Por lo tanto, para conocer el parámetro de red debemos conocer _λ_, que es la longitud de onda de los rayos X; el ángulo de difracción del pico, que es _θ_; y los índices de Miller del pico. El ángulo _2Theta_ de difracción lo muestra Origin después de hacer el ajuste, como $x_{c}$.
+
+![Pico](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b0b8fa2c-32b9-41db-88e0-4b2a05598391)
+
+Si nos fijamos en el pico ajustado por la función pesudo-voigt, el pico se ubica a $x_{c} = 38.3964°$.
+
+Los datos de este pico con el que estamos trabajando son:
+
+|         | Valor |
+|---------|:---------------------|
+| 2θ (grados)  | 38.3964 |
+| θ (grados)  | 19.1982  |
+| λ (Å)  | 1.5419   |
+| (_hkl_)  | (111)   |
+
+Por lo tanto:
+
+<div align="center">
+
+$a = \frac{{1.54184 Å}}{{2 Sen(19.1982°)}} \sqrt {{1^2}+{1^2}+{1^2}} = 4.06059 Å$
+
+</div>
+
+Sin embargo, esta medida tiene un error asociado (aunque el valor es muy cercano al valor teórico del parámetro de red para el aluminio, que es de 4.05049 Å). En el caso del cálculo de los parámetros de red _los errores sistemáticos tienden a cero cuando Theta tiende a 90°_, por lo que pueden eliminarse usando una **función de extrapolación**.
+
+<div align="center">
+
+$(\frac{{δa}}{{a}})_{abs}∝[\frac{{{Cos(θ)^2}}}{{Sen(θ)}}+\frac{{{Cos(θ)^2}}}{{θ}}]$
+
+</div>
+
+La función de **Nelson-Riley** es una función de extrapolación que se usa para calcular el parámetro de red. El método consiste, entonces, en calcular el parámetro de red para cada pico difractado de la fase, y hacer un gráfico de esos parámetros de red versus la función de Nelson-Riley, que también se calcula para cada pico. En el gráfico, el corte corresponde al valor real del parámetro de red, mientras que la pendiente indica el error sistemático: a mayor pendiente, mayor error sistemático. A continuación, se muestra la función de Nelson-Riley.
+
+<div align="center">
+
+$F(θ) = \frac{{1}}{{2}} [\frac{{{Cos(θ)^2}}}{{Sen(θ)}}+\frac{{{Cos(θ)^2}}}{{θ}}]$
 
 
+</div>
+
+Por lo tanto, debe graficarse cada pico difractado de la fase que queremos analizar, y extraer el valor de Theta.
+
+![Imagen4](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b66ed67a-8646-43ea-b5bc-c276bdc9ac35)
+
+Después de graficar los picos, le damos _click_ a <kbd>ANALYSIS</kbd> y <kbd>SINGLE-PEAK FIT</kbd>: <kbd>Last used</kbd>, ya que el guarda nuestra última elección. Seguiremos trabajando con **pseudo-voigt**.
+
+![Figura 98](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/007282e1-45f4-4074-9926-d8b63c10920c)
+
+![Imagen5](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/fe5b056f-ffc9-437c-92cf-2bc4d56970bd)
+
+Para los cálculos, podemos hacernos una tabla en **EXCEL**.
+
+![Figura 99](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/613935a5-c71f-440f-9fa4-588bc5a068ee)
+
+Graficamos, en ORIGIN, _a_ versus _F(theta)_.
+
+![Figura 100](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/151cadd8-9cc6-4073-bc84-c41adae290a2)
+
+Ajustamos los datos a una línea recta: <kbd>ANALYSIS</kbd>, <kbd>FITTING</kbd>, <kbd>LINEAR-FIT</kbd>, <kbd>Last-used</kbd>.
+
+![Figura 101](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/79b4660b-51e6-47ac-819e-86063cc74e9e)
+
+El intercepto de la línea corresponde al **parámetro de red** de la fase, que es el **aluminio**. El valor es, entonces, $a = 4.05424 ± 0.00027 Å$.
 

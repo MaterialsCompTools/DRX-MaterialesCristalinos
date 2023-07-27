@@ -11,6 +11,14 @@ Familiarizar al estudiante con las diferentes herramientas matemáticas y comput
 
 ## Sección 1: Indexación de picos de patrones de difracción<br>
 
+<div align="center">
+
+En este apartado aprenderás a indexar patrones de DRX con ayuda de MATCH!
+
+![Logo Match](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/a529747b-5b17-475c-abfa-5e58b95153db)
+
+</div>
+
 |    Microcontenidos     | Contenido |
 |------------------------|:---------------------|
 | [Qué es MATCH!](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n01#qu%C3%A9-es-match)| En este apartado aprenderás qué es MATCH!|

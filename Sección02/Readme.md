@@ -1,6 +1,11 @@
 # Determinación de rasgos cristalográficos
+
+<div align="center">
+  
 ![Origin logo](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/6595d0e0-7d57-46b2-87db-6069f6da86f7)
 
+</div>
+  
 ## Objetivos
 
 *	Conocer la interfaz de OriginPro
@@ -174,6 +179,8 @@ Después de exportar el gráfico en *.tiff, queda así:
 
 ![Patrón 2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/951016ef-3b4d-4415-942a-f693e7fb92c9)
 
+## Ajuste de picos
 
+Ajustar los picos significa encontrar la curva o función matemática que los representa. Típicamente hay varias curvas que sirven para ajustar los picos de difracción de rayos X. Entre ellas están las siguientes, que se muestran con sus respectivas ecuaciones:
 
-
+*	Curva gaussiana

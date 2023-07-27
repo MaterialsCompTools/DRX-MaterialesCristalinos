@@ -401,3 +401,17 @@ Ajustamos los datos a una línea recta: <kbd>ANALYSIS</kbd>, <kbd>FITTING</kbd>,
 
 El intercepto de la línea corresponde al **parámetro de red** de la fase, que es el **aluminio**. El valor es, entonces, $a = 4.05424 ± 0.00027 Å$.
 
+![Figura 102](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/96f8abe2-ddba-4115-b4f8-5a9e82f5835e)
+
+Podemos acomodar la gráfica para exportarla: sacamos la tabla y el título fuera del área blanca; insertamos texto para colocar un título adecuado, y otro para colocar el valor del parámetro de red; también podemos dar doble _click_ en uno de los puntos de la gráfica y cambiar su forma, tamaño y color; y seleccionar la línea roja para aumentar su espesor y ponerla punteada.
+
+![Figura 103](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/615e6235-3f7b-406e-b9a8-db5c0ee471c9)
+
+![Figura 104](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/7789801a-fff2-4e7c-beb1-c50771f7ca9c)
+
+Después de exportada, así queda la imagen:
+
+![Nelson Riley-2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/356bbbbe-00cc-4e85-b326-7d8714b1b1ea)
+
+
+

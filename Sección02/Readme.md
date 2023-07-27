@@ -305,9 +305,12 @@ Ya sabemos que hay una ecuación que relaciona la distancia interplanar de un pl
 
 </div>
 
+
 Si la **estructura cristalina** es **cúbica**, como es el caso del aluminio, que exhibe estructura cristalina FCC, la ecuación se simplifica:
 
 <div align="center">
+
+![FCC](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/09deb90c-2a44-46f6-8ace-52776ea9ddd8)
 
 $\frac{{1}}{{{d^2}}} = \frac{{{h^2}+{k^2}+{l^2}}}{{{a^2}}}$
 
@@ -364,7 +367,7 @@ Sin embargo, esta medida tiene un error asociado (aunque el valor es muy cercano
 
 <div align="center">
 
-$(\frac{{δa}}{{a}})_{abs}∝[\frac{{{Cos(θ)^2}}}{{Sen(θ)}}+\frac{{{Cos(θ)^2}}}{{θ}}]$
+$(\frac{{δa}}{{a}})_{abs}∝[\frac{{{Cos^2}(θ)}}{{Sen(θ)}}+\frac{{{Cos^2}(θ)}}{{θ}}]$
 
 </div>
 
@@ -374,7 +377,7 @@ La función de **Nelson-Riley** es una función de extrapolación que se usa par
 
 <div align="center">
 
-$F(θ) = \frac{{1}}{{2}} [\frac{{{Cos(θ)^2}}}{{Sen(θ)}}+\frac{{{Cos(θ)^2}}}{{θ}}]$
+$F(θ) = \frac{{1}}{{2}} [\frac{{{Cos^2}(θ)}}{{Sen(θ)}}+\frac{{{Cos^2}(θ)}}{{θ}}]$
 
 
 </div>
@@ -423,7 +426,7 @@ Hay otras funciones además de la de Nelson-Riley:
 
 <div align="center">
 
-$F(θ) = \frac{{{Cos(θ)^2}}}{{θ}}$
+$F(θ) = \frac{{{Cos^2}(θ)}}{{θ}}$
 
 </div>
 
@@ -431,7 +434,7 @@ $F(θ) = \frac{{{Cos(θ)^2}}}{{θ}}$
 
 <div align="center">
 
-$F(θ) = \frac{{{Cos(θ)^2}}}{{Sen(θ)}}$
+$F(θ) = \frac{{{Cos^2}(θ)}}{{Sen(θ)}}$
 
 </div>
 
@@ -439,7 +442,7 @@ $F(θ) = \frac{{{Cos(θ)^2}}}{{Sen(θ)}}$
 
 <div align="center">
 
-$F(θ) = cot(θ) {Cos(θ)^2}$
+$F(θ) = cot(θ) {Cos^2}(θ)$
 
 </div>
 
@@ -460,4 +463,26 @@ Teniendo en cuenta que las barras de error se traslapan, puede decirse que los v
 
 ![Param red funciones extrap tif](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/91ec3ea1-16c8-4a76-b1d7-2689780eff8a)
 
+Si la estructura cristalina no es cúbica, el cálculo de los parámetros de red es un poco diferente. Ese es el caso de la segunda fase del material con el que estamos trabajando. Esta fase es el corindón o alúmina, que exhibe **estructura cristalina hexagonal**. Esta estructura cristalina queda definida con 2 parámetros de red, _a_ y _c_.
 
+<div align="center">
+
+![Imagen7](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1249998d-77f4-4900-b87d-0793a9d2cdd5)
+
+</div>
+
+La ecuación para esta estructura cristalina es:
+
+<div align="center">
+
+$\frac{{1}}{{{d^2}}} = \frac{{4}}{{3}} \frac{{{h^2}+hk+{k^2}}}{{{a^2}}} + \frac{{l^2}}{{c^2}}$
+
+</div>
+
+Combinándola con la ley de Bragg, tenemos:
+
+<div align="center">
+
+${sen^2}(θ) = \frac{{{λ^2}}}{{4}} (\frac{{4}}{{3}} (\frac{{{h^2}+hk+{k^2}}}{{{a^2}}}) + \frac{{{l^2}}}{{{c^2}}})$
+
+</div>

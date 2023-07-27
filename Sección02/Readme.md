@@ -164,6 +164,14 @@ Lo giramos de tal forma que quede vertical, y lo movemos a su posición:
 
 ![Figura 80](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/82a79108-f98d-45a8-a1d2-552ca5d473f8)
 
+Podemos copiar y pegar este texto, y editarlo para escribir los índices de Miller de cada plano:
+
+![Figura 81](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ff19455d-b0ad-4ff4-b771-fd164dc90d62)
+
+Después de exportar el gráfico en *.tiff, queda así:
+
+![Patrón 2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/951016ef-3b4d-4415-942a-f693e7fb92c9)
+
 
 
 

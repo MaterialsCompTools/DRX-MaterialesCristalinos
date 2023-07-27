@@ -683,3 +683,28 @@ $ρ = \frac{{2 \sqrt {3} ε}} {{D×b}}$
 Siendo _ε_ el valor absoluto de la microdeformación, _D_ el tamaño de cristalito y _b_ el vector de Burger.
 
 Recordemos que para la estructura cristalina FCC, según la siguiente tabla, el módulo del vector de Burger es $b = \frac{{a}} {{\sqrt {3}}}$. 
+
+|     Estructura cristalina    | Dirección de deslizamiento | Vector de Burgers |
+|---------|:---------------------|:--------:|
+| CS  | <100>                |  _a_   |
+| FCC  | <110>                |  $\frac{{a}} {{\sqrt {2}}}$   |
+| BCC  | <111>                |  $\frac{{a}} {{\sqrt {3}}}$   |
+| HCP  | <100> y <110>                |  _a_   |
+
+Como ya conocemos el valor del parámetro de red porque lo calculamos con el método de Nelson-Riley, podemos calcular del valor del vector de Burger:
+
+<div align="center">
+
+$b = \frac{{4.05424 Å}} {{\sqrt {3}}}$ = 2.34072 Å = 0.234072 nm
+
+</div>
+
+Calculando la densidad de dislocaciones:
+
+<div align="center">
+
+$ρ = \frac{{2 \sqrt {3} ε}} {{D×b}} = \frac{{2 \sqrt {3} × 00188}} {{63.62 nm × 0.234072 nm}}$ = 4.37332× ${10^5}$ $\frac{{dislocaciones}}{nm^2}$
+
+</div>
+
+Pasándolo a ${cm^2}$, tenemos 4.37 * ${10^{11}}$ $\frac{{dislocaciones}}{cm^2}$, que también pueden expresarse como 4.37 * ${10^{11}}$ cm de línea de $\frac{{dislocaciones}}{cm^3}$.

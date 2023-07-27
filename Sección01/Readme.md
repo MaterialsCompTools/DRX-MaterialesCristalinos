@@ -1,6 +1,14 @@
+<div align="center">
+
 # Indexación de picos de patrones de difracción. Herramienta computacional: MATCH!<br>
 
+</div>
+
+<div align="center">
+   
 ![Logo Match](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/08725d33-c63f-4419-971c-beb2919c74fd)
+
+</div>
 
 ## Objetivos<br>
 

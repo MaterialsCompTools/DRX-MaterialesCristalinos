@@ -23,7 +23,7 @@
 
 ## Requerimientos
 
-*	Descargar el Software [OriginPro](https://www.originlab.com/demodownload.aspx)
+*	Descargar un Demo del Software [OriginPro](https://www.originlab.com/demodownload.aspx)
 
 ## Qué es Origin
 
@@ -368,6 +368,8 @@ $(\frac{{δa}}{{a}})_{abs}∝[\frac{{{Cos(θ)^2}}}{{Sen(θ)}}+\frac{{{Cos(θ)^2}
 
 </div>
 
+### Función de extrapolación de Nelson-Riley
+
 La función de **Nelson-Riley** es una función de extrapolación que se usa para calcular el parámetro de red. El método consiste, entonces, en calcular el parámetro de red para cada pico difractado de la fase, y hacer un gráfico de esos parámetros de red versus la función de Nelson-Riley, que también se calcula para cada pico. En el gráfico, el corte corresponde al valor real del parámetro de red, mientras que la pendiente indica el error sistemático: a mayor pendiente, mayor error sistemático. A continuación, se muestra la función de Nelson-Riley.
 
 <div align="center">
@@ -413,5 +415,49 @@ Después de exportada, así queda la imagen:
 
 ![Nelson Riley-2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/356bbbbe-00cc-4e85-b326-7d8714b1b1ea)
 
+### Otras funciones de extrapolación
+
+Hay otras funciones además de la de Nelson-Riley:
+
+* Bradley-Jay
+
+<div align="center">
+
+$F(θ) = \frac{{{Cos(θ)^2}}}{{θ}}$
+
+</div>
+
+* Jay
+
+<div align="center">
+
+$F(θ) = \frac{{{Cos(θ)^2}}}{{Sen(θ)}}$
+
+</div>
+
+* Buerger
+
+<div align="center">
+
+$F(θ) = cot(θ) {Cos(θ)^2}$
+
+</div>
+
+A continuación podemos comparar los resultados al usar las cuatro funciones mencioandas.
+
+![Imagen1](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/30dd7256-54c5-4c4d-a43f-6aeabf90e80b)
+
+En la siguiente tabla se hace la comparación de los valores reportados por cada método. 
+
+| Método  | Parámetro de red (Å) |
+|---------|:---------------------|
+| Nelson-Riley  | 4.05424 ± 0.00027 |
+| Bradley-Jay  | 4.05432 ± 0.00027  |
+| Jay  | 4.05416 ± 0.00027   |
+| Buerger  | 4.05463 ± 0.00026   |
+
+Teniendo en cuenta que las barras de error se traslapan, puede decirse que los valores son bastante similares.
+
+![Param red funciones extrap tif](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/91ec3ea1-16c8-4a76-b1d7-2689780eff8a)
 
 

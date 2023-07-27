@@ -23,6 +23,14 @@ Familiarizar al estudiante con las diferentes herramientas matemáticas y comput
 
 ## Sección 2: Determinación de rasgos cristalográficos<br>
 
+<div align="center">
+
+En este apartado aprenderás a calcular algunos rasgos cristalográficos a partir de un patrón de difracción de rayos X, usando Origin como herramienta. Rasgos cristalográficos como parámetros de red, tamaño de cristalito y microdeformaciones.
+
+![Logo Origin-2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/eb742021-bbe8-4cf0-aea0-a589999f3db6)
+
+</div>
+
 |    Microcontenidos          | Contenido |
 |-------------------------------------|:---------------------|
 | [Qué es Origin](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#qu%C3%A9-es-origin)                       | En este apartado aprenderás qué es Origin.|

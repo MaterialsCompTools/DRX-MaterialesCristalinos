@@ -1,5 +1,5 @@
 # DRX-MaterialesCristalinos
-Manejo de softwares para datos de DRX<br>
+Manejo de _softwares_ para extracción de datos de Difracción de Rayos de materiales cristalinos<br>
 
 <div align="center">
   

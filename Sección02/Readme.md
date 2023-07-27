@@ -148,5 +148,22 @@ Cuando soltamos, todo queda seleccionado:
 
 ![Figura 76](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/69b46d2a-150f-4332-9494-3beaa181596e)
 
+Le damos suprimir, para borrar. Otra vez queda limpio el gráfico:
+
+![Figura 77](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/9c49c6fa-c15a-4675-98e8-125ce323113d)
+
+Clickeamos el símbolo de <kbd>T</kbd> en la barra de tareas de la izquierda para escribir un texto. Después de escrito, nos salimos de él y le damos _click_ en el centro.
+
+![Figura 78](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8c517e24-18c9-4561-8c30-39a9974b5430)
+
+Eso habilita el cuadro para girar:
+
+![Figura 79](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/3b2ae8c9-2d4f-40c7-982b-ba2866482339)
+
+Lo giramos de tal forma que quede vertical, y lo movemos a su posición:
+
+![Figura 80](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/82a79108-f98d-45a8-a1d2-552ca5d473f8)
+
+
 
 

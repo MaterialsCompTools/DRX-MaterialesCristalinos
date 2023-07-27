@@ -189,16 +189,112 @@ Ajustar los picos significa encontrar la curva o función matemática que los re
 
 *	Curva gaussiana
 
+<div align="center">
+
 $G = \frac{{ \sqrt {C_{0}} }}{{Γ_{k}\sqrt {π}}} e^{[-\frac{{ C_{0}}}{{{Γ_{k}^2}}}(2θ_{i}-2θ_{k})]};C_{0}=4ln2$
+
+</div>
 
 *	Curva Lorentziana
 
+<div align="center">
+
 $L = \frac{{ 2 \sqrt {C_{0}} }}{{ π Γ_{k}}} \frac{{1}}{{1 + \frac{{C_{0}}}{{{Γ_{k}^2}(2θ_{i}-2θ_{k})}} }};C_{0}=4$
+
+</div>
 
 * Pearson VII
 
+<div align="center">
+
 $P_{VII} = \frac{{C_{0}}}{{Γ_{k}}} {[1 + \frac{{4 ( \sqrt [m]{2} -1)}}{{{Γ_{k}^2}}}{(2θ_{i}-2θ_{k})^2}]^{-m}};C_{0} = \frac{{2 \sqrt {m} {(\sqrt [m]{2} - 1)}^{1/2} }}{{\sqrt {π(m-0.5)} }}$
+
+</div>
 
 * Pseudo-Voight, que hace una combinación entre gaussiana y lorentziana, siendo η la fracción de cada función.
 
+<div align="center">
+
 $pV = η L + (1-η) G$
+
+</div>
+
+Como ejemplo, miremos el archivo con el que estamos trabajando. Vamos a trabajar con el pico (111) de la fase del aluminio. Para ello, vamos a copiar sus datos y los vamos a copiar en otro libro dentro del proyecto de Origin. Primero, con el ícono mostrado en la siguiente figura nos vamos a parar en el inicio y en el final del pico, para saber el valor del ángulo 2Theta en el que inicia y termina. Si desea aumentar el pico, puede usar la lupa con el signo más que se ve de segundo de arriba abajo en la barra de tareas de la izquierda.
+
+![Figura 82](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/6efebff6-0afc-43df-8906-faa965ae14d8)
+
+Después de clickear en la lupa, se señala con un rectángulo –barriendo la pantalla con el _click_ izquierdo sostenido- el área que queremos aumentar.
+
+![Figura 83](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/486069e1-6130-4c16-9c4e-80976775ef5a)
+
+Así se ve el área aumentada:
+
+![Figura 84](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/df355001-a6a4-410d-9e8f-cd94f1e9ebe7)
+
+Al dar _click_ en el ícono señalado por la flecha roja que se mostró, se abre una ventana –que podemos mover clickeando en la parte de arriba, y sosteniendo el _click_ izquierdo-, que muestra el valor de 2Theta y de intensidad:
+
+![Figura 85](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/2576f228-363e-4ffb-aa28-c919eea47b52)
+
+Nos paramos cerca de donde inicia el pico, y leemos el dato de 2Theta:
+
+![Figura 86](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/05b67b54-b0b6-475f-a538-c26ab53b8fb8)
+
+Nos paramos donde termina el pico, y leemos el valor de 2Theta.
+
+![Figura 87](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/bd1aca49-31ef-4965-bb4f-0c414a9e187b)<br>
+
+Como puede verse, el pico va desde 37.75° hasta 38.98°. <br>
+Para salir del modo lectura de puntos, utilizamos la tecla de <kbd>ESCAPE</kbd> y cerramos la ventana de lectura.<br>
+Para volver la imagen al tamaño real, clickeamos en la lupa con el signo de menos.<br>
+Ahora, hacemos pequeña la ventana de la figura, y del libro resaltamos, con _clik_ izquierdo sostenido, los datos que queremos copiar. Damos <kbd>CRT+C</kbd>.<br>
+
+![Imagen2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1cf3eb51-709c-403b-8d38-d6c13745f827)
+
+Con los datos copiados, creamos otro libro:<br>
+
+![Imagen3](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/5a7b5724-b77c-4c94-8056-d6e3a32f7bad)<br>
+
+Y copiamos los datos:<br>
+
+![Figura 88](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/d08fddf0-8a5b-47c3-963a-87568073b61f)<br>
+
+Con el _click_ izquierdo sostenido señalamos ambas columnas <kbd>(A(X)</kbd> y <kbd>B(Y))</kbd> y graficamos con el logo de la línea ubicado en la parte izquierda de la barra de tareas de la parte inferior.
+
+![Figura 89](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/0184ea19-2032-4131-b636-fc55296a75f7)
+
+Con doble-_clik_ izquierdo en la parte superior de la imagen la agrandamos. Ahora, vamos a probar el ajuste con las 3 curvas que mencionamos. Para ello, nos vamos a <kbd>ANALYSIS</kbd>, <kbd>FITTING</kbd>, <kbd>SINGLE-PEAK</kbd>, <kbd>OPEN DIALOG</kbd>.
+
+![Figura 90](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/e7a84989-1a2c-41b2-9813-aa5cda526a9f)
+
+Al hacer se abre un cuadro de diálogo:
+
+![Figura 91](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b0b0809a-6ed6-4066-9c49-70772d0528ac)
+
+Abrimos la pestaña de <kbd>FUNCTIONS</kbd>:
+
+![Figura 92](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/c5faad50-e83c-42f3-8ad1-10add3368f6f)
+
+Podemos ver que aparecen varias funciones, entre ellas las que ya mencionamos: gaussiana, lorentziana y pseudo-voigt. Vamos a comparar las tres, empezando con la **gaussiana**. La escogemos:
+
+![Figura 93](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/072afe61-943a-4873-b383-1ab3ec8a2ed4)
+
+Y damos _click_ en <kbd>FIT</kbd>.
+El resultado se muestra a continuación. Puede verse que, aunque el $R^2 = 0.9877$, no están bueno. Esto indica que otra de las funciones podría ajustarse mejor a este pico.
+
+![Figura 94](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b99b1165-a29a-42af-97a0-741ba874f7ae)
+
+A continuación, se muestra el resultado con la Lorentziana, con un $R^2 = 0.9958$, que es un valor más alto que el reportado por la **Lorentziana** y el ajuste se ve mejor.
+
+![Figura 95](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b568e3bb-cc6c-46df-8eb5-f3454a0c4b53)
+
+La **Pearson VII** también da un buen ajuste, con $R^2 = 0.9971$.
+
+![Figura 96](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/0e0d6d43-bbc2-4190-8128-8f716df30d5b)
+
+La **pseudo-voigt1** es la que mejor ajuste muestra en este caso, con un $R^2 = 0.9975$.
+
+![Figura 97](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/beb6f452-d989-4a1b-82ad-a873eaf62375)
+
+
+
+

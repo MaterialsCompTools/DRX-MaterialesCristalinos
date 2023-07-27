@@ -1,4 +1,8 @@
+<div align="center">
+
 # Determinación de rasgos cristalográficos
+
+</div>
 
 <div align="center">
   
@@ -193,3 +197,8 @@ $L = \frac{{ 2 \sqrt {C_{0}} }}{{ π Γ_{k}}} \frac{{1}}{{1 + \frac{{C_{0}}}{{{�
 
 * Pearson VII
 
+$P_{VII} = \frac{{C_{0}}}{{Γ_{k}}} {[1 + \frac{{4 ( \sqrt [m]{2} -1)}}{{{Γ_{k}^2}}}{(2θ_{i}-2θ_{k})^2}]^{-m}};C_{0} = \frac{{2 \sqrt {m} {(\sqrt [m]{2} - 1)}^{1/2} }}{{\sqrt {π(m-0.5)} }}$
+
+* Pseudo-Voight, que hace una combinación entre gaussiana y lorentziana, siendo η la fracción de cada función.
+
+$pV = η L + (1-η) G$

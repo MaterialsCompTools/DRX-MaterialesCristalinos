@@ -32,7 +32,7 @@ Familiarizar al estudiante con las diferentes herramientas matemáticas y comput
 | [Ajuste de picos](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#ajuste-de-picos)                     | En este apartado aprenderás a hacer el ajuste de los picos de forma individual para extraer la información del ancho a la altura media del pico y la posición del mismo.|
 | [Cálculo de parámetros de red](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/Readme.md#c%C3%A1lculo-de-par%C3%A1metros-de-red)        | En este apartado aprenderás en qué consiste el método de las funciones de extrapolación y cómo se usa este para el cálculo de parámetros de red de estructuras cristalinas.|
 | Williamson-Hall                     | En este apartado aprenderás a aplicar el método de Williamson-Hall para calcular las microdeformaciones y el tamaño de cristalito|
-| Cálculo de densidad de dislocaciones| En este apartado aprenderás a calcular la densidad de dislocaciones.|
+| [Cálculo de densidad de dislocaciones](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/Readme.md#c%C3%A1lculo-de-densidad-de-dislocaciones)| En este apartado aprenderás a calcular la densidad de dislocaciones.|
 
 ## Sección 3: Determinación de porcentajes de fases por refinamiento Rietveld<br>
 

@@ -486,3 +486,153 @@ Combinándola con la ley de Bragg, tenemos:
 ${sen^2}(θ) = \frac{{{λ^2}}}{{4}} (\frac{{4}}{{3}} (\frac{{{h^2}+hk+{k^2}}}{{{a^2}}}) + \frac{{{l^2}}}{{{c^2}}})$
 
 </div>
+
+Sacando $1⁄{a^2}$  como factor común, nos queda:
+
+<div align="center">
+
+${sen^2}(θ) = \frac{{{λ^2}}}{{4{a^2}}} (\frac{{4}}{{3}} ({h^2}+hk+{k^2}) + \frac{{{l^2}}}{{{(c/a)^2}}})$
+
+</div>
+
+Vamos a asumir que el valor de _c/a_ es conocido (podemos encontrar el valor teórico, según el material que estemos trabajando). En el caso del corindón, el valor teórico es de 2.72892694.
+Con los picos difractados de índices de miller _(hk0)_ vamos a calcular el parámetro de red _a_, ya que la ecuación se simplifica así:
+
+<div align="center">
+
+${sen^2}(θ) = \frac{{{λ^2}}}{{4{a^2}}} (\frac{{4}}{{3}} ({h^2}+hk+{k^2}))$
+
+</div>
+
+En este caso, esos picos son los correspondientes a los planos _(110)_ y _(300)_. En el Origin miramos el ángulo 2Theta correspondiente.
+
+Teniendo en cuenta que el pico del plano _(110)_ de la alúmina está muy cerca del pico del plano (111) del aluminio, podemos hacer el ajuste con pico múltiple. Clickeamos en <kbd>ANALYSIS</kbd>, <kbd>Peaks and Baselines</kbd>, <kbd>Multiple Peak Fit</kbd>, <kbd>Open Dialog</kbd>.
+
+![Figura 105](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b1f7a94d-073e-4a8f-b146-e281f5fce01f)
+
+Al abrirse la ventana escogemos la función **Pesudo-Voigt** y damos _Ok_.
+
+![Figura 106](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/08b0252f-8da8-45e7-872c-6fca83e9975b)
+
+Al hacer esto se abre una nueva ventana que nos pide que escojamos el centro aproximado de cada pico con doble _click_ (en la flecha se señala cada centro de pico). Al dar doble _click_, cada pico queda seleccionado con una línea roja:
+
+![Figura 107](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/bedd77d0-8ee8-405f-ad82-36624070f052)
+
+Podemos ver que el mencionado pico se ubica a 37.67829°.
+
+![Figura 108](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ee4d5f72-573c-4589-ba06-f10fc529ddee)
+
+Teniendo en cuenta la baja intensidad de los picos de la fase del corindón, es mejor seleccionar varios picos y hacer el ajuste por multipicos.
+
+![Figura 109](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/11d41cbf-8aa2-4263-90a7-204fc477df0e)
+
+Los dos picos con planos _(hk0)_ son:
+
+|     Plano    | 2Theta |
+|---------|:---------------------|
+| (110)  | 37.67829 |
+| (300)  | 68.10284  |
+
+Haciendo los cálculos con **EXCEL**, encontraremos el valor del parámetro de red a del corindón para dos picos difractados.
+
+![Figura 110](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/14902183-933a-46f8-b9a6-d4fea2255bb3)
+
+De nuevo, podemos usar una función de extrapolación para calcular el valor real del parámetro de red. Usemos la de **Nelson-Riley**.
+
+![Figura 111](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/90236524-fd63-4dcc-b17f-834f56f16b35)
+
+Según esto, el parámetro de red $a = 4.76523 Å$.
+
+![N-R corindón a - 2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/0f66a615-e765-4d51-a90b-2c9afe1b2455)
+
+Ahora, teniendo el valor del parámetro de red _a_, podemos proceder con el cálculo del parámetro de red _c_. Usando los valores de la difracción de los planos _(102)_, _(113)_ y _(116)_ (porque el valor reportado por el pico del plano _(104)_ se sale de la tendencia), el resultado es el siguiente:
+
+![Par red c corindón n-r - 2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1c3e98fd-9613-4694-aa08-6271a021795d)
+
+Por lo tanto, usando el método de la función de extrapolación y las ecuaciones de la ley de Bragg y las que relacionan distancia interplanar con los índices de Miller y los parámetros de red pudimos calcular los parámetros de red de las dos fases que componen el material:
+
+*	Aluminio, de estructura cristalina FCC, con _a_ = 4.05424 ± 0.00027 Å
+*	Corindón, de fórmula química $Al_{2}O_{3}$ y estructura cristalina hexagonal compacta, con _a_ = 4.76523 Å y _c_ = 12.97831 ± 0.00645 Å.
+
+## Cálculo de tamaño de cristalito y microdeformaciones
+
+### Ensanchamiento de picos
+
+Si los rayos X incidieran y fuera difractados de forma perfectamente paralela entre ellos, no debería producirse un pico ancho, sino una sola línea de difracción.
+
+<div align="center">
+
+![Imagen2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/e4f5adc8-1280-4c5a-a0e8-94cfe5f667fc)
+
+</div>
+
+Sin embargo, los rayos X que inciden sobre la muestran no llegan paralelos entre ellos, sino ligeramente paralelos. Esto causa el ensanchamiento de la línea.
+
+![Figura 112](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/7b1ffc32-8eff-4249-b778-f23a77128707)
+
+Ese tipo de ensanchamiento se denomina instrumental y debe corregirse. Para determinar el ensanchamiento instrumental se utiliza una muestra de calibración, la cual debe tener un tamaño de cristalito mayor a 100 nm, no poseer microtensiones y, si es posible, tener cristalitos uniformes.
+
+<div align="center">
+
+![Figura 113](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8b379313-209a-4edc-9e2d-3b55ce78d17a)
+
+</div>
+
+La corrección se hace al FWHM, ancho a la altura media de cada pico, usando la siguiente ecuación:
+
+<div align="center">
+
+$FWHM = {[{(FWHM_{medido})^2}-{(FWHM_{instrumental})^2}]^{1/2}}$
+
+</div>
+
+Para esto, debe sacarse una ecuación de FWHM en función de θ para, a partir de ella, calcular el ancho instrumental a un determinado ángulo y restarlo a cada pico de nuestro patrón de difracción que nos interese corregir. Para esto se requiere un concepto que veremos a profundidad más adelante, que es el de refinamiento, ya que el patrón de difracción de la muestra de calibración debe refinarse. La ecuación usada es la de Caglioti, que tiene la siguiente forma:
+
+<div align="center">
+
+${FWHM^2} = U {tan^2}(θ) + V tan(θ) + W$
+
+</div>
+
+Además del ensanchamiento instrumental, también hay un efecto del tamaño de cristalito y de las microdeformaciones del cristal en el ensanchamiento de los picos difractados.
+
+Asumiendo que ∆θ es el ensanchamiento del pico después de haber restado el ensanchamiento instrumental,  el método de **Williamson-Hall** asume que éste es debido a microdeformaciones de la red y a la disminución del tamaño de cristalito (regiones realmente cristalinas dentro de los granos), por debajo de los 100 nm.
+
+<div align="center">
+
+$∆θ = β_{D} + β_{ε}$
+
+</div>
+
+Siendo $β_{D}$ el ensanchamiento causado por el tamaño de cristalito y $β_{ε}$ el ensanchamiento causado por las microdeformaciones.
+La ecuación del ensanchamiento por tamaño de cristalito tiene la siguiente forma:
+
+<div align="center">
+
+$β_{D} = \frac{{kλ}}{{D cos(θ)}}$
+
+</div>
+
+Donde _k_ típicamente es igual a 0.9, aunque depende de la forma del cristalito; _λ_ es la longitud de onda de los rayos X incidentes; _θ_ es medio ángulo de difracción; y _D_ es la dimensión lineal del cristalito, como el diámetro.
+
+La ecuación del ensanchamiento por microdeformaciones tiene la siguiente forma:
+
+<div align="center">
+
+$β_{ε} = 4 ε tan(θ)$
+
+</div>
+
+Donde _θ_ es medio ángulo de difracción y _ε_ es la medida de las microdeformaciones.
+
+Remplazando los términos del ensanchamiento por tamaño de cristalito y por microdeformaciones en la ecuación del ensanchamiento y reacomodando los términos, tenemos la siguiente ecuación:
+
+<div align="center">
+
+$FWHM cos(θ) = \frac{{0.9λ}}{{D)}} + 2 ε sen(θ)$
+
+</div>
+
+El método de Williamson-Hall consiste, entonces, en calcular el ancho a la altura media de cada pico y su ángulo de difracción y hacer un gráfico de **FWHM×cos⁡θ** _versus_ **2sin⁡θ**. El resultado es una línea recta, cuya pendiente corresponde a la microdeformación y a partir de la pendiente, con la longitud de onda de los rayos X difractado, se puede calcular el tamaño de cristalito.
+
+Vamos a hacer el cálculo para el aluminio de nuestro patrón de difracción de rayos X. Como ya habíamos ajustado los picos según la curva pseudo-voigt, vamos a colocar la información que requerimos en una tabla de EXCEL.

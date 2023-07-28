@@ -60,4 +60,6 @@ Los parámetros de refinamiento son:<br>
 * Los parámetros de red
 * Los coeficientes en la función del perfil
 
-Ya veíamos las funciones más utilizadas para simular los picos difractados:
+Ya veíamos las funciones más utilizadas para simular los picos difractados, en el apartado de [Picos difractados](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#ajuste-de-picos)
+
+

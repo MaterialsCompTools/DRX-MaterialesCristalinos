@@ -292,3 +292,13 @@ Esto nos abre una ventana que se denomina **Refinement Information**. En la part
 Con esta acción queda cargado nuestro archivo **.BGR**.
 
 ## Refinamiento de la primera fase
+
+Estando en el Editor de archivos PCR, clickeamos en el botón de <kbd>Refinement</kbd>. La ventana que se abre consta de 5 zonas. Nos dirigimos a la zona de **Atoms** (zona inferior derecha) y clickeamos en <kbd>Profile</kbd>. Eso nos abre una nueva ventana (**Profile Parameters: Phase 1**). Señalamos la casilla de <kbd>Scale</kbd> de la parte de <kbd>Coefficients</kbd>. Al señalar una casilla lo que hacemos es decirle al sistema que haga iteraciones no dejándola fija. Es decir, puede variar su valor. Lo que no se señala queda fijo para el programa. Señalamos y damos _click_ en <kbd>OK</kbd> y <kbd>OK</kbd>. Posteriormente guardamos cambios con el botón del disco azul.
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/803df668-a2b6-4bd9-af87-5cbd106a23a8)
+
+Para pedirle al software que lleve a cabo las iteraciones de refinamiento damos _click_ en el logo que se muestra a continuación del Editor de archivos PCR. Cuando hago eso, él me pide confirmaciónd el archivo con el que estamos trabajando. Lo seleccionamos para confirmar.
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/e0636a61-ab7e-4e46-8cb1-2caac3e80f97)
+
+ 

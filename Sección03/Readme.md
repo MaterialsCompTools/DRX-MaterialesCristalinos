@@ -234,7 +234,22 @@ Ya tenemos listos los 4 archivos
 
 ![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/804fed5b-cbf6-4df9-b285-c95ae419a00c)
 
+## Creación de archivo .PCR de la primera fase
 
+Abrimos el _software_ FullProf. Esto abre la barra de tareas.
 
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/db4576d4-6005-4c8b-b070-817ebe05249c)
 
+Abrimos <kbd>ED PCR</kbd>. Eso hace que se abra una ventana, como se ve abajo, que es el **editor de archivos PCR**. Usamos el ícono de CIF $\rightarrow$ Pcr.
 
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/dc5941fb-0348-4ff1-afa2-d3c12dab3e02)
+
+Damos doble _click_ al archivo de la fase con la que vamos a trabajar. En este caso, **Al.cif**. Esto abre una ventana con la información cristalográfica de la fase, como los parámetros de red y el grupo espacial. Verificamos que la información corresponda a la de nuestra fase y damos <kbd>OK</kbd>.
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/109d7ddb-a8d0-45f4-8259-28a98ab0c0bf)
+
+Con esta acción volvemos a quedar en el editor de archivos PCR. Aquí podemos observar 7 botones. Vamos a trabajar sobre los 3 primeros: <kbd>General</kbd>, <kbd>Patterns</kbd> y <kbd>Phases</kbd>.
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b5da99f2-b80e-4452-a34a-186909c6521d)
+
+Primero damos _click_ en <kbd>General</kbd>

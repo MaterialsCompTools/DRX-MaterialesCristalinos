@@ -146,3 +146,95 @@ Guardamos los archivos con extensión **.CIF** de las fases que vamos a refinar.
 
 ### Archivos .DAT
 
+El archivo de nuestro patrón de difracción con extensión .DAT que usa FullProf tiene algunas algunas características: En la primera fila deben ir el ángulo 2Theta de inicio de los datos; el paso (que es la diferencia que hay de un punto a otro); y el ángulo 2 Theta de finalización de los datos. Después tenemos columnas de datos con la información de las intensidades.
+
+![Imagen7](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1d46d055-c4dd-4013-8847-36d79fbad6ab)
+
+Para descargar este archivo de MATCH! vamos a <kbd>File</kbd>, <kbd>Export</kbd> y <kbd>Profile data</kbd>. 
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/973dccd4-1fe1-45f0-8848-59b3405766f7)
+
+Al dar _click_ se nos abre una ventana que nos pregunta la ruta para guardar el archivo (la seleccionamos o buscamos), el nombre del archivo (lo cambiamos si es necesario) y el **tipo de archivo**. Desplegamos la ventana y escogemos <kbd>Profile (start,step,end, intensities)(*dat)</kbd>.
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/97dfbd39-abeb-4ba7-8636-9342ad891802)
+
+Al dar _click_ se nos genera el archivo:
+
+![Imagen9](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1e51604f-ed7d-42e6-a580-909c6766d7a1)
+
+### Archivo .BGR
+
+Para crear el archivo con extensión **.BGR** abrimos el FullProf. De la barra de tareas clickeamos en el botón que se muestra a continuación. 
+
+![Imagen11](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1120204b-b01d-480f-a4cd-3cfcdb6108aa)
+
+Esto abre la ventana de **WinPLOTR**. Ahí damos _click_ en <kbd>File</kbd>
+
+![Imagen14](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/7d7aef94-f2a9-4610-bb79-4a6557125572)
+
+Damos _click_ en <kbd>Open pattern file </kbd>
+
+![Imagen15](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/c9f724c8-b66e-4429-858f-adb05a76b0ed)
+
+Seleccionamos la segunda opción y damos <kbd>OK</kbd>.
+
+![Imagen16](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8a973a09-2e71-4a3b-ba58-c6ac9d701d92)
+
+Abrimos el archivo **.DAT** que habíamos guardado:
+
+<div align="center">
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/2b525664-c467-4cde-8cab-9cd592acfa05)
+
+</div>
+
+Esta acción abre el archivo
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/c18ded0b-4909-44e3-a129-5c22e5e724fb)
+
+En <kbd>Points Selection</kbd> escogemos <kbd>Automatic Background<7kbd>
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/84cfe6c7-406f-4070-a8ec-3d4f43a63292)
+
+Eso nos abre una ventana que nos pide información.
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/445697b8-07c5-46f0-ad6c-064a3bf98380)
+
+En <kbd>Background threshold</kbd> un valor entre 0.05 y 0.07 funciona bien. Esto está relacionado con la cantidad de puntos que tendrá el archivo del background.
+
+La cantidad de puntos generada fue de 68. Podemos cerrar la ventanita.
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/fd1a476c-7bc1-471b-a15b-a257ec6e3603)
+
+Puede verse que en azul está representado nuestro patrón experimental, y en verde aparecen los puntos del _background_.
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/2e5d8a81-1a2b-4c68-b6d1-c007c5fefe2d)
+
+Para guardar los datos vamos a <kbd>Points Selection</kbd>  y escogemos <kbd>SaVe background points</kbd>. Nospregunta, y le decimos que <kbd>sí</kbd>.
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/81b02afe-f2ac-4d6b-8838-9c563a16f630)
+
+Nombramos el archivo, cuidando de que la extensión sea **.BGR**.
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/40d3e82e-a97d-47a2-a8ca-9b022bbf62d5)
+
+Se nos confirma que se ha creado el archivo con la cantidad de puntos correspondiente.
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/3a9e60c0-ac85-4cbd-9f1f-adcaadf5e782)
+
+Si se desea, podemos editar el archivo. Yo diré que no.
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/eab694f6-8003-427a-9e5f-a2eab524f6a3)
+
+Ya tenemos listos los 4 archivos
+
+* 2 archivos **.CIF** con la información cristalográfica de las fases <br>
+* 1 archivo **.DAT** con la información experimental del patrón DRX que vamos a refinar<br>
+* 1 archivo **.BGR** con la información del background o radiación de fondo<br>
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/804fed5b-cbf6-4df9-b285-c95ae419a00c)
+
+
+
+
+

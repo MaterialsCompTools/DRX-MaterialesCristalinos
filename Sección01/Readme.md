@@ -277,3 +277,7 @@ Escogemos la opción de 2 columnas: 2Theta Intensity.
 El archivo resultante queda de dos columnas. La de la izquierda corresponde al ángulo 2Theta y la de la derecha a la intensidad.
 
 ![Figura 47](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/3acff0f5-aad1-43e1-9959-a605d503bfad)
+
+##
+
+![Imagen18](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/2f8eec20-a779-4e30-9981-dea14550742a)

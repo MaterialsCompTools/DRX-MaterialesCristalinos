@@ -297,7 +297,7 @@ Estando en el Editor de archivos PCR, clickeamos en el botón de <kbd>Refinement
 
 ![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/803df668-a2b6-4bd9-af87-5cbd106a23a8)
 
-Para pedirle al software que lleve a cabo las iteraciones de refinamiento damos _click_ en el logo que se muestra a continuación del Editor de archivos PCR. Cuando hago eso, él me pide confirmaciónd el archivo con el que estamos trabajando. Lo seleccionamos para confirmar.
+Para pedirle al _software_ que lleve a cabo las iteraciones de refinamiento damos _click_ en el logo que se muestra a continuación del Editor de archivos PCR. Cuando hago eso, él me pide confirmaciónd el archivo con el que estamos trabajando. Lo seleccionamos para confirmar.
 
 ![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/e0636a61-ab7e-4e46-8cb1-2caac3e80f97)
 

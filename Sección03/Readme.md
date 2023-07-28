@@ -97,7 +97,52 @@ Para trabajar con esta herramienta se requieren 3 archivos de entradas con las s
 
 ### Archivos .CIF
 
-El archivo con extensión .CIF puede descargarse de MATCH! Es el archivo que usamos para llevar a cabo la indexación. Para ello, abrimos nuestro archivo en MATCH! y abrimos el <kbd>DATA SHEET</kbd> de nuestra fase. Haciendo click en el número al lado de <kbd>Link to orig. entry</kbd> podemos descargar el archivo.
+El archivo con extensión .CIF puede descargarse de MATCH! Es el archivo que usamos para llevar a cabo la indexación. Para ello, abrimos nuestro archivo en **MATCH!** y abrimos el <kbd>DATA SHEET</kbd> de nuestra fase. Haciendo click en el número al lado de <kbd>Link to orig. entry</kbd> podemos descargar el archivo.
 
 ![Figura 115](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/baadf049-19aa-45f2-a13c-f6ee4a558234)
+
+Esto automáticamente descarga el archivo, que queda con el nombre según el número:
+
+<div align="center">
+
+![Figura 116](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/6faa544e-f815-47ce-95ec-da947538362a)
+
+</div>
+
+Se recomienda cambiarle al nombre según la fase de trabajo.
+
+Otra opción para descargar un archivo con extensión **.CIF** sin acceder al MATCH!, es yendo directamente a la **base de datos** [Crystallography Open Database](http://www.crystallography.net/cod/)
+
+
+<div align="center">
+
+![Imagen1](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/f32b19c5-9657-44f4-aaa6-2254bc7ba4ae)
+
+</div>
+
+Damos _click_ en <kbd>SEARCH</kbd>, en el menú de la parte izquierda:
+
+![Imagen2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/7150132d-d5b2-4db2-a7e0-e912e6934c10)
+
+Inmediatamente se abre una nueva página, que nos pide información sobre la fase de la que necesitamos el archivo **.CIF**. Escribimos el nombre o fórmula química de la fase. Para efectos de este ejercicio práctico empezaremos con la fase 1, que es la de aluminio.
+
+![Imagen3](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/3013dd04-757e-4b19-9f7b-452414ad5735)
+
+Esto nos despliega una lista de todos los archivos relacionados.
+
+![Imagen4](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ccd76213-61fc-4a9b-8dad-03f0a1e37d4b)
+
+Damos _click_ en aquel que corresponda químicamente a nuestro material. Inmediatamente el archivo se descarga.
+
+![Imagen5](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8d0bf813-8828-449b-8a36-86ef41b8bec0)
+
+De nuevo, se recomienda cambiarle al nombre según la fase de trabajo.
+
+**NOTA**: lo más adecuado es descargar el archivo de MATCH! porque será el de mejor coincidencia con nuestro patrón experimental. Esto facilitará las cosas a la hora del refinamiento Rietveld.
+
+Guardamos los archivos con extensión **.CIF** de las fases que vamos a refinar. En nuestro caso, alumunio y alúmina ($Al_2O_3$)
+
+![Imagen6](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/66b553db-bd99-44ab-85a4-4df655dc4b7f)
+
+### Archivos .DAT
 

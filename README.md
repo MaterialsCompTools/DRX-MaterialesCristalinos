@@ -55,7 +55,7 @@ En este apartado aprenderás a calcular algunos rasgos cristalográficos a parti
 |    Microcontenidos          | Contenido |
 |-----------------------------|:---------------------|
 | Qué es FullProf                             | En esta apartado aprenderás qué es FullProf|
-| Refinamiento Rietveld                       | En este apartado aprenderás qué es el método Rietveld.|
+| [Refinamiento Rietveld](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/Readme.md#refinamiento-rietveld)                       | En este apartado aprenderás qué es el método Rietveld.|
 | Preparación de archivos                     | En este apartado aprenderás a preparar los archivos para llevar a cabo el refinamiento con FullProf: .CIF, .DAT y .BGR.|
 | Interfaz                                    |En este apartado aprenderás cómo es la interfaz del FullProf.|
 | Creación del archivo .PCR de la primera fase| En este apartado aprenderás a crear el archivo .PCR de la primera fase|

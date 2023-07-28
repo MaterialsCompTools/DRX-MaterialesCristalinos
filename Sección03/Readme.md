@@ -290,3 +290,5 @@ Esto nos abre una ventana que se denomina **Refinement Information**. En la part
 ![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/29274e92-bab3-4b2d-98c0-0c70c76f953c)
 
 Con esta acción queda cargado nuestro archivo **.BGR**.
+
+## Refinamiento de la primera fase

@@ -70,7 +70,7 @@ En este apartado aprenderás a refinar patrones de difracción para conocer porc
 | [Refinamiento Rietveld](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/Readme.md#refinamiento-rietveld)                       | En este apartado aprenderás qué es el método Rietveld.|
 | [Preparación de archivos](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n03#preparaci%C3%B3n-de-archivos)                     | En este apartado aprenderás a preparar los archivos para llevar a cabo el refinamiento con FullProf: .CIF, .DAT y .BGR.|
 | [Creación del archivo .PCR de la primera fase](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/Readme.md#creaci%C3%B3n-de-archivo-pcr-de-la-primera-fase)| En este apartado aprenderás a crear el archivo .PCR de la primera fase|
-| Cargue del archivo .BGR                     | En este apartado aprenderás a cargar el archivo .BGR|
+| [Cargue del archivo .BGR](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n03#cargue-del-archivo-bgr)                     | En este apartado aprenderás a cargar el archivo .BGR|
 | Refinamiento de la primera fase             | En este apartado aprenderás a cómo llevar a cabo el refinamiento paso a paso de la primera fase del material usando FullProf|
 | Creación del archivo .PCR de la segunda fase| En este apartado aprenderás a crear el archivo .PCR de la segunda fase|
 | Adición del archivo .PCR de la segunda fase al de la primera fase| En este apartado aprenderás a adicionar la información del archivo .PCR de la segunda fase en el archivo .PCR de la primera fase|

@@ -279,3 +279,14 @@ Esto nos crea el archivo con extensión **.PCR**. Lo nombramos con el nombre de 
 ![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/2f5d5841-36d8-48ea-86db-a4ae13ad03bc)
 
 
+## Cargue del archivo .BGR
+
+Para cargar el archivo de extensión **.BGR** vamos al Editor de archivos PCR y damos _click_ en el botón de <kbd>Refinement</kbd>.
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/45991576-79ca-4859-93fe-496eebd88516)
+
+Esto nos abre una ventana que se denomina **Refinement Information**. En la parte de <kbd>Cycles of Refinement</kbd> colocamos **40**, que es un valor adecuado. Abajo al lado derecho clickeamos en <kbd>Background</kbd>. Eso nos abre la ventana de **Linear interpolation between a set of Background Points**. Clickeamos en <kbd>Import from Background File</kbd>. Eso nos abre una ventana para buscar nuestro archivo con extensión **.BGR**. Lo cargamos. Al cargar el archivo, la ventanita de **Number of Points** debe actualizarse, y debe aparecer ahí el número de puntos de nuestro archivo de _Backgroound_. Damos <kbd>OK</kbd> y <kbd>OK</kbd>.
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/29274e92-bab3-4b2d-98c0-0c70c76f953c)
+
+Con esta acción queda cargado nuestro archivo **.BGR**.

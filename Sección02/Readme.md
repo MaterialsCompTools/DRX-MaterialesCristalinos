@@ -708,3 +708,8 @@ $ρ = \frac{{2 \sqrt {3} ε}} {{D×b}} = \frac{{2 \sqrt {3} × 00188}} {{63.62 n
 </div>
 
 Pasándolo a ${cm^2}$, tenemos 4.37 * ${10^{11}}$ $\frac{{dislocaciones}}{cm^2}$, que también pueden expresarse como 4.37 * ${10^{11}}$ cm de línea de $\frac{{dislocaciones}}{cm^3}$.
+
+##
+
+![Imagen18](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/80157826-863f-40fb-919c-40449bfe4e9e)
+

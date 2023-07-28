@@ -1,8 +1,10 @@
+<div align="center">
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1befebba-8e78-4b03-b2ae-611376543a23)
+
 # DRX-MaterialesCristalinos
 Manejo de _softwares_ para extracción de datos de Difracción de Rayos X de materiales cristalinos<br>
 
-<div align="center">
-  
 ![DRX- presentación-2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/03bfc4cb-fb9a-429c-a7b8-94004ef78fe8)
 </div>
 
@@ -52,11 +54,20 @@ En este apartado aprenderás a calcular algunos rasgos cristalográficos a parti
 
 ## Sección 3: Determinación de porcentajes de fases por refinamiento Rietveld<br>
 
+<div align="center">
+
+En este apartado aprenderás a refinar patrones de difracción para conocer porcentajes de fases.
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/46330209-5479-47d2-a44d-5d68836d5ee4)
+
+</div>
+
+
 |    Microcontenidos          | Contenido |
 |-----------------------------|:---------------------|
 | [Qué es FullProf](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/Readme.md#qu%C3%A9-es-fullprof)                             | En esta apartado aprenderás qué es FullProf|
 | [Refinamiento Rietveld](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/Readme.md#refinamiento-rietveld)                       | En este apartado aprenderás qué es el método Rietveld.|
-| Preparación de archivos                     | En este apartado aprenderás a preparar los archivos para llevar a cabo el refinamiento con FullProf: .CIF, .DAT y .BGR.|
+| [Preparación de archivos](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n03#preparaci%C3%B3n-de-archivos)                     | En este apartado aprenderás a preparar los archivos para llevar a cabo el refinamiento con FullProf: .CIF, .DAT y .BGR.|
 | Interfaz                                    |En este apartado aprenderás cómo es la interfaz del FullProf.|
 | Creación del archivo .PCR de la primera fase| En este apartado aprenderás a crear el archivo .PCR de la primera fase|
 | Cargue del archivo .BGR                     | En este apartado aprenderás a cargar el archivo .BGR|
@@ -66,3 +77,11 @@ En este apartado aprenderás a calcular algunos rasgos cristalográficos a parti
 | Refinamiento de la segunda fase             | En este apartado aprenderás a cómo llevar a cabo el refinamiento paso a paso de la segunda fase del material usando FullProf|
 | WinPlotr                                    | En este apartado aprenderás a usar WinPlotr para extraer información después del refinamiento.|
 | Archivos de salida                          | En este apartado aprenderás a extraer la información después del proceso de refinamiento.|
+
+<div align="center">
+
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/6bc14cd6-c0e2-4ec2-85cb-edf022336c61)
+
+[Formulario de admisión](https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL)
+
+</div>

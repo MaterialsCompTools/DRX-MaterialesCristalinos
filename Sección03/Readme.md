@@ -60,8 +60,8 @@ Los parámetros de refinamiento son:<br>
 * Los parámetros de red
 * Los coeficientes en la función del perfil
 
-Ya veíamos las funciones más utilizadas para simular los picos difractados, en el apartado de [Picos difractados](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#ajuste-de-picos)
-También veíamos las causas del ensanchamiento de los picos.
+Ya veíamos las funciones más utilizadas para simular los [Picos difractados](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#ajuste-de-picos)<br>
+También veíamos las causas del [ensanchamiento de los picos](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#ensanchamiento-de-picos)
 
 El ancho para una curva Gaussiana puede escribirse así:
 

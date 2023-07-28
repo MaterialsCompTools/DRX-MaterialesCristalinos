@@ -18,6 +18,10 @@
 
 * Descargar la versión del software que más le convenga: [FullProf Suite](https://www.ill.eu/sites/fullprof/php/downloads.html)
 
+## Qué es FullProf
+
+FullProf es una herramienta para el refinamiento rietveld de forma automatizada.
+
 ## Refinamiento Rietveld
 
 Es una técnica de refinamiento con precisión alta que se usa para determinar los parámetros estructurales de una muestra de análisis. Esto se hace a partir de la construcción de un modelo teórico que se ajuste al patrón de difracción experimental, usando el métodod de mínimos cuadrados.
@@ -67,6 +71,33 @@ El ancho para una curva Gaussiana puede escribirse así:
 
 <div align="center">
 
-
+$Γ_G= U tan^2 (θ) + V tan(θ) +W + \frac{{V}}{{cos^2 (θ)}}$
 
 </div>
+
+El ancho para una curva Lorentziana puede escribirse así:
+
+<div align="center">
+
+$Γ_L= Y tan (θ) + \frac{{X}}{{cos (θ)}}$
+
+</div>
+
+U y Y corresponden a la contribución al ensanchamiento por las microdeformaciones<br>
+X y P corresponden a la contribución al ensanchamiento por el tamaño de cristalito<br>
+V y W corresponden al ensanchamiento instrumental<br>
+
+## Preparación de archivos
+
+Para trabajar con esta herramienta se requieren 3 archivos de entradas con las siguientes extensiones:
+
+* **.CIF** es el archivo que contienen la información cristalográfica de la fase que se va a refinar
+*  **.DAT** es el archivo que se exporta de MATCH!, que contiene la información experimental del patrón a refinar
+*  **.BGR** es el archivo que contiene los puntos del _background_ o radiación de fondo
+
+### Archivos .CIF
+
+El archivo con extensión .CIF puede descargarse de MATCH! Es el archivo que usamos para llevar a cabo la indexación. Para ello, abrimos nuestro archivo en MATCH! y abrimos el <kbd>DATA SHEET</kbd> de nuestra fase. Haciendo click en el número al lado de <kbd>Link to orig. entry</kbd> podemos descargar el archivo.
+
+![Figura 115](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/baadf049-19aa-45f2-a13c-f6ee4a558234)
+

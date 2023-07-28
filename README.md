@@ -56,7 +56,7 @@ En este apartado aprenderás a calcular algunos rasgos cristalográficos a parti
 
 <div align="center">
 
-En este apartado aprenderás a refinar patrones de difracción para conocer porcentajes de fases.
+En este apartado aprenderás a refinar patrones de difracción para conocer porcentajes de fases.<br>
 
 ![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/46330209-5479-47d2-a44d-5d68836d5ee4)
 

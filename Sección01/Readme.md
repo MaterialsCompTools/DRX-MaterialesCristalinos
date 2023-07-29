@@ -60,7 +60,7 @@ En este apartado vamos a trabajar con archivos XRDML. Esta es una extensión de 
 
 <div align="center">
    
-   ![Logo PANalytical](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/0e26da7f-eeb9-40e1-a9e1-bfc3da9c9a24)
+   ![Logo PANalytical](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20panalytical%20PNG.png)
 
 </div>
 

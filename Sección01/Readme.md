@@ -68,7 +68,7 @@ En este apartado vamos a trabajar con archivos XRDML. Esta es una extensión de 
 
 A continuación, se muestra la interfaz del _software_ al abrirlo. En la parte izquierda, grande, se ubica el panel donde se verá el patrón de difracción después de cargar el archivo. En la parte derecha se observa la tabla periódica, de donde se podrán escoger los elementos químicos que componen el material o la muestra, según su composición elemental. En la parte inferior izquierda aparecerán los patrones con los que se podría hacer match, mientras que en la parte inferior derecha aparecerán los que seleccionemos.
 
-![Figura 1](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/S1%20Figura%201.png)
+![Figura 1](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image003.png)
 
 ## Cargue de archivo
 

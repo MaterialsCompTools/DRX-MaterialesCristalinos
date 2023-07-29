@@ -79,7 +79,7 @@ En este apartado aprenderás a refinar patrones de difracción para conocer porc
 
 <div align="center">
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/6bc14cd6-c0e2-4ec2-85cb-edf022336c61)
+![Certificado](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Certificado%20PNG.png)
 
 [Formulario de admisión](https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL)
 

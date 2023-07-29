@@ -18,7 +18,7 @@ Familiarizar al estudiante con las diferentes herramientas matemáticas y comput
 
 En este apartado aprenderás a indexar patrones de DRX con ayuda de MATCH!
 
-![Logo Match](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20MATCH-2.png)
+![Logo Match](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20MATCH-5.png)
              
 
 |    Microcontenidos     | Contenido |

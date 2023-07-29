@@ -74,15 +74,14 @@ A continuación, se muestra la interfaz del _software_ al abrirlo. En la parte i
 
 Para cargar el archivo _clickeamos_ en <kbd>File</kbd> y posteriormente en <kbd>Open</kbd>.
 
-<img width="960" alt="Figura 3" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/93a216b2-4318-4c23-a2d4-a22cb6192545">
-
+![Figura 2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image004.png)
 En la ventana que se abre buscamos el archivo, lo seleccionamos, y damos _click_ en <kbd>Abrir</kbd>.
 
-![Figura 2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image004.png)
+![Figura 5](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image005.png)
 
 Al hacer esto, se carga el patrón de difracción en el panel superior izquierdo de la pantalla. En azul puede verse el patrón de difracción experimental que cargué y en naranja se ve el _background_, que más adelante se explica qué es.
 
-![Figura 5](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image005.png)
+![Figura 6](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image006.png)
 
 ## Preparación del archivo
 
@@ -90,25 +89,25 @@ Ya cargado el archivo, con la pestaña <kbd>Pattern</kbd> lo preparamos para el 
 ### Primer paso
 Podemos revisar y/o cambiar la longitud de onda. Para ello, se hace _click_ en <kbd>Pattern</kbd> y posteriormente en <kbd>Wavelength</kbd>.
 
-![Figura 6](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image006.png)
+![Figura 7](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image007.png)
 
 Al hacer esto, se abre la siguiente ventana. 
 
-![Figura 7](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image007.png)
+![Figura 8](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image008.png)
 
 Al dar _click_ en la pestañita, se despliega la siguiente lista. En este caso, la muestra se analizó con fuente de cobre, por eso sale resaltado en azul la longitud de onda correspondiente con **Cu-kα**.
 
-![Figura 8](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image008.png)
+![Figura 9](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image009.png)
 
 ### Segundo paso
 
 Vamos a eliminar la intensidad de los picos causada por la difracción **kα-2**. Primero veamos cómo se ve este, al hacer zum a 2 picos de ángulo de difracción alto (que es donde más se nota):
 
-![Figura 9](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image009.png)
+![Figura 10](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image010.png)
 
 Para eliminarla, hacemos _click_ en <kbd>Pattern</kbd> y en <kbd>Strip K-alpha2</kbd>. Sin embargo, es común que esto no esté habilitado en la versión Demo. 
 
-![Figura 10](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image010.png)
+![Figura 11](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image011.png)
 
 Al hacer esto, la intensidad en los picos relacionada con esta difracción desaparece, tal como se ve a continuación:
 

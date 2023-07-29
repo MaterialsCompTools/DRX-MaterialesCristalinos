@@ -6,7 +6,7 @@
 
 <div align="center">
    
-![Logo Match](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/08725d33-c63f-4419-971c-beb2919c74fd)
+![Logo Match](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20MATCH-5.png)
 
 </div>
 

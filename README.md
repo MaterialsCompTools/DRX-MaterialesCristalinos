@@ -1,6 +1,6 @@
 <div align="center">
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1befebba-8e78-4b03-b2ae-611376543a23)
+![Logo CGTEI](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20CGTEI%20png.png)
 
 # DRX-MaterialesCristalinos
 Manejo de _softwares_ para extracción de datos de Difracción de Rayos X de materiales cristalinos<br>

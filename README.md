@@ -5,7 +5,7 @@
 # DRX-MaterialesCristalinos
 Manejo de _softwares_ para extracción de datos de Difracción de Rayos X de materiales cristalinos<br>
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/175bad1e-c661-4ff7-a0e9-768e3f8c7500)
+![Logo curso](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20curso-3%20png.png)
 
 </div>
 

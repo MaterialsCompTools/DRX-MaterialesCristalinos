@@ -92,7 +92,7 @@ Lo primero que vamos a hacer es hacer la indexación de los picos y las fases. P
 
 ![Figura 64](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image064.png)<br>
 
-![Figura 65](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image065.png)<br>
+![Figura 65](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image065_2.png)<br>
 
 Para escribir sobre el gráfico, clickeamos en la <kbd>T</kbd> de la barra de tareas del lado izquierdo. Después de clickear, nos paramos en el punto donde queremos escribir. En la parte baja de la barra superior encontramos los botones para cambiar el tipo de letra, tamaño, color, etc.
 

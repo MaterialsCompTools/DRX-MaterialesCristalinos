@@ -251,9 +251,11 @@ Con esta acción volvemos a quedar en el editor de archivos PCR. Ahora damos _cl
 
 En la ventana que se abre vamos a marcar <kbd>X-ray</kbd> en la parte de **Type of Pattern**. En la parte de **Peak Shape** vamos a seleccionar <kbd>Pseudo-voigt</kbd> y damos <kbd>OK</kbd>. Con esto volvemos a la ventana de **Phase Information: Phase 1**. Ahora damos _click_ en <kbd>Symmetry</kbd> En la ventana que se despliega vamos a corroborar la información del grupo espacial, que podemos verificar en el <kbd>DATA SHEET</kbd> de MATCH! Finalizamos con <kbd>OK</kbd>. Y nuevamente <kbd>OK</kbd> en **Phase Information: Phase 1**.
 
+![Diapositiva28](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva28.PNG)
+
 Con esto quedamos de nuevo en el Editor de archivos PCR. Ahora damos _click_ en el bobón de los 3 discos en azul, como se ve a continuación. 
 
-![Diapositiva28](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva28.PNG)
+![Diapositiva29](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva29.PNG)
 
 Esto nos crea el archivo con extensión **.PCR**. Lo nombramos con el nombre de la fase o el material.
 

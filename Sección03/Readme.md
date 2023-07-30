@@ -176,19 +176,20 @@ Abrimos el archivo **.DAT** que habíamos guardado:
 <div align="center">
 
 ![Diapositiva10](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva10.PNG)
+
 </div>
 
 Esta acción abre el archivo
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/c18ded0b-4909-44e3-a129-5c22e5e724fb)
+![Diapositiva11](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva11.PNG)
 
 En <kbd>Points Selection</kbd> escogemos <kbd>Automatic Background<7kbd>
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/84cfe6c7-406f-4070-a8ec-3d4f43a63292)
+![Diapositiva12](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva12.PNG)
 
 Eso nos abre una ventana que nos pide información.
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/445697b8-07c5-46f0-ad6c-064a3bf98380)
+![Diapositiva13](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva13.PNG)
 
 En <kbd>Background threshold</kbd> un valor entre 0.05 y 0.07 funciona bien. Esto está relacionado con la cantidad de puntos que tendrá el archivo del background.
 

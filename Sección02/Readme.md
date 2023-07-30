@@ -42,35 +42,35 @@ Si quiere conocer los otros tipos de archivos que puede abrir Origin, puede diri
 
 Al abrir Origin nos encontramos con una ventana que se denomina _New WorkBook_. En nuestro caso, escogemos la primera opción, de un libro de trabajo en blanco. Lo escogemos dando doble _click_.<br>
 
-![Figura 48](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/37d67ae2-37ef-40b7-b362-32257f9a0c74)
+![Figura 52](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image052.png)
 
 Esa acción nos abre un primer libro.<br>
 
-<img width="960" alt="Figura 49" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b0a0bb02-5a46-4199-9f0e-be75a17a699b">
+![Figura 53](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image053.png)
 
 Como puede verse, tenemos 4 barras de tareas, en las partes superior, inferior, derecha e izquierda. En la parte superior tenemos varias ventas: <kbd>File</kbd>, <kbd>Edit</kbd>, <kbd>View</kbd>, <kbd>Plot</kbd>, <kbd>Column</kbd>, <kbd>Worksheet</kbd>, <kbd>Analysis</kbd>, <kbd>Statistics</kbd>, <kbd>Image</kbd>, <kbd>Tools</kbd>, <kbd>Format</kbd>, <kbd>Window</kbd> y <kbd>Help</kbd>. Veremos, de manera práctica, cómo las usamos.<br>
 
 El libro tiene varias partes importantes. Nos indica la columna del eje _x_ y del eje _y_. El nombre del libro, que quedará definido por el título del archivo que abramos. Nos indica cuáles son las casillas para los nombres de las columnas, donde pondremos la variable medida. Esto definirá el título de cada uno de los ejes. Luego tenemos la casilla de las unidades de medida de cada variable. Los comentarios son para poner alguna información relevante sobre la muestra que vamos a analizar. Una temperatura o un tiempo de proceso, por ejemplo, o una composición química. Esto dependerá de lo que estemos analizando. Y <kbd>F(x)</kbd> es para colocar alguna fórmula matemática para que se haga alguna operación.<br>
 
-![Figura 50](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/3bd498cb-9ce6-499c-9541-a75540586cdf)<br>
+![Figura 54](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image054.png)<br>
 
 ## Importar archivo y reportar el patrón de DRX
 
 Para aprender a exportar el archivo, podemos dirigirnos a la sección anterior [Exportar archivos](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n01#exportar-archivos). Para importarlo, vamos a la pestaña de <kbd>File</kbd>, <kbd>Import</kbd>, <kbd>Single ASCII</kbd>.
 
-<img width="960" alt="Figura 51" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/d9d9a9bd-2003-4a0c-a4c3-e442d937f133">
+![Figura 55](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image055.png)
 
 Esta acción nos dirige a una ventana, donde podemos buscar nuestro archivo:<br>
 
-<img width="960" alt="Figura 52" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/356f5e76-ae73-445b-9032-84743a4dbe9d">
+![Figura 56](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image056.png)
 
 Haciendo doble _click_ podemos abrir el archivo. Ponemos los títulos:
 
-![Figura 53](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/f5fc4cc6-0fb0-4f49-8ddb-6a2db9df4d63)<br>
+![Figura 57](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image057.png)<br>
 
 Para graficar, con el _click_ izquierdo sostenido, señalamos ambas columnas. Nos dirigimos a la barra de tareas inferior, y clickeamos en el ícono de línea:<br>
 
-![Figura 54](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/eb1dcf20-1da6-4015-b50b-eee22aa6dc70)<br>
+![Figura 58](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image058.png)<br>
 
 Esto acción nos construye el gráfico:
 

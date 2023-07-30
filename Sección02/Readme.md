@@ -309,7 +309,7 @@ Si la **estructura cristalina** es **cúbica**, como es el caso del aluminio, qu
 
 <div align="center">
 
-![FCC](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/09deb90c-2a44-46f6-8ace-52776ea9ddd8)
+![FCC](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/FCC%20PNG.png)
 
 $\frac{{1}}{{{d^2}}} = \frac{{{h^2}+{k^2}+{l^2}}}{{{a^2}}}$
 
@@ -341,7 +341,7 @@ $a = \frac{{λ}}{{2 Sen(θ)}} \sqrt {{h^2}+{k^2}+{l^2}}$
 
 Recordemos que theta es el ángulo al que difracta el pico. Por lo tanto, para conocer el parámetro de red debemos conocer _λ_, que es la longitud de onda de los rayos X; el ángulo de difracción del pico, que es _θ_; y los índices de Miller del pico. El ángulo _2Theta_ de difracción lo muestra Origin después de hacer el ajuste, como $x_{c}$.
 
-![Pico](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b0b8fa2c-32b9-41db-88e0-4b2a05598391)
+![Figura 114](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image114.png)<br>
 
 Si nos fijamos en el pico ajustado por la función pesudo-voigt, el pico se ubica a $x_{c} = 38.3964°$.
 
@@ -383,13 +383,13 @@ $F(θ) = \frac{{1}}{{2}} [\frac{{{Cos^2}(θ)}}{{Sen(θ)}}+\frac{{{Cos^2}(θ)}}{{
 
 Por lo tanto, debe graficarse cada pico difractado de la fase que queremos analizar, y extraer el valor de Theta.
 
-![Imagen4](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b66ed67a-8646-43ea-b5bc-c276bdc9ac35)
+![Figura 118](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image118.png)<br>
 
 Después de graficar los picos, le damos _click_ a <kbd>ANALYSIS</kbd> y <kbd>SINGLE-PEAK FIT</kbd>: <kbd>Last used</kbd>, ya que el guarda nuestra última elección. Seguiremos trabajando con **pseudo-voigt**.
 
-![Figura 98](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/007282e1-45f4-4074-9926-d8b63c10920c)
+![Figura 119](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image119.png)<br>
 
-![Imagen5](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/fe5b056f-ffc9-437c-92cf-2bc4d56970bd)
+![Figura 120](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image120.png)<br>
 
 Para los cálculos, podemos hacernos una tabla en **EXCEL**.
 

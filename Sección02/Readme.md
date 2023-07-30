@@ -645,7 +645,7 @@ El método de Williamson-Hall consiste, entonces, en calcular el ancho a la altu
 
 Vamos a hacer el cálculo para el aluminio de nuestro patrón de difracción de rayos X. Como ya habíamos ajustado los picos según la curva pseudo-voigt, vamos a colocar la información que requerimos en una tabla de EXCEL.
 
-![Figura 114](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/fd677d57-ad7c-48d4-a2be-a2fd4b77e17d)
+![Figura 164](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image164.png)<br>
 
 A continuación, se muestra el resultado de la gráfica en Origin. El ajuste es aceptable, con un R2 = 0.9408 para una línea recta.
 
@@ -715,11 +715,12 @@ $ρ = \frac{{2 \sqrt {3} ε}} {{D×b}} = \frac{{2 \sqrt {3} × 00188}} {{63.62 n
 </div>
 
 Pasándolo a ${cm^2}$, tenemos 4.37 * ${10^{11}}$ $\frac{{dislocaciones}}{cm^2}$, que también pueden expresarse como 4.37 * ${10^{11}}$ cm de línea de $\frac{{dislocaciones}}{cm^3}$.
+
 ##
 
 <div align="center">
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/a62bde9b-b559-41e5-8c87-07ec98a4f24a)
+![Logo botón](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20Obtener%20certificado%20PNG.png)
 
 [Formulario de admisión](https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL)
 
@@ -727,5 +728,4 @@ Pasándolo a ${cm^2}$, tenemos 4.37 * ${10^{11}}$ $\frac{{dislocaciones}}{cm^2}$
 
 ##
 
-![Imagen18](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/80157826-863f-40fb-919c-40449bfe4e9e)
-
+![Logo botón](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20cierre%20sección.png)

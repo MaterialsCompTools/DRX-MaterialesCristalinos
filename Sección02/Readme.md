@@ -534,24 +534,26 @@ Los dos picos con planos _(hk0)_ son:
 
 Haciendo los cálculos con **EXCEL**, encontraremos el valor del parámetro de red a del corindón para dos picos difractados.
 
-![Figura 110](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/14902183-933a-46f8-b9a6-d4fea2255bb3)
+![Figura 144](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image144.png)<br>
 
 De nuevo, podemos usar una función de extrapolación para calcular el valor real del parámetro de red. Usemos la de **Nelson-Riley**.
 
-![Figura 111](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/90236524-fd63-4dcc-b17f-834f56f16b35)
+![Figura 145](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image145.png)<br>
 
 Según esto, el parámetro de red $a = 4.76523 Å$.
 
-![N-R corindón a - 2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/0f66a615-e765-4d51-a90b-2c9afe1b2455)
+![Figura 146](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image146.png)<br>
 
 Ahora, teniendo el valor del parámetro de red _a_, podemos proceder con el cálculo del parámetro de red _c_. Usando los valores de la difracción de los planos _(102)_, _(113)_ y _(116)_ (porque el valor reportado por el pico del plano _(104)_ se sale de la tendencia), el resultado es el siguiente:
 
-![Par red c corindón n-r - 2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1c3e98fd-9613-4694-aa08-6271a021795d)
+![Figura 147](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image147.png)<br>
 
 Por lo tanto, usando el método de la función de extrapolación y las ecuaciones de la ley de Bragg y las que relacionan distancia interplanar con los índices de Miller y los parámetros de red pudimos calcular los parámetros de red de las dos fases que componen el material:
 
 *	Aluminio, de estructura cristalina FCC, con _a_ = 4.05424 ± 0.00027 Å
 *	Corindón, de fórmula química $Al_{2}O_{3}$ y estructura cristalina hexagonal compacta, con _a_ = 4.76523 Å y _c_ = 12.97831 ± 0.00645 Å.
+
+![Figura 148](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image148.png)<br>
 
 ## Cálculo de tamaño de cristalito y microdeformaciones
 
@@ -561,7 +563,7 @@ Si los rayos X incidieran y fuera difractados de forma perfectamente paralela en
 
 <div align="center">
 
-![Imagen2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/e4f5adc8-1280-4c5a-a0e8-94cfe5f667fc)
+![Figura 149](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image149.png)<br>
 
 </div>
 

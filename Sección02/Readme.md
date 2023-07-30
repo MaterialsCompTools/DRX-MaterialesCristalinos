@@ -580,7 +580,7 @@ Ese tipo de ensanchamiento se denomina instrumental y debe corregirse. Para dete
 
 <div align="center">
 
-![Figura 152](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image152.png)<br>)
+![Figura 152](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image152.png)<br>
 
 </div>
 
@@ -651,7 +651,8 @@ A continuación, se muestra el resultado de la gráfica en Origin. El ajuste es 
 
 <div align="center">
 
-![Williamson-Hall Aluminio](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8b086f96-c16c-4bbe-bf8b-cc1548e96ce8)
+![Figura 165](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image165.png)<br>
+
 
 </div>
 

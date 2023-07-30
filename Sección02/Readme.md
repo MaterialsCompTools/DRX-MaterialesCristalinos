@@ -507,23 +507,23 @@ En este caso, esos picos son los correspondientes a los planos _(110)_ y _(300)_
 
 Teniendo en cuenta que el pico del plano _(110)_ de la alúmina está muy cerca del pico del plano (111) del aluminio, podemos hacer el ajuste con pico múltiple. Clickeamos en <kbd>ANALYSIS</kbd>, <kbd>Peaks and Baselines</kbd>, <kbd>Multiple Peak Fit</kbd>, <kbd>Open Dialog</kbd>.
 
-![Figura 105](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b1f7a94d-073e-4a8f-b146-e281f5fce01f)
+![Figura 139](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image139.png)<br>
 
 Al abrirse la ventana escogemos la función **Pesudo-Voigt** y damos _Ok_.
 
-![Figura 106](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/08b0252f-8da8-45e7-872c-6fca83e9975b)
+![Figura 140](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image140.png)<br>
 
 Al hacer esto se abre una nueva ventana que nos pide que escojamos el centro aproximado de cada pico con doble _click_ (en la flecha se señala cada centro de pico). Al dar doble _click_, cada pico queda seleccionado con una línea roja:
 
-![Figura 107](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/bedd77d0-8ee8-405f-ad82-36624070f052)
+![Figura 141](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image141.png)<br>
 
 Podemos ver que el mencionado pico se ubica a 37.67829°.
 
-![Figura 108](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ee4d5f72-573c-4589-ba06-f10fc529ddee)
+![Figura 142](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image142.png)<br>
 
 Teniendo en cuenta la baja intensidad de los picos de la fase del corindón, es mejor seleccionar varios picos y hacer el ajuste por multipicos.
 
-![Figura 109](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/11d41cbf-8aa2-4263-90a7-204fc477df0e)
+![Figura 143](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image143.png)<br>
 
 Los dos picos con planos _(hk0)_ son:
 

@@ -74,46 +74,45 @@ Para graficar, con el _click_ izquierdo sostenido, señalamos ambas columnas. No
 
 Esto acción nos construye el gráfico:
 
-![Figura 55](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/79aece78-4339-4fd1-8043-0d3674dd54e3)
+![Figura 60](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image060.png)
 
 Dando doble _click_ sobre cada uno de los ejes podemos acomodar de qué valor a qué valor hacer el gráfico. Para el eje _x_, del 2Theta, quiero que vaya desde 5 a 120 grados. Cambiamos el valor en <kbd>From</kbd> y <kbd>To</kbd>, y clickeamos en <kbd>OK</kbd>.
 
-![Figura 56](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/2f29183a-b64e-4ba6-a737-b6185bad0b73)
+![Figura 61](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image061.png)
 
 Para que el gráfico ocupe toda la pantalla, podemos dar doble _click_ sobre la barra azul.
 
-![Figura 57](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/15872674-d3a0-4831-a4c1-89856983ad38)
+![Figura 62](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image062.png)
 
 El gráfico queda ocupando toda la pantalla (si quiero que vuelva a hacerse pequeña, podemos hacerlo con el ícono de la parte superior derecha).
 
-<img width="960" alt="Figura 58" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8cfaa57c-94c9-4fd3-8f97-3583d11280b1">
+![Figura 63](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image063.png)
 
+Lo primero que vamos a hacer es hacer la indexación de los picos y las fases. Para ello, abro el reporte de MATCH, y veo a qué fase corresponde cada pico. En este caso, A es Al (aluminio) y B es Corindón ($Al_2O_3$).<br>
 
-Lo primero que vamos a hacer es hacer la indexación de los picos y las fases. Para ello, abro el reporte de MATCH, y veo a qué fase corresponde cada pico. En este caso, A es Al (aluminio) y B es Corindón (Al2O3).<br>
+![Figura 64](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image064.png)<br>
 
-![Figura 59](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/37d620ab-fc14-49c5-ab92-3aaaf313476e)<br>
-
-![Figura 60](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/3a5548b9-dfff-422c-8d8f-5284ef24d89d)<br>
+![Figura 65](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image065.png)<br>
 
 Para escribir sobre el gráfico, clickeamos en la <kbd>T</kbd> de la barra de tareas del lado izquierdo. Después de clickear, nos paramos en el punto donde queremos escribir. En la parte baja de la barra superior encontramos los botones para cambiar el tipo de letra, tamaño, color, etc.
 
-![Figura 61](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/0e176d81-1775-40b7-b67a-68317b062c56)
+![Figura 66](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image066.png)<br>
 
 Escribimos el nombre de la fase, fórmula química y el número del archivo de la base de datos del MATCH! Ese lo encontramos en el reporte.
 
-![Figura 62](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/d382fbba-792f-4aed-8452-8742491c704e)
+![Figura 67](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image067.png)<br>
 
 Ahora, teniendo en cuenta la lista de picos, llevamos a cabo la indexación. Para identificar el ángulo 2Theta en el Origin, clickeamos en el logo mostrado en la siguiente figura, ubicado en la barra de tareas del lado izquierdo. Después de clickear sobre él, nos paramos en la parte superior del pico para ver a qué ángulo se ubica. Al hacer esto, aparece una cruz roja y un cuadro con la información del punto: su valor en 2Theta y en intensidad. Si quiero moverme a través de la curva, uso las flechas del teclado. Ahora, miramos su coincidencia con la lista de picos del reporte de Match!, y llevamos a cabo la indexación. En este caso, es el ubicado a 35.07 grados que, según el reporte, corresponde a la fase B.
 
-![Figura 63](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/fe48d89c-a42c-4c14-ba0e-40427caa7299)
+![Figura 68](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image068.png)<br>
 
 Vamos a otorgarle un símbolo a cada fase. Un cuadro, para la fase 1, de color negro; y un círculo, en azul, para la fase 2. A estas figuras geométricas también las encontramos en la barra de tareas de la izquierda.
 
-![Figura 64](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/d7fb0d9c-9d71-4e4d-8844-a6246d37afc8)
+![Figura 69](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image069.png)<br>
 
 Clickeamos en la pestañita y se despliega un submenú.
 
-![Figura 65](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1df219d7-99f6-42a8-b123-3ab657b5e370)
+![Figura 70](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image070.png)<br>
 
 Escogemos <kbd>Rectangle tool</kbd>. Movemos el cursor hacia la posición en la queremos dibujar la figura geométrica, y lo hacemos con el _mouse_. Si queremos moverlo, lo señalamos dando _click_, y lo desplazamos con ayuda de las flechas del teclado, o con el _mouse_, sosteniendo el _click_ izquierdo. Para copiar y pegar también lo señalamos con el _mouse_, clickeando, y usamos los comandos <kbd>Ctr+c</kbd> y <kbd>Ctr+v</kbd>. El resultado del patrón de difracción indexado queda así:
 

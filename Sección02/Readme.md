@@ -548,12 +548,12 @@ Ahora, teniendo el valor del parámetro de red _a_, podemos proceder con el cál
 
 ![Figura 147](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image147.png)<br>
 
+![Figura 148](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image148.png)<br>
+
 Por lo tanto, usando el método de la función de extrapolación y las ecuaciones de la ley de Bragg y las que relacionan distancia interplanar con los índices de Miller y los parámetros de red pudimos calcular los parámetros de red de las dos fases que componen el material:
 
 *	Aluminio, de estructura cristalina FCC, con _a_ = 4.05424 ± 0.00027 Å
 *	Corindón, de fórmula química $Al_{2}O_{3}$ y estructura cristalina hexagonal compacta, con _a_ = 4.76523 Å y _c_ = 12.97831 ± 0.00645 Å.
-
-![Figura 148](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image148.png)<br>
 
 ## Cálculo de tamaño de cristalito y microdeformaciones
 

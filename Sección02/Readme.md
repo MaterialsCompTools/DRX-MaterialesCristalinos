@@ -70,7 +70,7 @@ Haciendo doble _click_ podemos abrir el archivo. Ponemos los títulos:
 
 Para graficar, con el _click_ izquierdo sostenido, señalamos ambas columnas. Nos dirigimos a la barra de tareas inferior, y clickeamos en el ícono de línea:<br>
 
-![Figura 58](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image058.png)<br>
+![Figura 59](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image059.png)<br>
 
 Esto acción nos construye el gráfico:
 

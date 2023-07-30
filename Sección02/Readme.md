@@ -13,17 +13,16 @@
 ## Objetivos
 
 *	Conocer la interfaz de OriginPro
-*	Conocer la extensión de archivos con la que trabaja el software
+*	Conocer la extensión de archivos con la que trabaja el _software_
 *	Aprender a exportar el archivo del MATCH! según la extensión necesaria
 *	Aprender a ajustar los picos de forma individual
 *	Aprender a calcular el parámetro de red a partir del método de las funciones de extrapolación
 *	Aprender a calcular el tamaño de cristalito y las microdeformaciones usando el método de Williamson-Hall
 *	Aprender a calcular la densidad de dislocaciones
-*	Ver la aplicación
 
 ## Requerimientos
 
-*	Descargar un Demo del Software [OriginPro](https://www.originlab.com/demodownload.aspx)
+*	Descargar un Demo del _Software_ [OriginPro](https://www.originlab.com/demodownload.aspx)
 
 ## Qué es Origin
 
@@ -34,7 +33,7 @@ Origin es un programa que ayuda a importar, graficar, explorar, analizar e inter
 Origin es capaz de abrir varios tipos de archivos, con diferentes extensiones.<br>
 
 *	Los archivos de proyectos de Origin tienen extensión *.opj y *.opju
-*	Los archivos de ventana secundaria (Child Windows Files) pueden ser de extensión *.txt, que son los que usaremos acá.
+*	Los archivos de ventana secundaria (_Child Windows Files_) pueden ser de extensión *.txt, que son los que usaremos acá.
 
 Si quiere conocer los otros tipos de archivos que puede abrir Origin, puede dirigirse a [6 Origin File Types](https://www.originlab.com/doc/en/User-Guide/Origin-File-Types)<br>
 
@@ -50,7 +49,7 @@ Esa acción nos abre un primer libro.<br>
 
 Como puede verse, tenemos 4 barras de tareas, en las partes superior, inferior, derecha e izquierda. En la parte superior tenemos varias ventas: <kbd>File</kbd>, <kbd>Edit</kbd>, <kbd>View</kbd>, <kbd>Plot</kbd>, <kbd>Column</kbd>, <kbd>Worksheet</kbd>, <kbd>Analysis</kbd>, <kbd>Statistics</kbd>, <kbd>Image</kbd>, <kbd>Tools</kbd>, <kbd>Format</kbd>, <kbd>Window</kbd> y <kbd>Help</kbd>. Veremos, de manera práctica, cómo las usamos.<br>
 
-El libro tiene varias partes importantes. Nos indica la columna del eje _x_ y del eje _y_. El nombre del libro, que quedará definido por el título del archivo que abramos. Nos indica cuáles son las casillas para los nombres de las columnas, donde pondremos la variable medida. Esto definirá el título de cada uno de los ejes. Luego tenemos la casilla de las unidades de medida de cada variable. Los comentarios son para poner alguna información relevante sobre la muestra que vamos a analizar. Una temperatura o un tiempo de proceso, por ejemplo, o una composición química. Esto dependerá de lo que estemos analizando. Y <kbd>F(x)</kbd> es para colocar alguna fórmula matemática para que se haga alguna operación.<br>
+El libro tiene varias partes importantes. Nos indica la columna del eje _x_ y del eje _y_. El nombre del libro, que quedará definido por el título del archivo que abramos. Nos indica cuáles son las casillas para los nombres de las columnas, donde pondremos la variable medida. Esto definirá el título de cada uno de los ejes. Luego tenemos la casilla de las unidades de medida de cada variable. Los comentarios son para poner alguna información relevante sobre la muestra que vamos a analizar: una temperatura o un tiempo de proceso, por ejemplo, o una composición química. Esto dependerá de lo que estemos analizando. Y <kbd>F(x)</kbd> es para colocar alguna fórmula matemática para que se haga alguna operación.<br>
 
 ![Figura 54](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image054.png)<br>
 
@@ -88,7 +87,7 @@ El gráfico queda ocupando toda la pantalla (si quiero que vuelva a hacerse pequ
 
 ![Figura 63](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image063.png)
 
-Lo primero que vamos a hacer es hacer la indexación de los picos y las fases. Para ello, abro el reporte de MATCH, y veo a qué fase corresponde cada pico. En este caso, A es Al (aluminio) y B es Corindón ($Al_2O_3$).<br>
+Lo primero que vamos a hacer es la indexación de los picos y las fases. Para ello, abro el reporte de MATCH, y veo a qué fase corresponde cada pico. En este caso, **A** es Al (aluminio) y **B** es Corindón ($Al_2O_3$).<br>
 
 ![Figura 64](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image064.png)<br>
 
@@ -102,7 +101,7 @@ Escribimos el nombre de la fase, fórmula química y el número del archivo de l
 
 ![Figura 67](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image067.png)<br>
 
-Ahora, teniendo en cuenta la lista de picos, llevamos a cabo la indexación. Para identificar el ángulo 2Theta en el Origin, clickeamos en el logo mostrado en la siguiente figura, ubicado en la barra de tareas del lado izquierdo. Después de clickear sobre él, nos paramos en la parte superior del pico para ver a qué ángulo se ubica. Al hacer esto, aparece una cruz roja y un cuadro con la información del punto: su valor en 2Theta y en intensidad. Si quiero moverme a través de la curva, uso las flechas del teclado. Ahora, miramos su coincidencia con la lista de picos del reporte de Match!, y llevamos a cabo la indexación. En este caso, es el ubicado a 35.07 grados que, según el reporte, corresponde a la fase B.
+Ahora, teniendo en cuenta la lista de picos, llevamos a cabo la indexación. Para identificar el ángulo **2Theta** en el Origin clickeamos en el logo mostrado en la siguiente figura, ubicado en la barra de tareas del lado izquierdo. Después de clickear sobre él, nos paramos en la parte superior del pico para ver a qué ángulo se ubica. Al hacer esto, aparece una cruz roja y un cuadro con la información del punto: su valor en 2Theta y en intensidad. Si quiero moverme a través de la curva, uso las flechas del teclado. Ahora, miramos su coincidencia con la lista de picos del reporte de Match!, y llevamos a cabo la indexación. En este caso, es el ubicado a 35.07 grados que, según el reporte, corresponde a la fase **B**.
 
 ![Figura 68](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image068.png)<br>
 
@@ -118,7 +117,7 @@ Escogemos <kbd>Rectangle tool</kbd>. Movemos el cursor hacia la posición en la 
 
 ![Figura 71](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image071.png)<br>
 
-Podemos exportar el gráfico para pegarlo en algún reporte en WORD. Para ellos, vamos a <kbd>File</kbd>, <kbd>Export Graphs</kbd>, <kbd>Open Dialog</kbd>. Esto último, para poder escoger la ruta donde vamos a guardar la imagen, el tipo de archivo y darle nombre.
+Podemos exportar el gráfico para pegarlo en algún reporte en **_WORD_**. Para ellos, vamos a <kbd>File</kbd>, <kbd>Export Graphs</kbd>, <kbd>Open Dialog</kbd>. Esto último, para poder escoger la ruta donde vamos a guardar la imagen, el tipo de archivo y darle nombre.
 
 ![Figura 72](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image072.png)<br>
 
@@ -126,7 +125,7 @@ Se abre la siguiente ventana.
 
 ![Figura 73](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image073.png)<br>
 
-En <kbd>Image Type</kbd> escogemos el tipo de archivo que queremos. Las imágenes en .tiff funcionan muy bien.
+En <kbd>Image Type</kbd> escogemos el tipo de archivo que queremos. Las imágenes con extensión *.tiff funcionan muy bien.
 
 ![Figura 74](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image074.png)<br>
 
@@ -142,7 +141,7 @@ Otra forma de mostrar el resultado es poniendo los índices de Miller de los pla
 
 ![Peak list](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image046.png)
 
-Así, podemos reportar el gráfico en esa forma. En el Origin puedo duplicar un gráfico (y un libro), parándome en la parte superior del marco y dando click derecho. Eso despliega un pequeño menú, de donde escogemos <kbd>Duplicate</kbd>.
+Así, podemos reportar el gráfico en esa forma. En el Origin puedo duplicar un gráfico (y un libro) parándome en la parte superior del marco y dando _click_ derecho. Eso despliega un pequeño menú, de donde escogemos <kbd>Duplicate</kbd>.
 
 ![Figura 77](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image077.png)<br>
 
@@ -158,7 +157,7 @@ Cuando soltamos, todo queda seleccionado:
 
 ![Figura 80](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image080.png)<br>
 
-Le damos suprimir, para borrar. Otra vez queda limpio el gráfico:
+Le damos suprimir (tecla **supr**), para borrar. Otra vez queda limpio el gráfico:
 
 ![Figura 81](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image081.png)<br>
 
@@ -218,7 +217,7 @@ $pV = η L + (1-η) G$
 
 </div>
 
-Como ejemplo, miremos el archivo con el que estamos trabajando. Vamos a trabajar con el pico (111) de la fase del aluminio. Para ello, vamos a copiar sus datos y los vamos a copiar en otro libro dentro del proyecto de Origin. Primero, con el ícono mostrado en la siguiente figura nos vamos a parar en el inicio y en el final del pico, para saber el valor del ángulo 2Theta en el que inicia y termina. Si desea aumentar el pico, puede usar la lupa con el signo más que se ve de segundo de arriba abajo en la barra de tareas de la izquierda.
+Como ejemplo, miremos el archivo con el que estamos trabajando. Vamos a trabajar con el pico del plano (111) de la fase del aluminio. Para ello, vamos a copiar sus datos y los vamos a copiar en otro libro dentro del proyecto de Origin. Primero, con el ícono mostrado en la siguiente figura nos vamos a parar en el inicio y en el final del pico, para saber el valor del ángulo **2Theta** en el que inicia y termina. Si desea aumentar el pico, puede usar la lupa con el signo más que se ve de segundo de arriba abajo en la barra de tareas de la izquierda.
 
 ![Figura 91](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image091.png)<br>
 
@@ -234,7 +233,7 @@ Al dar _click_ en el ícono señalado por la flecha roja que se mostró, se abre
 
 ![Figura 94](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image094.png)<br>
 
-Nos paramos cerca de donde inicia el pico, y leemos el dato de 2Theta:
+Nos paramos cerca de donde inicia el pico, y leemos el dato de **2Theta**:
 
 ![Figura 95](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image095.png)<br>
 
@@ -372,7 +371,7 @@ $(\frac{{δa}}{{a}})_{abs}∝[\frac{{{Cos^2}(θ)}}{{Sen(θ)}}+\frac{{{Cos^2}(θ)
 
 ### Función de extrapolación de Nelson-Riley
 
-La función de **Nelson-Riley** es una función de extrapolación que se usa para calcular el parámetro de red. El método consiste, entonces, en calcular el parámetro de red para cada pico difractado de la fase, y hacer un gráfico de esos parámetros de red versus la función de Nelson-Riley, que también se calcula para cada pico. En el gráfico, el corte corresponde al valor real del parámetro de red, mientras que la pendiente indica el error sistemático: a mayor pendiente, mayor error sistemático. A continuación, se muestra la función de Nelson-Riley.
+La función de **Nelson-Riley** es una función de extrapolación que se usa para calcular el parámetro de red. El método consiste, entonces, en calcular el parámetro de red para cada pico difractado de la fase, y hacer un gráfico de esos parámetros de red _versus_ la función de Nelson-Riley, que también se calcula para cada pico. En el gráfico, el corte corresponde al valor real del parámetro de red, mientras que la pendiente indica el error sistemático: a mayor pendiente, mayor error sistemático. A continuación, se muestra la función de Nelson-Riley.
 
 <div align="center">
 
@@ -592,7 +591,7 @@ $FWHM = {[{(FWHM_{medido})^2}-{(FWHM_{instrumental})^2}]^{1/2}}$
 
 </div>
 
-Para esto, debe sacarse una ecuación de FWHM en función de θ para, a partir de ella, calcular el ancho instrumental a un determinado ángulo y restarlo a cada pico de nuestro patrón de difracción que nos interese corregir. Para esto se requiere un concepto que veremos a profundidad más adelante, que es el de refinamiento, ya que el patrón de difracción de la muestra de calibración debe refinarse. La ecuación usada es la de Caglioti, que tiene la siguiente forma:
+Para esto, debe sacarse una ecuación de **FWHM** en función de **θ** para, a partir de ella, calcular el ancho instrumental a un determinado ángulo y restarlo a cada pico de nuestro patrón de difracción que nos interese corregir. Para esto se requiere un concepto que veremos a profundidad más adelante, que es el de refinamiento, ya que el patrón de difracción de la muestra de calibración debe refinarse. La ecuación usada es la de Caglioti, que tiene la siguiente forma:
 
 <div align="center">
 

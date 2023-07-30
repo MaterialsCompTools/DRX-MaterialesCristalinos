@@ -160,27 +160,27 @@ Cuando soltamos, todo queda seleccionado:
 
 Le damos suprimir, para borrar. Otra vez queda limpio el gráfico:
 
-![Figura 77](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/9c49c6fa-c15a-4675-98e8-125ce323113d)
+![Figura 81](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image081.png)<br>
 
 Clickeamos el símbolo de <kbd>T</kbd> en la barra de tareas de la izquierda para escribir un texto. Después de escrito, nos salimos de él y le damos _click_ en el centro.
 
-![Figura 78](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8c517e24-18c9-4561-8c30-39a9974b5430)
+![Figura 82](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image082.png)<br>
 
 Eso habilita el cuadro para girar:
 
-![Figura 79](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/3b2ae8c9-2d4f-40c7-982b-ba2866482339)
+![Figura 83](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image083.png)<br>
 
 Lo giramos de tal forma que quede vertical, y lo movemos a su posición:
 
-![Figura 80](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/82a79108-f98d-45a8-a1d2-552ca5d473f8)
+![Figura 84](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image084.png)<br>
 
 Podemos copiar y pegar este texto, y editarlo para escribir los índices de Miller de cada plano:
 
-![Figura 81](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ff19455d-b0ad-4ff4-b771-fd164dc90d62)
+![Figura 85](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image085.png)<br>
 
 Después de exportar el gráfico en *.tiff, queda así:
 
-![Patrón 2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/951016ef-3b4d-4415-942a-f693e7fb92c9)
+![Figura 86](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image086.png)<br>
 
 ## Ajuste de picos
 

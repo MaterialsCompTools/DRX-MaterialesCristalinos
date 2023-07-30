@@ -141,7 +141,7 @@ Guardamos los archivos con extensión **.CIF** de las fases que vamos a refinar.
 
 ### Archivos .DAT
 
-El archivo de nuestro patrón de difracción con extensión .DAT que usa FullProf tiene algunas algunas características: En la primera fila deben ir el ángulo 2Theta de inicio de los datos; el paso (que es la diferencia que hay de un punto a otro); y el ángulo 2 Theta de finalización de los datos. Después tenemos columnas de datos con la información de las intensidades.
+El archivo de nuestro patrón de difracción con extensión *.DAT que usa FullProf tiene algunas algunas características: En la primera fila deben ir el ángulo 2Theta de inicio de los datos; el paso (que es la diferencia que hay de un punto a otro); y el ángulo 2 Theta de finalización de los datos. Después tenemos columnas de datos con la información de las intensidades.
 
 ![Diapositiva6](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva6.PNG)
 
@@ -253,7 +253,7 @@ En la ventana que se abre vamos a marcar <kbd>X-ray</kbd> en la parte de **Type 
 
 ![Diapositiva28](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva28.PNG)
 
-Con esto quedamos de nuevo en el Editor de archivos PCR. Ahora damos _click_ en el bobón de los 3 discos en azul, como se ve a continuación. 
+Con esto quedamos de nuevo en el Editor de archivos PCR. Ahora damos _click_ en el botón de los 3 discos en azul, como se ve a continuación. 
 
 ![Diapositiva29](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva29.PNG)
 

@@ -227,63 +227,65 @@ Pueden verse varias opciones. En este caso se escoge Al2O3, que es la fórmula e
 
 Posteriormente se despliegan las opciones de las fases candidatas para proceder.
 
+![Figura 37](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image037.png)
+
 ## Refinamiento automático
 
 Para ello, clickeamos en el logo de FP (más adelante veremos qué significa).<br>
 
-![Figura 37](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image037.png)
+![Figura 38](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image038.png)
 
 Señalamos Automatic Rietveld Refinement (parte superior derecha) y damos _click_ en el botón <kbd>Run FullProf</kbd> (Rietveld Refinement). 
 
-![Figura 38](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image038.png)
+![Figura 39](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image039.png)
 
 Al hacer esto, la coincidencia entre el patrón calculado y el experimental debería ser mejor. Dos valores importantes son el Factor de Bragg y el Chi-2 que, como puede verse, han cambiado. Aunque lo entenderemos mejor después, por ahora diremos que el valor del Chi-2 está bien, pero el del factor de Bragg es muy alto. Además, la línea azul claro en la parte inferior presenta aún mucho ruido. Lo que quiere decir que el refinamiento automático no es suficiente.<br>
 Sin embargo, los valores de porcentajes de fases, que han cambiado después del refinamiento, son más confiables que los mostrados anteriormente.<br>
 
-![Figura 39](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image039.png)
+![Figura 40](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image040.png)
 
 ## Resultados
 
 Al dar _click_ en el ícono señalado, se despliega un reporte de lo hecho.
 
-![Figura 40](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image040.png)
+![Figura 41](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image041.png)
 
 El reporte luce como se muestra a continuación. Muestra el nombre de la muestra, la ruta para encontrar el archivo y las condiciones de medida, las fases coincidentes y cómo las indexa –la fase A es el aluminio y la fase B es el corindón-, la composición elemental y las características de las fases seleccionadas de las bases de datos. Recordar que los porcentajes de fases o de elementos químicos, hasta este punto, no es correcta debido a que no se ha hecho un refinamiento.<br>
 
-![Figura 41](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image041.png)
+![Figura 42](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image042.png)
 
 Además de esto, el informe muestra otras fases candidatas, con su número de archivo y su Figura de Mérito. <br>
 
-![Figura 42](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image042.png)
+![Figura 43](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image043.png)
 
 Además de otra información, el reporte muestra la lista de picos y cómo quedaron indexados.<br>
 
-![Figura 43](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image043.png)
+![Figura 44](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image044.png)
 
 Por último, el reporte puede guardarse como un archivo PDF.<br>
 Si queremos ver los índices de Miller de cada plano difractado, podemos hacerlo dando _click_ derecho sobre la pantalla del patrón de difracción. Así, se despliegan varias opciones. Damos _click_ en <kbd>Miller Indices</kbd>.
 
-![Figura 44](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image044.png)
+![Figura 45](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image045.png)
 
 Los índices de Miller aparecerán sobre cada pico:<br>
 
-![Figura 45](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image045.png)
+![Figura 46](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image046.png)
 
 ## Exportar archivos
 
 Por último, vamos a exportar un archivo con extensión .dat para abrir en el OriginPro, que nos ayuda a procesar los datos de forma elegante. Damos _click_ en <kbd>File</kbd>, <kbd>Export</kbd>, <kbd>Profile Data</kbd>.<br>
 
-![Figura 46](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image046.png)
-
 ![Figura 47](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image047.png)
-
-Escogemos la opción de 2 columnas: 2Theta Intensity.
 
 ![Figura 48](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image048.png)
 
-El archivo resultante queda de dos columnas. La de la izquierda corresponde al ángulo 2Theta y la de la derecha a la intensidad.
+Escogemos la opción de 2 columnas: 2Theta Intensity.
 
 ![Figura 49](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image049.png)
+
+El archivo resultante queda de dos columnas. La de la izquierda corresponde al ángulo 2Theta y la de la derecha a la intensidad.
+
+![Figura 50](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image050.png)
 
 ##
 

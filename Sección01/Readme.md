@@ -292,7 +292,7 @@ El archivo resultante queda de dos columnas. La de la izquierda corresponde al �
 
 <div align="center">
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/a62bde9b-b559-41e5-8c87-07ec98a4f24a)
+![Logo botón](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20Obtener%20certificado%20PNG.png)
 
 [Formulario de admisión](https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL)
 
@@ -300,4 +300,4 @@ El archivo resultante queda de dos columnas. La de la izquierda corresponde al �
 
 ##
 
-![Imagen18](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/2f8eec20-a779-4e30-9981-dea14550742a)
+![Logo botón](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20cierre%20sección.png)

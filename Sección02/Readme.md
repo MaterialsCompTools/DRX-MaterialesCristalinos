@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![Origin logo](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/6595d0e0-7d57-46b2-87db-6069f6da86f7)
+![Origin logo](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/OriginPro_Logo%20PNG.png)
 
 </div>
   

@@ -393,29 +393,29 @@ Después de graficar los picos, le damos _click_ a <kbd>ANALYSIS</kbd> y <kbd>SI
 
 Para los cálculos, podemos hacernos una tabla en **EXCEL**.
 
-![Figura 99](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/613935a5-c71f-440f-9fa4-588bc5a068ee)
+![Figura 121](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image121.png)<br>
 
 Graficamos, en ORIGIN, _a_ versus _F(theta)_.
 
-![Figura 100](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/151cadd8-9cc6-4073-bc84-c41adae290a2)
+![Figura 122](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image122.png)<br>
 
 Ajustamos los datos a una línea recta: <kbd>ANALYSIS</kbd>, <kbd>FITTING</kbd>, <kbd>LINEAR-FIT</kbd>, <kbd>Last-used</kbd>.
 
-![Figura 101](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/79b4660b-51e6-47ac-819e-86063cc74e9e)
+![Figura 123](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image123.png)<br>
 
 El intercepto de la línea corresponde al **parámetro de red** de la fase, que es el **aluminio**. El valor es, entonces, $a = 4.05424 ± 0.00027 Å$.
 
-![Figura 102](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/96f8abe2-ddba-4115-b4f8-5a9e82f5835e)
+![Figura 124](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image124.png)<br>
 
 Podemos acomodar la gráfica para exportarla: sacamos la tabla y el título fuera del área blanca; insertamos texto para colocar un título adecuado, y otro para colocar el valor del parámetro de red; también podemos dar doble _click_ en uno de los puntos de la gráfica y cambiar su forma, tamaño y color; y seleccionar la línea roja para aumentar su espesor y ponerla punteada.
 
-![Figura 103](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/615e6235-3f7b-406e-b9a8-db5c0ee471c9)
+![Figura 125](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image125.png)<br>
 
-![Figura 104](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/7789801a-fff2-4e7c-beb1-c50771f7ca9c)
+![Figura 126](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image126.png)<br>
 
 Después de exportada, así queda la imagen:
 
-![Nelson Riley-2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/356bbbbe-00cc-4e85-b326-7d8714b1b1ea)
+![Figura 127](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image127.png)<br>
 
 ### Otras funciones de extrapolación
 

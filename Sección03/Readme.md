@@ -284,4 +284,26 @@ Para pedirle al _software_ que lleve a cabo las iteraciones de refinamiento damo
 
 ![Diapositiva37](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva37.PNG)
 
- 
+## Creación del archivo .PCR de la segunda fase
+
+## Adición del archivo .PCR de la segunda fase al de la primera fase
+
+## Refinamiento de la segunda fase
+
+## WinPlotr
+
+## Archivos de salida
+
+ ##
+
+<div align="center">
+
+![Logo botón](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20Obtener%20certificado%20PNG.png)
+
+[Formulario de admisión](https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL)
+
+</div>
+
+##
+
+![Logo botón](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20cierre%20sección.png)

@@ -157,21 +157,21 @@ Ahora el patrón está listo para ser analizado por el _software_ y evaluar la c
 
 Para evaluar la coincidencia, damos _click_ en <kbd>Search</kbd> y en <kbd>Search-Match</kbd>.
 
-<img width="960" alt="Figura 21" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/a5280d66-d88f-4562-bb02-def4a84833b1">
+![Figura 22](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image022.png)
 
 Puede ver cómo en la parte inferior-izquierda de la pantalla aparece una lista de fases con las que podría coincidir nuestra muestra.
 
-<img width="960" alt="Figura 22" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/c7dcc56d-361c-4902-ad3b-0a48c97e4a83"><br>
+![Figura 23](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image023.png)
 
 La lista resultante consta de 11 columnas. La primera muestra el <kbd>color</kbd> con el que aparece la fase en la que nos estamos parando en parte de arriba. Fíjese en la cuarta línea, que está en rojo, en la parte superior derecha del cuadro del patrón de difracción. Esa línea hace alusión a la fase en que nos estamos parando. Y las líneas rojas que se observan sobre el patrón son los picos de esa fase de la base de datos. <kbd>Qual</kbd>. Significa Quality, y la <kbd>c</kbd> quiere decir que fue calculada. La columna <kbd>Entry</kbd> tiene que ver con el código que tiene la fase en la base de datos, y que se usa para la referencia respectiva. La columna de <kbd>Formula</kbd> muestra la fórmula estequiométrica de la fase. La columna <kbd>Cryst.</kbd> muestra la familia cristalina de la fase (C, cúbico; H, hexagonal; R, romboédrica; T, tetragonal; O, ortorrómbica; M, monoclínica; T, triclínica). La fase que se está señalando en este caso es de aluminio, que es cúbica. La columna de <kbd>Candidate phase</kbd> muestra el nombre de la fase, que en este caso es aluminio.
 
 La última columna, <kbd>FoM</kbd>, muestra la Figura de Mérito, o _Figure of Merit_, que es un valor numérico que describe la calidad de la coherencia entre el patrón experimental y la respectiva fase de la base de datos. El _software_ calcula el valor teniendo en cuenta las diferencias entre los ángulos 2Theta, entre las intensidades de los picos, entre la cantidad de picos correlacionados con los que deberían ser correlacionados, y el factor de escala de las intensidades. Mientras más alto el valor de la figura de mérito, más coincidencia hay con el patrón experimental. El _software_ muestra las fases candidatas con los valores más altos de FoM en la parte de arriba. Hacia abajo ese valor va disminuyendo.
 
-![Figura 23](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/5b63cd8d-336f-4cc5-9e3f-7401b2326706)
+![Figura 24](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image024.png)
 
 Como la primera fase mostrada es la mejor candidata, damos doble-click. Al hacer esto, la fase pasa a la parte inferior derecha de nuestra pantalla y desaparecen las otras fases candidatas.
 
-![Figura 24](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/af8229bd-a39f-4e54-8810-27ea9d1f72dd)
+![Figura 25](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image025.png)
 
 En <kbd>Data sheet</kbd> puede verse la información de la fase seleccionada. Primero, vemos el número de la fase, para la referencia. En este caso es #96-431-3207. Más abajo podemos ver la clasificación de la fase: su nombre, fórmula estequiométrica, y la razón de intensidad de referencia (I/Ic, que es importante para el análisis cuantitativo). Más abajo puede verse la publicación científica de la que salió ese patrón de difracción y un _link_ por si se desea descargar el archivo (más adelante lo requeriremos). Luego podemos ver la información cristalográfica de la fase: su grupo espacial, sistema cristalino, parámetros de red, número de átomos por celda y las coordenadas donde se ubican los átomos (asumiendo un sistema de 3 ejes y la celda unitaria, la notación muestra en qué puntos se ubican los átomos).<br>
 
@@ -179,43 +179,43 @@ Por último, observamos los picos difractados, con la distancia interatómica, l
 
 Bajando con la barra se puede ver el patrón con algunas propiedades del material.<br>
 
-![Figura 25](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/381730f8-7258-4950-81ed-2bc1f8883233)
+![Figura 26](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image026.png)
 
 Otra forma de buscar fases, si ya las conocemos, es con CTR+F, o en <kbd>Search</kbd>, <kbd>Find phase/entry</kbd>.
 
-![Figura 26](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/7311785a-a371-4ddb-958b-eb2d31b1caac)
+![Figura 27](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image027.png)
 
 En el caso de este ejemplo, la otra fase es alúmina o Al2O3, que también se conoce como corindón o corundum, en inglés.
 
-<img width="960" alt="Figura 27" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/28002d6a-06c9-4600-bf15-3b698f036db8">
+![Figura 28](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image028.png)
 
 Así, aparecen los candidatos de esta segunda fase. Las fases candidatas, en este caso, se muestran de color verde. En este caso se seleccionó el segundo archivo de la lista, por la mayor cercanía de 2Theta. Puede verse que todos los picos quedan indexados.
 
-<img width="960" alt="Figura 28" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/6fe89cce-0e04-464e-83dc-734997a8dbd9">
+![Figura 29](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image029.png)
 
 Como puede verse, el MATCH! también puede hacer un análisis cuantitativo del porcentaje de fases dentro del material. En este caso se muestra un 87.7% para el aluminio y un 12.3% para la alúmina. Sin embargo, este valor no es correcto. Para que lo sea, debe hacerse un proceso de refinamiento, que hace que el patrón calculado (rojo) sea igual al experimental (azul).
 
-![Figura 29](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/dd4cb8a2-6c90-4f30-93d7-1ef92cefe106)
+![Figura 30](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image030.png)
 
 En la siguiente figura puede verse que estos aún no coinciden bien. Más adelante aprenderemos cómo hacerlo. Por ahora el análisis es sólo cualitativo.
 
-![Figura 30](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/586e4a96-2b7b-4474-9b64-2bf22297d9b4)
+![Figura 31](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image031.png)
 
 Otra forma de buscar las fases es usando la tabla periódica de la izquierda. Después de cargar el archivo, marcamos en <kbd>Toogle</kbd> hasta que todo rojo (de lo que no se escoge ningún elemento).
 
-![Figura 31](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/e04f5658-05e2-4f81-a6e8-8267682d6cf8)
+![Figura 32](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image032.png)
 
 Luego ubicamos el mouse sobre el elemento que queremos que se tenga en cuenta en la búsqueda, en este caso Al y O, lo dejamos en verde (que se usan para la búsqueda de fases).
 
-![Figura 32](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/aefba7e5-df81-48c2-8df0-f693cc9bf559)
+![Figura 33](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image033.png)
 
 Abriendo la ventana de donde dice <kbd>Formula Sum</kbd>, escogemos la estequiometría deseada:
 
-![Figura 33](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/f6e3863f-1770-402c-ae78-73ab3ec37cdf)
+![Figura 34](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image034.png)
 
 Pueden verse varias opciones. En este caso se escoge Al2O3, que es la fórmula estequiométrica de la alúmina.
 
-![Figura 34](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8530f157-4de2-4858-9222-6d99a45862d7)
+![Figura 35](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image035.png)
 
 Posteriormente se despliegan las opciones de las fases candidatas para proceder.
 
@@ -223,59 +223,59 @@ Posteriormente se despliegan las opciones de las fases candidatas para proceder.
 
 Para ello, clickeamos en el logo de FP (más adelante veremos qué significa).<br>
 
-![Figura 35](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ef4143f3-c7fe-4449-b708-926c1817147e)<br>
+![Figura 36](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image036.png)
 
 Señalamos Automatic Rietveld Refinement (parte superior derecha) y damos _click_ en el botón <kbd>Run FullProf</kbd> (Rietveld Refinement). 
 
-![Figura 36](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8054a3a0-abc5-4ac0-82d9-e3168a14219a)<br>
+![Figura 37](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image037.png)
 
 Al hacer esto, la coincidencia entre el patrón calculado y el experimental debería ser mejor. Dos valores importantes son el Factor de Bragg y el Chi-2 que, como puede verse, han cambiado. Aunque lo entenderemos mejor después, por ahora diremos que el valor del Chi-2 está bien, pero el del factor de Bragg es muy alto. Además, la línea azul claro en la parte inferior presenta aún mucho ruido. Lo que quiere decir que el refinamiento automático no es suficiente.<br>
 Sin embargo, los valores de porcentajes de fases, que han cambiado después del refinamiento, son más confiables que los mostrados anteriormente.<br>
 
-![Figura 37](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/19ac0859-4224-44b1-9e09-6bbf677b650a)
+![Figura 38](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image038.png)
 
 ## Resultados
 
 Al dar _click_ en el ícono señalado, se despliega un reporte de lo hecho.
 
-![Figura 38](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/06d918d6-1807-4c29-af20-bedf5274ca8d)<br>
+![Figura 39](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image039.png)
 
 El reporte luce como se muestra a continuación. Muestra el nombre de la muestra, la ruta para encontrar el archivo y las condiciones de medida, las fases coincidentes y cómo las indexa –la fase A es el aluminio y la fase B es el corindón-, la composición elemental y las características de las fases seleccionadas de las bases de datos. Recordar que los porcentajes de fases o de elementos químicos, hasta este punto, no es correcta debido a que no se ha hecho un refinamiento.<br>
 
-![Figura 39](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/74b1fd61-443c-4f39-b07a-706ead4cdaef)
+![Figura 40](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image040.png)
 
 Además de esto, el informe muestra otras fases candidatas, con su número de archivo y su Figura de Mérito. <br>
 
-![Figura 40](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/96a4f514-06a7-458c-8045-57a7aff227ad)<br>
+![Figura 41](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image041.png)
 
 Además de otra información, el reporte muestra la lista de picos y cómo quedaron indexados.<br>
 
-![Figura 41](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/4f1c8933-3243-4fc1-bbf4-a2087dac2906)
+![Figura 42](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image042.png)
 
 Por último, el reporte puede guardarse como un archivo PDF.<br>
 Si queremos ver los índices de Miller de cada plano difractado, podemos hacerlo dando _click_ derecho sobre la pantalla del patrón de difracción. Así, se despliegan varias opciones. Damos _click_ en <kbd>Miller Indices</kbd>.
 
-<img width="960" alt="Figura 42" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/6e4a4f74-05dc-4373-a250-bfb6b29715a5"><br>
+![Figura 43](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image043.png)
 
 Los índices de Miller aparecerán sobre cada pico:<br>
 
-<img width="960" alt="Figura 43" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ba2020e0-108b-42ec-97dd-b1315f6bcc0c"><br>
+![Figura 44](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image044.png)
 
 ## Exportar archivos
 
 Por último, vamos a exportar un archivo con extensión .dat para abrir en el OriginPro, que nos ayuda a procesar los datos de forma elegante. Damos _click_ en <kbd>File</kbd>, <kbd>Export</kbd>, <kbd>Profile Data</kbd>.<br>
 
-<img width="960" alt="Figura 44" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b454f809-f956-4ad8-8c63-95196d2e15cb"><br>
+![Figura 45](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image045.png)
 
-![Figura 45](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/610f2f0e-3500-408d-8e48-6e584e99f812)<br>
+![Figura 46](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image046.png)
 
 Escogemos la opción de 2 columnas: 2Theta Intensity.
 
-<img width="960" alt="Figura 46" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/f432f520-2d5b-41f8-a9cf-5e9fc0622ac9">
+![Figura 47](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image047.png)
 
 El archivo resultante queda de dos columnas. La de la izquierda corresponde al ángulo 2Theta y la de la derecha a la intensidad.
 
-![Figura 47](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/3acff0f5-aad1-43e1-9959-a605d503bfad)
+![Figura 48](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image048.png)
 
 ##
 

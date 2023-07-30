@@ -12,9 +12,9 @@ Manejo de _softwares_ para extracción de datos de Difracción de Rayos X de mat
 ## Objetivos del curso
 Familiarizar al estudiante con las diferentes herramientas matemáticas y computacionales para el análisis de los datos de difracción de rayos de materiales. Esto, con el fin de que aprenda a extraer información valiosa como cantidad y tipos de fases cristalinas presentes en un material, así como calcular parámetros de red, tamaños de cristalito y microdeformaciones. Todos los ejemplos se harán con un patrón de difracción de rayos X que consta de dos fases cristalinas, aluminio y corindón.<br>
 
-## Sección 1: Indexación de picos de patrones de difracción<br>
-
 <div align="center">
+
+## Sección 1: Indexación de picos de patrones de difracción<br>
 
 En este apartado aprenderás a indexar patrones de DRX con ayuda de MATCH!
 
@@ -71,11 +71,11 @@ En este apartado aprenderás a refinar patrones de difracción para conocer porc
 | [Creación del archivo .PCR de la primera fase](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/Readme.md#creaci%C3%B3n-de-archivo-pcr-de-la-primera-fase)| En este apartado aprenderás a crear el archivo .PCR de la primera fase|
 | [Cargue del archivo .BGR](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n03#cargue-del-archivo-bgr)                     | En este apartado aprenderás a cargar el archivo .BGR|
 | [Refinamiento de la primera fase](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/Readme.md#refinamiento-de-la-primera-fase)             | En este apartado aprenderás a cómo llevar a cabo el refinamiento paso a paso de la primera fase del material usando FullProf|
-| Creación del archivo .PCR de la segunda fase| En este apartado aprenderás a crear el archivo .PCR de la segunda fase|
-| Adición del archivo .PCR de la segunda fase al de la primera fase| En este apartado aprenderás a adicionar la información del archivo .PCR de la segunda fase en el archivo .PCR de la primera fase|
-| Refinamiento de la segunda fase             | En este apartado aprenderás a cómo llevar a cabo el refinamiento paso a paso de la segunda fase del material usando FullProf|
-| WinPlotr                                    | En este apartado aprenderás a usar WinPlotr para extraer información después del refinamiento.|
-| Archivos de salida                          | En este apartado aprenderás a extraer la información después del proceso de refinamiento.|
+| [Creación del archivo .PCR de la segunda fase](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/Readme.md#creaci%C3%B3n-del-archivo-pcr-de-la-segunda-fase)| En este apartado aprenderás a crear el archivo .PCR de la segunda fase|
+| [Adición del archivo .PCR de la segunda fase al de la primera fase](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/Readme.md#adici%C3%B3n-del-archivo-pcr-de-la-segunda-fase-al-de-la-primera-fase)| En este apartado aprenderás a adicionar la información del archivo .PCR de la segunda fase en el archivo .PCR de la primera fase|
+| [Refinamiento de la segunda fase](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/Readme.md#refinamiento-de-la-segunda-fase)             | En este apartado aprenderás a cómo llevar a cabo el refinamiento paso a paso de la segunda fase del material usando FullProf|
+| [WinPlotr](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/Readme.md#winplotr)                                    | En este apartado aprenderás a usar WinPlotr para extraer información después del refinamiento.|
+| [Archivos de salida](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/Readme.md#archivos-de-salida)                          | En este apartado aprenderás a extraer la información después del proceso de refinamiento.|
 
 <div align="center">
 

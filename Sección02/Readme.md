@@ -116,43 +116,43 @@ Clickeamos en la pestañita y se despliega un submenú.
 
 Escogemos <kbd>Rectangle tool</kbd>. Movemos el cursor hacia la posición en la queremos dibujar la figura geométrica, y lo hacemos con el _mouse_. Si queremos moverlo, lo señalamos dando _click_, y lo desplazamos con ayuda de las flechas del teclado, o con el _mouse_, sosteniendo el _click_ izquierdo. Para copiar y pegar también lo señalamos con el _mouse_, clickeando, y usamos los comandos <kbd>Ctr+c</kbd> y <kbd>Ctr+v</kbd>. El resultado del patrón de difracción indexado queda así:
 
-![Figura 66](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/46651bd8-1137-4dcd-aa03-ac064ffe34a9)
+![Figura 71](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image071.png)<br>
 
 Podemos exportar el gráfico para pegarlo en algún reporte en WORD. Para ellos, vamos a <kbd>File</kbd>, <kbd>Export Graphs</kbd>, <kbd>Open Dialog</kbd>. Esto último, para poder escoger la ruta donde vamos a guardar la imagen, el tipo de archivo y darle nombre.
 
-![Figura 67](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/d9cc1cc4-4626-429d-a816-fead70268caa)
+![Figura 72](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image072.png)<br>
 
 Se abre la siguiente ventana. 
 
-![Figura 68](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/16269426-1d9e-4486-933c-e7eb3d165115)
+![Figura 73](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image073.png)<br>
 
 En <kbd>Image Type</kbd> escogemos el tipo de archivo que queremos. Las imágenes en .tiff funcionan muy bien.
 
-![Figura 70](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/52f367bb-5f79-4432-85a1-4b679079fc1e)
+![Figura 74](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image074.png)<br>
 
 En <kbd>File name(s)</kbd> ponemos el nombre de la figura y en <kbd>Path</kbd> buscamos la ruta donde queremos que se guarde (en el botón de los 3 puntos).
 
-![Figura 71](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/96768025-ced4-479f-a3b7-5773d81b2da7)
+![Figura 75](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image075.png)<br>
 
 Como resultado, se genera el gráfico con la extensión y nombre escogidos, en la carpeta seleccionada. Esa gráfica podemos pegarla en algún documento de interés:
 
-![Patrón](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b44395bf-c23f-4615-86da-30a07102ebeb)
+![Figura 76](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image076.png)<br>
 
 Otra forma de mostrar el resultado es poniendo los índices de Miller de los planos difractados. Para ello, en el archivo del Match! abrimos la lista de picos <kbd>Peak list</kbd>. Recordemos que al Match! le podemos pedir que muestre los índices de Miller sobre cada pico.
 
-![Figura 72](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1c12f80e-9d3f-4429-af53-e4295ec8b9e6)
+![Figura 77](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image077.png)<br>
 
 Así, podemos reportar el gráfico en esa forma. En el Origin puedo duplicar un gráfico (y un libro), parándome en la parte superior del marco y dando click derecho. Eso despliega un pequeño menú, de donde escogemos <kbd>Duplicate</kbd>.
 
-![Figura 73](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/9ae6c01d-8a77-4a77-a577-692ac0384bc3)
+![Figura 78](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image078.png)<br>
 
 Duplicamos el gráfico:
 
-![Figura 74](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/cbc24213-bda7-4054-99a6-a182967a6598)
+![Figura 79](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image079.png)<br>
 
 Con el _click_ izquierdo sostenido, hacemos un barrido para escoger todo lo que hemos hecho encima del gráfico:
 
-![Figura 75](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/6da5297d-9894-412a-98f4-8d4a2519b7ed)
+![Figura 80](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image080.png)<br>
 
 Cuando soltamos, todo queda seleccionado:
 

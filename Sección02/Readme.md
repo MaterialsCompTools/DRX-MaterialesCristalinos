@@ -569,8 +569,12 @@ Si los rayos X incidieran y fuera difractados de forma perfectamente paralela en
 
 Sin embargo, los rayos X que inciden sobre la muestran no llegan paralelos entre ellos, sino ligeramente paralelos. Esto causa el ensanchamiento de la línea.
 
+<div align="center">
+
 ![Figura 150](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image150.png)<br>
-![Figura 151](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image151.png)<br>)
+![Figura 151](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image151.png)<br>
+
+</div>
 
 Ese tipo de ensanchamiento se denomina instrumental y debe corregirse. Para determinar el ensanchamiento instrumental se utiliza una muestra de calibración, la cual debe tener un tamaño de cristalito mayor a 100 nm, no poseer microtensiones y, si es posible, tener cristalitos uniformes.
 

@@ -195,7 +195,11 @@ Así, aparecen los candidatos de esta segunda fase. Las fases candidatas, en est
 
 Como puede verse, el MATCH! también puede hacer un análisis cuantitativo del porcentaje de fases dentro del material. En este caso se muestra un 87.7% para el aluminio y un 12.3% para la alúmina. Sin embargo, este valor no es correcto. Para que lo sea, debe hacerse un proceso de refinamiento, que hace que el patrón calculado (rojo) sea igual al experimental (azul).
 
-![Figura 300](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image0300.png)
+<div align="center">
+
+![Figura 300](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Recuadro%20fases.png)
+
+</div>
 
 En la siguiente figura puede verse que estos aún no coinciden bien. Más adelante aprenderemos cómo hacerlo. Por ahora el análisis es sólo cualitativo.
 

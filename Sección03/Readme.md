@@ -111,30 +111,25 @@ Esto automáticamente descarga el archivo, que queda con el nombre según el nú
 
 Se recomienda cambiarle al nombre según la fase de trabajo.
 
-Otra opción para descargar un archivo con extensión **.CIF** sin acceder al MATCH!, es yendo directamente a la **base de datos** [Crystallography Open Database](http://www.crystallography.net/cod/)
-
+Otra opción para descargar un archivo con extensión **.CIF** sin acceder al MATCH!, es yendo directamente a la **base de datos** [Crystallography Open Database](http://www.crystallography.net/cod/) Damos _click_ en <kbd>SEARCH</kbd>, en el menú de la parte izquierda:
 
 <div align="center">
 
-![Imagen1](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/f32b19c5-9657-44f4-aaa6-2254bc7ba4ae)
+![Diapositiva1](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva1.PNG)
 
 </div>
 
-Damos _click_ en <kbd>SEARCH</kbd>, en el menú de la parte izquierda:
-
-![Imagen2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/7150132d-d5b2-4db2-a7e0-e912e6934c10)
-
 Inmediatamente se abre una nueva página, que nos pide información sobre la fase de la que necesitamos el archivo **.CIF**. Escribimos el nombre o fórmula química de la fase. Para efectos de este ejercicio práctico empezaremos con la fase 1, que es la de aluminio.
 
-![Imagen3](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/3013dd04-757e-4b19-9f7b-452414ad5735)
+![Diapositiva2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva2.PNG)
 
 Esto nos despliega una lista de todos los archivos relacionados.
 
-![Imagen4](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ccd76213-61fc-4a9b-8dad-03f0a1e37d4b)
+![Diapositiva3](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva3.PNG)
 
 Damos _click_ en aquel que corresponda químicamente a nuestro material. Inmediatamente el archivo se descarga.
 
-![Imagen5](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8d0bf813-8828-449b-8a36-86ef41b8bec0)
+![Diapositiva4](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva4.PNG)
 
 De nuevo, se recomienda cambiarle al nombre según la fase de trabajo.
 
@@ -142,13 +137,13 @@ De nuevo, se recomienda cambiarle al nombre según la fase de trabajo.
 
 Guardamos los archivos con extensión **.CIF** de las fases que vamos a refinar. En nuestro caso, alumunio y alúmina ($Al_2O_3$)
 
-![Imagen6](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/66b553db-bd99-44ab-85a4-4df655dc4b7f)
+![Diapositiva5](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva5.PNG)
 
 ### Archivos .DAT
 
 El archivo de nuestro patrón de difracción con extensión .DAT que usa FullProf tiene algunas algunas características: En la primera fila deben ir el ángulo 2Theta de inicio de los datos; el paso (que es la diferencia que hay de un punto a otro); y el ángulo 2 Theta de finalización de los datos. Después tenemos columnas de datos con la información de las intensidades.
 
-![Imagen7](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1d46d055-c4dd-4013-8847-36d79fbad6ab)
+![Diapositiva6](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva6.PNG)
 
 Para descargar este archivo de MATCH! vamos a <kbd>File</kbd>, <kbd>Export</kbd> y <kbd>Profile data</kbd>. 
 
@@ -164,28 +159,23 @@ Al dar _click_ se nos genera el archivo:
 
 ### Archivo .BGR
 
-Para crear el archivo con extensión **.BGR** abrimos el FullProf. De la barra de tareas clickeamos en el botón que se muestra a continuación. 
+Para crear el archivo con extensión **.BGR** abrimos el FullProf. De la barra de tareas clickeamos en el botón que se muestra a continuación. Esto abre la ventana de **WinPLOTR**. Ahí damos _click_ en <kbd>File</kbd>
 
-![Imagen11](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1120204b-b01d-480f-a4cd-3cfcdb6108aa)
+![Diapositiva7](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva7.PNG)
 
-Esto abre la ventana de **WinPLOTR**. Ahí damos _click_ en <kbd>File</kbd>
+amos _click_ en <kbd>Open pattern file </kbd>
 
-![Imagen14](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/7d7aef94-f2a9-4610-bb79-4a6557125572)
-
-Damos _click_ en <kbd>Open pattern file </kbd>
-
-![Imagen15](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/c9f724c8-b66e-4429-858f-adb05a76b0ed)
+![Diapositiva8](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva8.PNG)
 
 Seleccionamos la segunda opción y damos <kbd>OK</kbd>.
 
-![Imagen16](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/8a973a09-2e71-4a3b-ba58-c6ac9d701d92)
+![Diapositiva9](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva9.PNG)
 
 Abrimos el archivo **.DAT** que habíamos guardado:
 
 <div align="center">
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/2b525664-c467-4cde-8cab-9cd592acfa05)
-
+![Diapositiva10](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva10.PNG)
 </div>
 
 Esta acción abre el archivo

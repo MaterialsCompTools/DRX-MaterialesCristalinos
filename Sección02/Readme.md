@@ -220,46 +220,46 @@ $pV = η L + (1-η) G$
 
 Como ejemplo, miremos el archivo con el que estamos trabajando. Vamos a trabajar con el pico (111) de la fase del aluminio. Para ello, vamos a copiar sus datos y los vamos a copiar en otro libro dentro del proyecto de Origin. Primero, con el ícono mostrado en la siguiente figura nos vamos a parar en el inicio y en el final del pico, para saber el valor del ángulo 2Theta en el que inicia y termina. Si desea aumentar el pico, puede usar la lupa con el signo más que se ve de segundo de arriba abajo en la barra de tareas de la izquierda.
 
-![Figura 82](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/6efebff6-0afc-43df-8906-faa965ae14d8)
+![Figura 91](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image091.png)<br>
 
 Después de clickear en la lupa, se señala con un rectángulo –barriendo la pantalla con el _click_ izquierdo sostenido- el área que queremos aumentar.
 
-![Figura 83](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/486069e1-6130-4c16-9c4e-80976775ef5a)
+![Figura 92](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image092.png)<br>
 
 Así se ve el área aumentada:
 
-![Figura 84](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/df355001-a6a4-410d-9e8f-cd94f1e9ebe7)
+![Figura 93](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image093.png)<br>
 
 Al dar _click_ en el ícono señalado por la flecha roja que se mostró, se abre una ventana –que podemos mover clickeando en la parte de arriba, y sosteniendo el _click_ izquierdo-, que muestra el valor de 2Theta y de intensidad:
 
-![Figura 85](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/2576f228-363e-4ffb-aa28-c919eea47b52)
+![Figura 94](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image094.png)<br>
 
 Nos paramos cerca de donde inicia el pico, y leemos el dato de 2Theta:
 
-![Figura 86](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/05b67b54-b0b6-475f-a538-c26ab53b8fb8)
+![Figura 95](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image095.png)<br>
 
 Nos paramos donde termina el pico, y leemos el valor de 2Theta.
 
-![Figura 87](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/bd1aca49-31ef-4965-bb4f-0c414a9e187b)<br>
+![Figura 96](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image096.png)<br>
 
 Como puede verse, el pico va desde 37.75° hasta 38.98°. <br>
 Para salir del modo lectura de puntos, utilizamos la tecla de <kbd>ESCAPE</kbd> y cerramos la ventana de lectura.<br>
 Para volver la imagen al tamaño real, clickeamos en la lupa con el signo de menos.<br>
 Ahora, hacemos pequeña la ventana de la figura, y del libro resaltamos, con _clik_ izquierdo sostenido, los datos que queremos copiar. Damos <kbd>CRT+C</kbd>.<br>
 
-![Imagen2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1cf3eb51-709c-403b-8d38-d6c13745f827)
+![Figura 97](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image097.png)<br>
 
 Con los datos copiados, creamos otro libro:<br>
 
-![Imagen3](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/5a7b5724-b77c-4c94-8056-d6e3a32f7bad)<br>
+![Figura 98](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image098.png)<br>
 
 Y copiamos los datos:<br>
 
-![Figura 88](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/d08fddf0-8a5b-47c3-963a-87568073b61f)<br>
+![Figura 99](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image099.png)<br>
 
 Con el _click_ izquierdo sostenido señalamos ambas columnas <kbd>(A(X)</kbd> y <kbd>B(Y))</kbd> y graficamos con el logo de la línea ubicado en la parte izquierda de la barra de tareas de la parte inferior.
 
-![Figura 89](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/0184ea19-2032-4131-b636-fc55296a75f7)
+![Figura 100](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image100.png)<br>
 
 Con doble-_clik_ izquierdo en la parte superior de la imagen la agrandamos. Ahora, vamos a probar el ajuste con las 3 curvas que mencionamos. Para ello, nos vamos a <kbd>ANALYSIS</kbd>, <kbd>FITTING</kbd>, <kbd>SINGLE-PEAK</kbd>, <kbd>OPEN DIALOG</kbd>.
 

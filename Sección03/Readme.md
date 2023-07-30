@@ -183,7 +183,7 @@ Esta acción abre el archivo
 
 ![Diapositiva11](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva11.PNG)
 
-En <kbd>Points Selection</kbd> escogemos <kbd>Automatic Background<7kbd>
+En <kbd>Points Selection</kbd> escogemos <kbd>Automatic Background</kbd>
 
 ![Diapositiva12](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva12.PNG)
 

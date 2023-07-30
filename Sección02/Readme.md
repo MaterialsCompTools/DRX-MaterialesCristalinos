@@ -140,23 +140,23 @@ Como resultado, se genera el gráfico con la extensión y nombre escogidos, en l
 
 Otra forma de mostrar el resultado es poniendo los índices de Miller de los planos difractados. Para ello, en el archivo del Match! abrimos la lista de picos <kbd>Peak list</kbd>. Recordemos que al Match! le podemos pedir que muestre los índices de Miller sobre cada pico.
 
-![Figura 77](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image077.png)<br>
+![Peak list](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image046.png)
 
 Así, podemos reportar el gráfico en esa forma. En el Origin puedo duplicar un gráfico (y un libro), parándome en la parte superior del marco y dando click derecho. Eso despliega un pequeño menú, de donde escogemos <kbd>Duplicate</kbd>.
 
-![Figura 78](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image078.png)<br>
+![Figura 77](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image077.png)<br>
 
 Duplicamos el gráfico:
 
-![Figura 79](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image079.png)<br>
+![Figura 78](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image078.png)<br>
 
 Con el _click_ izquierdo sostenido, hacemos un barrido para escoger todo lo que hemos hecho encima del gráfico:
 
-![Figura 80](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image080.png)<br>
+![Figura 79](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image079.png)<br>
 
 Cuando soltamos, todo queda seleccionado:
 
-![Figura 76](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/69b46d2a-150f-4332-9494-3beaa181596e)
+![Figura 80](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image080.png)<br>
 
 Le damos suprimir, para borrar. Otra vez queda limpio el gráfico:
 

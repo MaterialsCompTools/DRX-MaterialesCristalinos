@@ -193,29 +193,23 @@ Eso nos abre una ventana que nos pide información.
 
 En <kbd>Background threshold</kbd> un valor entre 0.05 y 0.07 funciona bien. Esto está relacionado con la cantidad de puntos que tendrá el archivo del background.
 
-La cantidad de puntos generada fue de 68. Podemos cerrar la ventanita.
+La cantidad de puntos generada fue de 58. Podemos cerrar la ventanita. Puede verse que en azul está representado nuestro patrón experimental, y en verde aparecen los puntos del _background_.
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/fd1a476c-7bc1-471b-a15b-a257ec6e3603)
-
-Puede verse que en azul está representado nuestro patrón experimental, y en verde aparecen los puntos del _background_.
-
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/2e5d8a81-1a2b-4c68-b6d1-c007c5fefe2d)
+![Diapositiva14](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva14.PNG)
 
 Para guardar los datos vamos a <kbd>Points Selection</kbd>  y escogemos <kbd>SaVe background points</kbd>. Nospregunta, y le decimos que <kbd>sí</kbd>.
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/81b02afe-f2ac-4d6b-8838-9c563a16f630)
+![Diapositiva15](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva15.PNG)
 
 Nombramos el archivo, cuidando de que la extensión sea **.BGR**.
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/40d3e82e-a97d-47a2-a8ca-9b022bbf62d5)
+![Diapositiva16](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva16.PNG)
 
 Se nos confirma que se ha creado el archivo con la cantidad de puntos correspondiente.
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/3a9e60c0-ac85-4cbd-9f1f-adcaadf5e782)
+![Diapositiva17](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva17.PNG)
 
 Si se desea, podemos editar el archivo. Yo diré que no.
-
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/eab694f6-8003-427a-9e5f-a2eab524f6a3)
 
 Ya tenemos listos los 4 archivos
 
@@ -223,7 +217,7 @@ Ya tenemos listos los 4 archivos
 * 1 archivo **.DAT** con la información experimental del patrón DRX que vamos a refinar<br>
 * 1 archivo **.BGR** con la información del background o radiación de fondo<br>
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/804fed5b-cbf6-4df9-b285-c95ae419a00c)
+![Diapositiva18](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva18.PNG)
 
 ## Creación de archivo .PCR de la primera fase
 

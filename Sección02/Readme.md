@@ -447,7 +447,7 @@ $F(θ) = cot(θ) {Cos^2}(θ)$
 
 A continuación podemos comparar los resultados al usar las cuatro funciones mencioandas.
 
-![Imagen1](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/30dd7256-54c5-4c4d-a43f-6aeabf90e80b)
+![Figura 131](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image131.png)<br>
 
 En la siguiente tabla se hace la comparación de los valores reportados por cada método. 
 
@@ -460,13 +460,13 @@ En la siguiente tabla se hace la comparación de los valores reportados por cada
 
 Teniendo en cuenta que las barras de error se traslapan, puede decirse que los valores son bastante similares.
 
-![Param red funciones extrap tif](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/91ec3ea1-16c8-4a76-b1d7-2689780eff8a)
+![Figura 132](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image132.png)<br>
 
 Si la estructura cristalina no es cúbica, el cálculo de los parámetros de red es un poco diferente. Ese es el caso de la segunda fase del material con el que estamos trabajando. Esta fase es el corindón o alúmina, que exhibe **estructura cristalina hexagonal**. Esta estructura cristalina queda definida con 2 parámetros de red, _a_ y _c_.
 
 <div align="center">
 
-![Imagen7](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1249998d-77f4-4900-b87d-0793a9d2cdd5)
+![Figura 133](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image133.png)<br>
 
 </div>
 

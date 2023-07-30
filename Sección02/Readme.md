@@ -263,36 +263,36 @@ Con el _click_ izquierdo sostenido señalamos ambas columnas <kbd>(A(X)</kbd> y 
 
 Con doble-_clik_ izquierdo en la parte superior de la imagen la agrandamos. Ahora, vamos a probar el ajuste con las 3 curvas que mencionamos. Para ello, nos vamos a <kbd>ANALYSIS</kbd>, <kbd>FITTING</kbd>, <kbd>SINGLE-PEAK</kbd>, <kbd>OPEN DIALOG</kbd>.
 
-![Figura 90](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/e7a84989-1a2c-41b2-9813-aa5cda526a9f)
+![Figura 101](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image101.png)<br>
 
 Al hacer se abre un cuadro de diálogo:
 
-![Figura 91](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b0b0809a-6ed6-4066-9c49-70772d0528ac)
+![Figura 102](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image102.png)<br>
 
 Abrimos la pestaña de <kbd>FUNCTIONS</kbd>:
 
-![Figura 92](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/c5faad50-e83c-42f3-8ad1-10add3368f6f)
+![Figura 103](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image103.png)<br>
 
 Podemos ver que aparecen varias funciones, entre ellas las que ya mencionamos: gaussiana, lorentziana y pseudo-voigt. Vamos a comparar las tres, empezando con la **gaussiana**. La escogemos:
 
-![Figura 93](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/072afe61-943a-4873-b383-1ab3ec8a2ed4)
+![Figura 104](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image104.png)<br>
 
 Y damos _click_ en <kbd>FIT</kbd>.
 El resultado se muestra a continuación. Puede verse que, aunque el $R^2 = 0.9877$, no están bueno. Esto indica que otra de las funciones podría ajustarse mejor a este pico.
 
-![Figura 94](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b99b1165-a29a-42af-97a0-741ba874f7ae)
+![Figura 105](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image105.png)<br>
 
 A continuación, se muestra el resultado con la Lorentziana, con un $R^2 = 0.9958$, que es un valor más alto que el reportado por la **Lorentziana** y el ajuste se ve mejor.
 
-![Figura 95](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b568e3bb-cc6c-46df-8eb5-f3454a0c4b53)
+![Figura 106](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image106.png)<br>
 
 La **Pearson VII** también da un buen ajuste, con $R^2 = 0.9971$.
 
-![Figura 96](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/0e0d6d43-bbc2-4190-8128-8f716df30d5b)
+![Figura 107](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image107.png)<br>
 
 La **pseudo-voigt1** es la que mejor ajuste muestra en este caso, con un $R^2 = 0.9975$.
 
-![Figura 97](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/beb6f452-d989-4a1b-82ad-a873eaf62375)
+![Figura 108](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image108.png)<br>
 
 ## Cálculo de parámetros de red
 

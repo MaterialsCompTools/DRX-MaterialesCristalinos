@@ -2,7 +2,7 @@
 
 # Determinación de porcentajes de fases por refinamiento Rietveld. 
 
-![FullProf logo](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/aa82ea0c-a328-46fa-aaf3-bc19419ba279)
+![FullProf logo](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/FullProf%20logo%20PNG.png)
 
 </div> 
 

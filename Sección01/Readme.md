@@ -203,7 +203,11 @@ Como puede verse, el MATCH! también puede hacer un análisis cuantitativo del p
 
 En la siguiente figura puede verse que estos aún no coinciden bien. Más adelante aprenderemos cómo hacerlo. Por ahora el análisis es sólo cualitativo.
 
-![Figura 301](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image0301.png)
+<div align="center">
+
+![Figura 301](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Sin%20refinar.png)
+
+</div>
 
 Otra forma de buscar las fases es usando la tabla periódica de la izquierda. Después de cargar el archivo, marcamos en <kbd>Toogle</kbd> hasta que todo rojo (de lo que no se escoge ningún elemento).
 

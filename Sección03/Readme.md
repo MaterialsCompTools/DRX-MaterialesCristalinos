@@ -221,47 +221,43 @@ Ya tenemos listos los 4 archivos
 
 ## Creación de archivo .PCR de la primera fase
 
-Ahora vamos a crear el archivo con extensión **.PCR**. Para ello abrimos el _software_ FullProf. Esto abre la barra de tareas.
+Ahora vamos a crear el archivo con extensión **.PCR**. Para ello abrimos el _software_ FullProf. Esto abre la barra de tareas. Posteriormente abrimos <kbd>ED PCR</kbd>. Eso hace que se abra una ventana, como se ve abajo, que es el **editor de archivos PCR**. Usamos el ícono de CIF $\rightarrow$ Pcr.
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/db4576d4-6005-4c8b-b070-817ebe05249c)
-
-Abrimos <kbd>ED PCR</kbd>. Eso hace que se abra una ventana, como se ve abajo, que es el **editor de archivos PCR**. Usamos el ícono de CIF $\rightarrow$ Pcr.
-
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/dc5941fb-0348-4ff1-afa2-d3c12dab3e02)
+![Diapositiva21](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva21.PNG)
 
 Damos doble _click_ al archivo de la fase con la que vamos a trabajar. En este caso, **Al.cif**. Esto abre una ventana con la información cristalográfica de la fase, como los parámetros de red y el grupo espacial. Verificamos que la información corresponda a la de nuestra fase y damos <kbd>OK</kbd>.
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/109d7ddb-a8d0-45f4-8259-28a98ab0c0bf)
+![Diapositiva22](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva22.PNG)
 
 Con esta acción volvemos a quedar en el editor de archivos PCR. Aquí podemos observar 7 botones. Vamos a trabajar sobre los 3 primeros: <kbd>General</kbd>, <kbd>Patterns</kbd> y <kbd>Phases</kbd>. Primero damos _click_ en <kbd>General</kbd>. Eso abre otra ventana. En <kbd>Title</kbd> ponemos el título de la fase. En <kbd>Calculations</kbd> marcamos <kbd>Refinement/Calculation of a Powder Diffraction Profile</kbd>. Finalizamos con <kbd>OK</kbd>.
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b5da99f2-b80e-4452-a34a-186909c6521d)
+![Diapositiva23](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva23.PNG)
 
 Con esa acción volvemos al editor de archivos PCR. Clickeamos en el botón de <kbd>Patterns</kbd>. En la ventana que se abre clickeamos en <kbd>Data file/Peak shape</kbd>. Esto nos abre una ventana que se denomina **Profile data information: Pattern 1**. En la parte de **Data File Format** clickeamos en <kbd>Free Format (2ThetaI, step, 2ThetaF)</kbd>, que es el formato de nuestro archivo **.DAT**
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/fc5219f2-45a9-4a90-9c36-4ce22de6c9a1)
+![Diapositiva24](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva24.PNG)
 
 Luego pasamos a la pestaña de **Refinement/Simulation**, donde marcamos en <kbd>X-Ray</kbd>, ya que nuestros datos son de difracción de rayos X. En <kbd>Wavelenght</kbd> escogemos el tipo de fuente de nuestros rayos X. Recordemos que esto podemos consultarlo en el MATCH! En nuestro caso la fuente fue de cobre. Damos <kbd>OK</kbd>. Luego, clickeamos en la pestaña de kbd>Pattern Calculation/Peak Shape</kbd> de la ventana de **Profile data information: Pattern 1**. En la ventana que se despliega, en la parte de **Peak Shape** escogemos la curva que escogeremos para simular nuestros picos. Lo haremos con una **pseudo-voigt**. En la parte de abajo, de **Range** colocamos los valores de <kbd>Theta_min</kbd>, que es el valor inicial del ángulo 2Theta; de <kbd>Theta_max</kbd> que es el valor final del ángulo 2Theta; y ponemos el valor del paso <kbd>Step</kbd>. Finalizamos con <kbd>OK</kbd>.
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/de8bc78b-1fea-41e1-8dbc-113af9e0400b)
+![Diapositiva25](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva25.PNG)
 
 Ahora, siguiendo en la ventana de **Patterns**, damos _click_ en <kbd>Background Type</kbd>. En la ventana que se abre señalamos <kbd>Linear interpolation between a set background points with refinable heights</kbd> y damos <kbd>OK</kbd>. Ahí quedamos en la ventana de **Patterns Information** y volvemos a dar <kbd>OK</kbd>.
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/53ed2fb8-0d1a-4a68-9c6a-7795aef6b978)
+![Diapositiva26](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva26.PNG)
 
 Con esta acción volvemos a quedar en el editor de archivos PCR. Ahora damos _click_ en <kbd>Phases</kbd>. Al hacerlo se abre otra ventana que se llama **Phase Information: Phase 1**. Aquí vamos a colocar la información general de la fase, empezando por el nombre en <kbd>Name of Phase</kbd>. Posteriormente damos _click_ en el botón <kbd>Contribution to Patterns</kbd>.
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/ebd9002a-0e51-4009-8585-30312739960d)
+![Diapositiva27](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva27.PNG)
 
 En la ventana que se abre vamos a marcar <kbd>X-ray</kbd> en la parte de **Type of Pattern**. En la parte de **Peak Shape** vamos a seleccionar <kbd>Pseudo-voigt</kbd> y damos <kbd>OK</kbd>. Con esto volvemos a la ventana de **Phase Information: Phase 1**. Ahora damos _click_ en <kbd>Symmetry</kbd> En la ventana que se despliega vamos a corroborar la información del grupo espacial, que podemos verificar en el <kbd>DATA SHEET</kbd> de MATCH! Finalizamos con <kbd>OK</kbd>. Y nuevamente <kbd>OK</kbd> en **Phase Information: Phase 1**.
 
-Con esto quedamos de nuevo en el Editor de archivos PCR. Ahora damos click en el bobón de los 3 discos en azul, como se ve a continuación. 
+Con esto quedamos de nuevo en el Editor de archivos PCR. Ahora damos _click_ en el bobón de los 3 discos en azul, como se ve a continuación. 
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/29e862c7-b61f-4e83-9f26-01701162f7e0)
+![Diapositiva28](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva28.PNG)
 
 Esto nos crea el archivo con extensión **.PCR**. Lo nombramos con el nombre de la fase o el material.
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/2f5d5841-36d8-48ea-86db-a4ae13ad03bc)
+![Diapositiva30](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva30.PNG)
 
 
 ## Cargue del archivo .BGR

@@ -111,45 +111,45 @@ Para eliminarla, hacemos _click_ en <kbd>Pattern</kbd> y en <kbd>Strip K-alpha2<
 
 Al hacer esto, la intensidad en los picos relacionada con esta difracción desaparece, tal como se ve a continuación:
 
-![Figura 10](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/4781adf6-6384-4ca3-b681-1c9fb42492c2)
+![Figura 12](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image012.png)
 
 ### Tercer paso
 
 Definimos la señal de fondo o _background_, que se observa como ruido en la señal. Tengamos en cuenta que esta señal de fondo surge por varios factores: el soporte de la muestra, el estado amorfo de la muestra, una mala monocromaticidad o calibración de la luz, o incluso por el tiempo de escaneo por paso. La señal de fondo se define con la línea roja, y es importante hacerlo bien, porque se entiende que lo que está encima de ella son picos difractados. De todos modos, el _software_ lo hace por defecto, como se vio al abrir el archivo, pero puede acomodarse. Para ello, se da _click_ en <kbd>Pattern</kbd>, luego en <kbd>Background</kbd> y luego en <kbd>Edit Background</kbd>.
 
-<img width="960" alt="Figura 11" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/62dc6b34-9b34-4c7d-bb36-6ef9108cacdd">
+![Figura 13](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image013.png)
 
 Manualmente, cogiendo cada punto, de los que se señalan algunos con flechas rojas en el siguiente gráfico, se puede modificar la línea roja de definición del background.
 
-![Figura 12](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/7d6a2a1f-8ec5-4d75-a1ca-c71d55965e08)
+![Figura 14](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image014.png)
 
 ### Cuarto paso
 
 Hacer que el _software_ reconozca los picos de nuestro patrón de difracción. Para ello, nos vamos a la pestaña de <kbd>Peaks</kbd>, <kbd>Peak searching</kbd> y _clickeamos_ en <kbd>Peak Search</kbd>.
 
-![Figura 13](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1a3b24f7-bd93-48f6-8d69-31bf2ba2195b)
+![Figura 15](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image015.png)
 
 El resultado se muestra a continuación. En la parte de abajo, en el eje _x_ que corresponde a 2 veces el ángulo de difracción, como unas rayitas azules. Con flechas en verde se muestran los picos reconocidos por el _software_, y con flechas en rojo se muestran los picos no reconocidos.
 
-![Figura 14](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/2df1226d-21fe-406d-9d4d-d94dc27ba668)
+![Figura 16](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image016.png)
 
 Para hacer que el _software_ reconozca todos los picos, se pueden incrementar la sensibilidad de búsqueda, como se muestra a continuación.
 
-<img width="960" alt="Figura 15" src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/19b83908-cf3d-4397-862c-531a6088168c">
+![Figura 17](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image017.png)
 
 Puede verse que con esto aumenta el número de picos reconocidos, aunque faltan aún algunos:
 
-![Figura 16](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/c439b0eb-e2dc-4c23-a4b6-d517c9949793)
+![Figura 18](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image018.png)
 
 Se repite el paso, pero puede verse que ahora se han reconocido como picos puntos de la señal de fondo (porque la definición del _background_ pudo haberse hecho mejor).
 
-![Figura 17](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/97c33fe2-4b0d-4d75-a5ad-cec0ae51a46e)
+![Figura 19](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image019.png)
 
 Esos picos extra señalados se pueden eliminar señalándonos con _click_ derecho, y haciendo _click_ en <kbd>Peaks</kbd> y <kbd>Delete</kbd>.
 
-![Figura 18](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/5a906bad-ece8-43b4-8499-785fd8ef7fc2)
+![Figura 20](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image020.png)
 
-![Figura 19](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/b3449333-0e8b-458f-af60-72b4b5377e13)
+![Figura 21](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image021.png)
 
 Ahora el patrón está listo para ser analizado por el _software_ y evaluar la coincidencia con los patrones de sus bases de datos. Se tienen 13 picos.
 

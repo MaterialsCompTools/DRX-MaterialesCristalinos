@@ -147,15 +147,15 @@ El archivo de nuestro patrón de difracción con extensión *.DAT que usa FullPr
 
 Para descargar este archivo de MATCH! vamos a <kbd>File</kbd>, <kbd>Export</kbd> y <kbd>Profile data</kbd>. 
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/973dccd4-1fe1-45f0-8848-59b3405766f7)
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/MatchDAT-1.png)
 
 Al dar _click_ se nos abre una ventana que nos pregunta la ruta para guardar el archivo (la seleccionamos o buscamos), el nombre del archivo (lo cambiamos si es necesario) y el **tipo de archivo**. Desplegamos la ventana y escogemos <kbd>Profile (start,step,end, intensities)(*dat)</kbd>.
 
-![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/97dfbd39-abeb-4ba7-8636-9342ad891802)
+![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/MatchDAT-2.png)
 
-Al dar _click_ se nos genera el archivo:
+Al dar _click_ en <kbd>GUARDAR</kbd> se nos genera el archivo:
 
-![Imagen9](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/1e51604f-ed7d-42e6-a580-909c6766d7a1)
+![Imagen9](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/MatchDAT-3.png)
 
 ### Archivo .BGR
 

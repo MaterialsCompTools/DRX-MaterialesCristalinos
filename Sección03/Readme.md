@@ -99,13 +99,13 @@ Para trabajar con esta herramienta se requieren 3 archivos de entradas con las s
 
 El archivo con extensión .CIF puede descargarse de MATCH! Es el archivo que usamos para llevar a cabo la indexación. Para ello, abrimos nuestro archivo en **MATCH!** y abrimos el <kbd>DATA SHEET</kbd> de nuestra fase. Haciendo click en el número al lado de <kbd>Link to orig. entry</kbd> podemos descargar el archivo.
 
-![Figura 115](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/baadf049-19aa-45f2-a13c-f6ee4a558234)
+![Descarga CIF Match](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Descargar%20Match.png)
 
 Esto automáticamente descarga el archivo, que queda con el nombre según el número:
 
 <div align="center">
 
-![Figura 116](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/assets/133029646/6faa544e-f815-47ce-95ec-da947538362a)
+![Figura 116](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Descargar%20Match-2.png)
 
 </div>
 

@@ -294,7 +294,7 @@ Para el refinamiento usamos la casilla de Refinement del Editor de archivos PCR.
 
  ![FP-3](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/FP-3.png)
 
- En <kbd>Profile</kbd> refinamos varios factores. Uno de ellos es _Scale Factor_, que ajusta la intensidad neta del patrón, multiplicando cada punto de datos por el factor de escala. También están los parámetros de red: _a_, _b, _c_ y los ángulos _alfa_, _beta_ y _gamma_. Los **parámetros de forma del perfil**, que son de dos tipos: los del ancho a la altura media del pico (FWHM) y otros parámetros. Los relacionados con FWHM son <kbd>U</kbd>, <kbd>V</kbd> y <kbd>W</kbd>, que son parámetros de la parte gaussiana de la pseudo-voigt. <kbd>V</kbd> y <kbd>W</kbd> relacionados con el ensanchamiento instrumental y <kbd>U</kbd> con las microdeformaciones. Los otros parámetros de forma son <kbd>Eta_0</kbd> y <kbd>X</kbd>, siendo <kbd>X</kbd> un parámetro de la curva lorentziana, relacionada con el tamaño de cristalito, y Eta_0 (η) es la razón entre gaussiana y lorentziana, como veíamos en [Ajuste de Picos](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#ajuste-de-picos). Dentro de los parámetros del perfil también tenemos el de **orientación preferencial**, <kbd>G1</kbd>.
+ En <kbd>Profile</kbd> refinamos varios factores. Uno de ellos es _Scale Factor_, que ajusta la intensidad neta del patrón, multiplicando cada punto de datos por el factor de escala. También están los parámetros de red: _a_, _b, _c_ y los ángulos _alfa_, _beta_ y _gamma_. Los **parámetros de forma del perfil**, que son de dos tipos: los del ancho a la altura media del pico (FWHM) y otros parámetros. Los relacionados con FWHM son <kbd>U</kbd>, <kbd>V</kbd> y <kbd>W</kbd>, que son parámetros de la parte gaussiana de la pseudo-voigt. <kbd>V</kbd> y <kbd>W</kbd> relacionados con el ensanchamiento instrumental y <kbd>U</kbd> con las microdeformaciones. Los otros parámetros de forma son <kbd>Eta_0</kbd> y <kbd>X</kbd>, siendo <kbd>X</kbd> un parámetro de la curva lorentziana, relacionada con el tamaño de cristalito, y <kbd>Eta_0</kbd> (η) es la razón entre gaussiana y lorentziana, como veíamos en [Ajuste de Picos](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#ajuste-de-picos). Dentro de los parámetros del perfil también tenemos el de **orientación preferencial**, <kbd>G1</kbd>.
 
  ![FP-4](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/FP-4.png)
 
@@ -304,7 +304,24 @@ Para el refinamiento usamos la casilla de Refinement del Editor de archivos PCR.
 
  ![FP-6](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/FP-6.png)
 
-Estando en el Editor de archivos PCR, clickeamos en el botón de <kbd>Refinement</kbd>. La ventana que se abre consta de 5 zonas. Nos dirigimos a la zona de **Atoms** (zona inferior derecha) y clickeamos en <kbd>Profile</kbd>. Eso nos abre una nueva ventana (**Profile Parameters: Phase 1**). Señalamos la casilla de <kbd>Scale</kbd> de la parte de <kbd>Coefficients</kbd>. Al señalar una casilla lo que hacemos es decirle al sistema que haga iteraciones no dejándola fija. Es decir, puede variar su valor. Lo que no se señala queda fijo para el programa. Señalamos y damos _click_ en <kbd>OK</kbd> y <kbd>OK</kbd>. 
+La rutina recomendada usando la **pseudo-voigt** como curva de ajuste y la **interpolación lineal** para el _background_ es el siguiente:
+**1.**	Refinar el factor de escala
+**2.**	Refinar el backgroound
+**3.**	Refinar los parámetros de red
+**4.**	Fijar los parámetros de red y el background
+**5.**	Refinar el punto cero del detector en Instrumental
+**6.**	Refinar el factor de escala
+**7.**	Refinar el factor de escala y los parámetros U y V
+**8.**	Refinar el factor de escala y los parámetros U y W
+**9.**	Refinar el factor de escala y los parámetros V y W
+**10.**	Refinar el factor de escala, los parámetros U y V y el factor X
+**11.**	Refinar el factor de escala, los parámetros U y V y el factor Eta_0
+**12.**	Refinar el factor de escala, los parámetros U y V, el factor Eta_0 y las posiciones atómicas
+**13.**	Refinar el factor de escala, los parámetros U y V, el factor Eta_0 y el factor de ocupación
+**14.**	Refinar el factor de escala, los parámetros U y V y el factor Eta_0 
+**15.**	Refinar el factor de escala, los parámetros U y V, el factor Eta_0 y el factor orientación preferencia G1
+ 
+Estando en el Editor de archivos PCR, clickeamos en el botón de <kbd>Refinement</kbd>. La ventana que se abre consta de 5 zonas. Nos dirigimos a <kbd>Profile</kbd> y clickeamos ahí. Eso nos abre una nueva ventana (**Profile Parameters: Phase 1**). Señalamos la casilla de <kbd>Scale</kbd> de la parte de <kbd>Coefficients</kbd>. Al señalar una casilla lo que hacemos es decirle al sistema que haga iteraciones no dejándola fija. Es decir, puede variar su valor. Lo que no se señala queda fijo para el programa. Señalamos y damos _click_ en <kbd>OK</kbd> y <kbd>OK</kbd>. 
 
 ![Diapositiva3](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva3.PNG)
 

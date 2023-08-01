@@ -540,7 +540,50 @@ Ahora, parámetros <kbd>U</kbd> y <kbd>V</kbd>
 
 ![Diapositiva63](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva63.PNG)
 
- 
+ Ahora, parámetros <kbd>V</kbd> y <kbd>W</kbd>
+
+![Diapositiva64](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva64.PNG)
+
+![Diapositiva65](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva65.PNG)
+
+ Con <kbd>U</kbd> y <kbd>W</kbd> tenemos
+
+![Diapositiva67](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva67.PNG)
+
+Con <kbd>X</kbd>
+
+![Diapositiva68](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva68.PNG)
+
+![Diapositiva69](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva69.PNG)
+
+Con <kbd>Eta_0</kbd>
+
+![Diapositiva70](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva70.PNG)
+
+![Diapositiva71](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva71.PNG)
+
+Ahora en <kbd>Instrumental</kbd> marcamos las posiciones atómicas:
+
+![Diapositiva72](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva72.PNG)
+
+El resultado del refinamiento:
+
+![Diapositiva73](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva73.PNG)
+
+Con el factor de ocupación en <kbd>OCC</kbd> tenemos:
+
+![Diapositiva75](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva75.PNG)
+
+Ahora con <kbd>Profile</kbd> <kbd>Preferred Orientation</kbd> <kbd>G1</kbd> nos queda:
+
+![Diapositiva79](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva79.PNG)
+
+
+
+
+
+
+
 
 
 ## Creación del archivo .PCR de la segunda fase

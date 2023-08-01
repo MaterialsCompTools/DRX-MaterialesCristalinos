@@ -22,12 +22,17 @@
 ## Requerimientos
 
 *	Descargar un demo del _Software_: [CrystalImpact](https://www.crystalimpact.com/match/download.htm)
+*	Descargar el archivo de trabajo con extensión *XRDML [aquí](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/ArchivoTrabajo/Al_56_h_MMH.xrdml)
 
 ## Qué es MATCH!
+
+<div align="justify">
 
 Es un _software_ para el análisis de fases cristalinas a partir de datos de difracción de polvo. Trabaja comparando el patrón de difracción de la muestra con una base de datos que contiene patrones de referencia para identificar las fases que están presentes. Una traducción del inglés al español de la palabra match es **coincidir**, así, lo que se busca es comparar el patrón de la muestra y ver con cuál patrón de la base de datos del _software_ coincide. Por lo tanto, usando el _software_ se puede hacer un análisis cualitativo de las fases cristalinas del material.
 
 **Aclaración**: el _software_ ayuda con la identificación de fases cristalinas, no reporta composición química. Así, para usar el _software_ debe conocerse previamente la composición elemental del material.
+
+</div>
 
 ## Tipos de archivo
 

@@ -462,6 +462,85 @@ Esta acción también baja el **Factor de Bragg**.
 
 ![Diapositiva41](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva41.PNG)
 
+Volvemos a <kbd>Refinement</kbd> <kbd>Atoms</kbd> y fijamos todo (desmarcamos todas las casillas).
+
+![Diapositiva42](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva42.PNG)
+
+Esta acción incrementa de nuevo el **Factor de Bragg**
+
+![Diapositiva43](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva43.PNG)
+
+Ahora vamos a <kbd>Refinement</kbd> <kbd>Profile</kbd> <kbd>Preferred Orientation</kbd> y marcamos <kbd>G1</kbd>.
+
+![Diapositiva44](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva44.PNG)
+
+Esto reduce el tanto el **Factor de Bragg** como el **chi-2**
+
+![Diapositiva45](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva45.PNG)
+
+Hasta este punto hemos terminado la rutina de refinamiento. Como el **Factor de Bragg** no está en un valor adecuado, vamos a repetir todo el proceso, paso a paso. Deben fijarse todos los parámetros nuevamente:
+
+![Diapositiva47](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva47.PNG)
+
+Fijamos todo, guardamos, y volvemos a correr el refinamiento.
+
+![Diapositiva48](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva48.PNG)
+
+Volvemos a empezar, clickeando en el factor de escala:
+
+![Diapositiva49](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva49.PNG)
+
+Al correr nuevamente el programa tenemos:
+
+![Diapositiva50](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva50.PNG)
+
+Ahora refinamos el background:
+
+![Diapositiva51](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva51.PNG)
+
+Vemos un resultado positivo, ya que **chi-2 = 2.97**  y un **Factor de Bragg = 7.557**
+
+![Diapositiva52](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva52.PNG)
+
+Vemos una mayor aproximación entre las curvas teórica y experimental:
+
+![Diapositiva53](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva53.PNG)
+
+Ahora marcamos las casillas de los parámetros de red en <kbd>Profile</kbd>
+
+![Diapositiva54](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva54.PNG)
+
+Esto hace que suba un poco el **Factor de Bragg**
+
+![Diapositiva55](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva55.PNG)
+
+Volvemos a dejar todo fijo en <kbd>Profile</kbd> y <kbd>Background</kbd>
+
+![Diapositiva56](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva56.PNG)
+
+Y corremos:
+
+![Diapositiva57](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva57.PNG)
+
+Fijando nuevamente el factor de escala tenemos:
+
+![Diapositiva59](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva59.PNG)
+
+Ahora vamos a <kbd>Instrumental</kbd> y marcamos <kbd>Zero</kbd>
+
+![Diapositiva60](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva60.PNG)
+
+![Diapositiva61](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva61.PNG)
+
+Ahora, parámetros <kbd>U</kbd> y <kbd>V</kbd>
+
+![Diapositiva62](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva62.PNG)
+
+**Factor de Bragg** y **Chi-2** siguen bajando.
+
+![Diapositiva63](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva63.PNG)
+
+ 
 
 
 ## Creación del archivo .PCR de la segunda fase

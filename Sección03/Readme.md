@@ -582,7 +582,7 @@ Aunque el resultado podría ser mejor -para ello puede repetirse toda la rutina 
 
 ![Diapositiva81](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva81.PNG)
 
-Si lo abrimos podemos encontrar varias cosas. Entre ellas el valor de los parámetros de red: _a = 4.05285 Å_. Este valor es un poco diferente al que calculamos previamente en la sección [](). El valor calculado en la sección anterior es más confiable.
+Si lo abrimos podemos encontrar varias cosas. Entre ellas el valor de los parámetros de red: _a = 4.05285 Å_. Este valor es un poco diferente al que calculamos previamente en la sección [Cálculo del parámetro de red](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#c%C3%A1lculo-de-par%C3%A1metros-de-red). El valor calculado en la sección anterior es más confiable:  _a = 4.05424 Å_
 
 ![Diapositiva82](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva82.PNG)
 

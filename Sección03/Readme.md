@@ -318,7 +318,7 @@ Cuando hago eso, él me pide confirmación del archivo con el que estamos trabaj
 
 El software hace las iteraciones sobre la ventana que se abre, y al terminar queda como se muestra a continuación. Podemos ver, en rojo, el patrón experimental. En negro, sobre la curva roja, aparece una negra, que corresponde al patrón teórico o refinado. Lo que esperamos al final es que ambas curvas coincidan. En azul aparece el background, que irá cambiando a medida que se lleva a cabo el refinamiento. Al final esperamos que quede plano, sin mucho ruido.
 
-Encontramos 2 valores importantes que nos indicarán que tan bien está quedando el refinamiento. Uno de ellos es el **factor de Bragg** que indica, en porcentaje, qué tan diferentes son la curva experimental y la teórica. Mientras más alto el valor, más diferencias entre ellas. Un valor por debajo de 10 es adecuado para que un refinamiento sea aceptable. El otro es el **chi-cuadrado reducido**, que relaciona el factor del perfil con el factor del perfil ponderado. Un valor adecuado de Chi-2 es menor a 5. Si desea profundizar en estos conocimientos, puede dirigirse a la página del [FullProf-Tutoriales](https://www.ill.eu/sites/fullprof/php/tutorials.html)
+Encontramos 2 valores importantes que nos indicarán que tan bien está quedando el refinamiento. Uno de ellos es el **factor de Bragg** que indica qué tan diferentes son las intensidades de las curvas experimental y teórica. Mientras más alto el valor, más diferencias entre ellas. Un valor por debajo de 10 es adecuado para que un refinamiento sea aceptable. El otro es el **chi-cuadrado reducido**, que relaciona el factor del perfil con el factor del perfil ponderado. Un valor adecuado de Chi-2 es menor a 5. Si desea profundizar en estos conocimientos, puede dirigirse a la página del [FullProf-Tutoriales](https://www.ill.eu/sites/fullprof/php/tutorials.html)
 
 En este caso el **Factor de Bragg = 83** y el **Chi-2 = 12.8**. Como recién empezamos el proceso estos valores son altos.
 
@@ -397,6 +397,70 @@ Ahora vamos a <kbd>Background</kbd> <kbd>Instrumental</kbd> y seleccionamos la c
 Guardamos cambios y corremos el programa. El resultado muestra un **chi-2 = 6.10** y un **Factor de Bragg = 36.05**.
 
 ![Diapositiva25](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva25.PNG)
+
+Sin embargo, si acercamos uno de los picos (arrstrando el _click_ izquierdo en el área) vemos que la coincidencia entre curva teórica y experimental aún no es buena.
+
+![Diapositiva26](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva26.PNG)
+
+Ahora volvemos a marcar el factor de escala y corremos: <kbd>Refinement</kbd> <kbd>Profile</kbd> <kbd>Scale</kbd>.
+
+![Diapositiva27](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva27.PNG)
+
+Ahora volvemos a <kbd>Refinement</kbd> <kbd>Profile</kbd> y marcamos las casillas de <kbd>U</kbd> y <kbd>V</kbd>. 
+
+![Diapositiva28](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva28.PNG)
+
+Guardamos cambios y corremos el refinamiento. El resultado es un **chi-2 = 3.67**  y un **Factor de Bragg = 7.506**. Ambos valores muy adecuados.
+
+![Diapositiva29](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva29.PNG)
+
+Ahora volvemos a <kbd>Refinement</kbd> <kbd>Profile</kbd> y marcamos las casillas de <kbd>U</kbd> y <kbd>W</kbd>. 
+
+![Diapositiva30](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva30.PNG)
+
+Al correr el resultado es un incremento grande en el **Factor de Bragg** y leve en el **Chi-2**
+
+![Diapositiva31](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva31.PNG)
+
+Ahora dejamos marcados <kbd>V</kbd> y <kbd>W</kbd> y corremos.
+
+![Diapositiva32](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva32.PNG)
+
+Después marcamos la casilla de X <kbd>X</kbd>
+
+![Diapositiva33](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva33.PNG)
+
+El resultado es un **Chi-2** más bajo, pero un **Factor de Bragg** levemente mayor:
+
+![Diapositiva34](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva34.PNG)
+
+Ahora desmarcamos <kbd>X</kbd> y marcamos <kbd>Eta_0</kbd>
+
+![Diapositiva35](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva35.PNG)
+
+Guardamos y corremos. Esta acción elevó mucho el **Factor de Bragg**, aunque disminuyó el **Chi-2**. 
+
+![Diapositiva36](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva36.PNG)
+
+Sin embargo, vemos que la coincidencia entre curvas teórica y experimental va bien:
+
+![Diapositiva37](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva37.PNG)
+
+Cerramos la ventana y, como hemos venido haciendo, cargamos el archivo PCR. Ahora nos dirigimos a <kbd>Refinement</kbd> <kbd>Atoms</kbd> y marcamos las casillas de las posiciones atómicas.
+
+![Diapositiva38](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva38.PNG)
+
+Guardamos cambios y corremos el programa. Esta acción vuelve a bajar el valor del **Factor de Bragg**.
+
+![Diapositiva39](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva39.PNG)
+
+Volvemos a <kbd>Refinement</kbd> <kbd>Atoms</kbd> y marcamos la casilla del factor de ocupación.
+
+![Diapositiva40](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva40.PNG)
+
+Esta acción también baja el **Factor de Bragg**.
+
+![Diapositiva41](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva41.PNG)
 
 
 

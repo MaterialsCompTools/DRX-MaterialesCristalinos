@@ -66,9 +66,10 @@ En este apartado aprenderás a calcular algunos rasgos cristalográficos a parti
 <div align="center">
 
 ## Sección 3: Determinación de porcentajes de fases por refinamiento Rietveld<br>
-**Duración**: 7 horas
 
 En este apartado aprenderás a refinar patrones de difracción para conocer porcentajes de fases.<br>
+
+**Duración**: 7 horas
 
 ![Logo FullProf](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/FullProf%20logo%20PNG.png)
 

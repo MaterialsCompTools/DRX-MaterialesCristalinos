@@ -304,13 +304,101 @@ Para el refinamiento usamos la casilla de Refinement del Editor de archivos PCR.
 
  ![FP-6](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/FP-6.png)
 
-Estando en el Editor de archivos PCR, clickeamos en el botón de <kbd>Refinement</kbd>. La ventana que se abre consta de 5 zonas. Nos dirigimos a la zona de **Atoms** (zona inferior derecha) y clickeamos en <kbd>Profile</kbd>. Eso nos abre una nueva ventana (**Profile Parameters: Phase 1**). Señalamos la casilla de <kbd>Scale</kbd> de la parte de <kbd>Coefficients</kbd>. Al señalar una casilla lo que hacemos es decirle al sistema que haga iteraciones no dejándola fija. Es decir, puede variar su valor. Lo que no se señala queda fijo para el programa. Señalamos y damos _click_ en <kbd>OK</kbd> y <kbd>OK</kbd>. Posteriormente guardamos cambios con el botón del disco azul. 
+Estando en el Editor de archivos PCR, clickeamos en el botón de <kbd>Refinement</kbd>. La ventana que se abre consta de 5 zonas. Nos dirigimos a la zona de **Atoms** (zona inferior derecha) y clickeamos en <kbd>Profile</kbd>. Eso nos abre una nueva ventana (**Profile Parameters: Phase 1**). Señalamos la casilla de <kbd>Scale</kbd> de la parte de <kbd>Coefficients</kbd>. Al señalar una casilla lo que hacemos es decirle al sistema que haga iteraciones no dejándola fija. Es decir, puede variar su valor. Lo que no se señala queda fijo para el programa. Señalamos y damos _click_ en <kbd>OK</kbd> y <kbd>OK</kbd>. 
 
-![Diapositiva36](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva36.PNG)
+![Diapositiva3](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva3.PNG)
 
-Para pedirle al _software_ que lleve a cabo las iteraciones de refinamiento damos _click_ en el logo que se muestra a continuación del Editor de archivos PCR. Cuando hago eso, él me pide confirmación del archivo con el que estamos trabajando. Lo seleccionamos para confirmar.
+Posteriormente guardamos cambios con el botón del disco azul. Para pedirle al _software_ que lleve a cabo las iteraciones de refinamiento damos _click_ en el logo que se muestra a continuación del Editor de archivos PCR. 
 
-![Diapositiva37](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva37.PNG)
+![Diapositiva4](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva4.PNG)
+
+Cuando hago eso, él me pide confirmación del archivo con el que estamos trabajando. Lo seleccionamos para confirmar.
+
+![Diapositiva5](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva5.PNG)
+
+El software hace las iteraciones sobre la ventana que se abre, y al terminar queda como se muestra a continuación. Podemos ver, en rojo, el patrón experimental. En negro, sobre la curva roja, aparece una negra, que corresponde al patrón teórico o refinado. Lo que esperamos al final es que ambas curvas coincidan. En azul aparece el background, que irá cambiando a medida que se lleva a cabo el refinamiento. Al final esperamos que quede plano, sin mucho ruido.
+
+Encontramos 2 valores importantes que nos indicarán que tan bien está quedando el refinamiento. Uno de ellos es el **factor de Bragg** que indica, en porcentaje, qué tan diferentes son la curva experimental y la teórica. Mientras más alto el valor, más diferencias entre ellas. Un valor por debajo de 10 es adecuado para que un refinamiento sea aceptable. El otro es el **chi-cuadrado reducido**, que relaciona el factor del perfil con el factor del perfil ponderado. Un valor adecuado de Chi-2 es menor a 5. Si desea profundizar en estos conocimientos, puede dirigirse a la página del [FullProf-Tutoriales](https://www.ill.eu/sites/fullprof/php/tutorials.html)
+
+En este caso el **Factor de Bragg = 83** y el **Chi-2 = 12.8**. Como recién empezamos el proceso estos valores son altos.
+
+![Diapositiva6](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva6.PNG)
+
+Al cerrar esta ventana se abre una pequeña que nos pregunta si cargamos nuevamente el archivo PCR. Le decimos que sí.
+
+![Diapositiva7](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva7.PNG)
+
+De nuevo vamos a <kbd>Refinement</kbd> y clickeamos en <kbd>Background</kbd>.
+
+![Diapositiva8](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva8.PNG)
+
+Clickeamos en <kbd>Refine All</kbd>, con el fin de seleccionar todos los puntos del _background_. Clickeamos en <kbd>Ok</kbd>.
+
+![Diapositiva9](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva9.PNG)
+
+Guardamos cambios en el archivo con el ícono del disco azul, y damos _click_ en el botón de refinar.
+
+![Diapositiva10](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva10.PNG)
+
+Es hace correr la iteración mostrando la ventana que vemos a continuación. Podemos ver que tanto el factor de Bragg como el Chi-2 bajaron.
+
+![Diapositiva11](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva11.PNG)
+
+De nuevo, cerramos esta ventana y decimos que sí a la nueva que aparece.
+
+![Diapositiva12](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva12.PNG)
+
+**NOTA:** se recomienda guardar un soporte de los archivos del refinamiento actual en otra carpeta cada que consideremos que vamos bien con el proceso, por si con alguna orden que le damos al _software_ se 'enloquece' (nos muestra parámetros de valor absurdo).
+
+Vamos de nuevo a <kbd>Refinement</kbd> y damos _click_ en botón de <kbd>Profile</kbd>. Seleccionamos las casillas de los parámetros de red. Aprobamos la acción con <kbd>OK</kbd> y <kbd>OK</kbd>.
+
+![Diapositiva13](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva13.PNG)
+
+Guardamos los cambios y refinamos:
+
+![Diapositiva14](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva14.PNG)
+
+Al hacer esto el **chi-2** se mantuvo igual, pero el **Factor de Bragg** bajó levemente:
+
+![Diapositiva15](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva15.PNG)
+
+De nuevo, cerramos y damos <kbd>Sí</kbd> en la nueva ventana.
+
+![Diapositiva16](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva16.PNG)
+
+Revisamos en <kbd>Profile</kbd> el resultado, y vemos que los valores de los parámetros de red han cambiado.
+
+![Diapositiva17](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva17.PNG)
+
+Ahora fijamos todo en esta ventana:
+
+![Diapositiva18](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva18.PNG)
+
+Vamos a <kbd>Background</kbd>
+
+![Diapositiva19](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva19.PNG)
+
+Y también fijamos todo:
+
+![Diapositiva20](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva20.PNG)
+
+Guardamos y corremos el _software_:
+
+![Diapositiva21](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva21.PNG)
+
+Confirmamos el archivo y se abre la ventana de resultado. EL hacer esto hace que el **chi-2** baje un poco.
+
+![Diapositiva23](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva23.PNG)
+
+Ahora vamos a <kbd>Background</kbd> <kbd>Instrumental</kbd> y seleccionamos la casilla de <kbd>Zero</kbd>
+
+![Diapositiva24](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva24.PNG)
+
+Guardamos cambios y corremos el programa. El resultado muestra un **chi-2 = 6.10** y un **Factor de Bragg = 36.05**.
+
+![Diapositiva25](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva25.PNG)
+
+
 
 ## Creación del archivo .PCR de la segunda fase
 

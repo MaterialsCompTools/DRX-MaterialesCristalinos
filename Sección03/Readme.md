@@ -276,13 +276,35 @@ Con esta acción queda cargado nuestro archivo **.BGR**.
 
 ## Refinamiento de la primera fase
 
-El refinamiento Rietveld con el FullProf consta de una serie de pasos, en los que se señalan ciertas casillas (lo que significa que ese parámetro se libera para la iteración del _software_, por lo que se espera que su valor cambie después de correr el programa) y otras no (cuando una casilla no está señalada, significa que su valor queda fijo durante la corrida del _software_).
+El refinamiento Rietveld con el FullProf consta de una serie de pasos, en los que se señalan ciertas casillas (lo que significa que ese parámetro se libera para la iteración del _software_, por lo que se espera que su valor cambie después de correr el programa) y otras no (cuando una casilla no está señalada, significa que su valor queda fijo durante la corrida del _software_). En este ejemplo trabajaremos usando la **_psudo-voigt_** que, como veíamos, ajusta muy bien para nuestro material.
 
-Para el refinamiento usamos la casilla de Refinement del Editor de archivos PCR.  Hay cuatro botones con los que trabajaremos: <kbd>Background</kbd> <kbd>Instrumental</kbd> <kbd>Profile</kbd> e <kbd>Instrumental<kbd>
+Para el refinamiento usamos la casilla de Refinement del Editor de archivos PCR.  Hay cuatro botones con los que trabajaremos: <kbd>Background</kbd> <kbd>Instrumental</kbd> <kbd>Profile</kbd> y <kbd>Atoms</kbd>
 
-INSERTAR FIGURA
+![FP-1](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/FP-1.png)
 
-Estando en el Editor de archivos PCR, clickeamos en el botón de <kbd>Refinement</kbd>. La ventana que se abre consta de 5 zonas. Nos dirigimos a la zona de **Atoms** (zona inferior derecha) y clickeamos en <kbd>Profile</kbd>. Eso nos abre una nueva ventana (**Profile Parameters: Phase 1**). Señalamos la casilla de <kbd>Scale</kbd> de la parte de <kbd>Coefficients</kbd>. Al señalar una casilla lo que hacemos es decirle al sistema que haga iteraciones no dejándola fija. Es decir, puede variar su valor. Lo que no se señala queda fijo para el programa. Señalamos y damos _click_ en <kbd>OK</kbd> y <kbd>OK</kbd>. Posteriormente guardamos cambios con el botón del disco azul.
+ Con <kbd>Background</kbd> refinamos los puntos de intensidad del perfil de la radiación de fondo.
+
+ <div align="center">
+
+ ![FP-2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/FP-2.png)
+
+ </div>
+
+ Con <kbd>Instrumental</kbd> refinamos el el punto cero del detector
+
+ ![FP-3](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/FP-3.png)
+
+ En <kbd>Profile</kbd> refinamos varios factores. Uno de ellos es _Scale Factor_, que ajusta la intensidad neta del patrón, multiplicando cada punto de datos por el factor de escala. También están los parámetros de red: _a_, _b, _c_ y los ángulos _alfa_, _beta_ y _gamma_. Los **parámetros de forma del perfil**, que son de dos tipos: los del ancho a la altura media del pico (FWHM) y otros parámetros. Los relacionados con FWHM son <kbd>U</kbd>, <kbd>V</kbd> y <kbd>W</kbd>, que son parámetros de la parte gaussiana de la pseudo-voigt. <kbd>V</kbd> y <kbd>W</kbd> relacionados con el ensanchamiento instrumental y <kbd>U</kbd> con las microdeformaciones. Los otros parámetros de forma son <kbd>Eta_0</kbd> y <kbd>X</kbd>, siendo <kbd>X</kbd> un parámetro de la curva lorentziana, relacionada con el tamaño de cristalito. Dentro de los parámetros del perfil también tenemos el de **orientación preferencial**, <kbd>G1</kbd>.
+
+ ![FP-4](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/FP-4.png)
+
+ ![FP-5](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/FP-5.png)
+
+ Y, por último, en <kbd>Atoms</kbd> se refinan las posiciones atómicas y el factor de ocupación de los átomos.
+
+ ![FP-6](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/FP-6.png)
+
+Estando en el Editor de archivos PCR, clickeamos en el botón de <kbd>Refinement</kbd>. La ventana que se abre consta de 5 zonas. Nos dirigimos a la zona de **Atoms** (zona inferior derecha) y clickeamos en <kbd>Profile</kbd>. Eso nos abre una nueva ventana (**Profile Parameters: Phase 1**). Señalamos la casilla de <kbd>Scale</kbd> de la parte de <kbd>Coefficients</kbd>. Al señalar una casilla lo que hacemos es decirle al sistema que haga iteraciones no dejándola fija. Es decir, puede variar su valor. Lo que no se señala queda fijo para el programa. Señalamos y damos _click_ en <kbd>OK</kbd> y <kbd>OK</kbd>. Posteriormente guardamos cambios con el botón del disco azul. 
 
 ![Diapositiva36](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva36.PNG)
 

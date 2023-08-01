@@ -578,12 +578,17 @@ Ahora con <kbd>Profile</kbd> <kbd>Preferred Orientation</kbd> <kbd>G1</kbd> nos 
 
 ![Diapositiva79](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva79.PNG)
 
+Aunque el resultado podría ser mejor -para ello puede repetirse toda la rutina de refinamiento-, vemos que los valores del **Factor de Bragg** y del **Chi-2** son adecuados para suponer un buen resultado. Por tanto, dejaremos el proceso hasta aquí con esta fase. Antes de continuar con el refinamiento de la segunda fase, miremos los resultados. En la carpeta de archivos podemos ver la presencia de un nuevo documento tipo **Archivo SUM**. 
 
+![Diapositiva81](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva81.PNG)
 
+Si lo abrimos podemos encontrar varias cosas. Entre ellas el valor de los parámetros de red: _a = 4.05285 Å_. Este valor es un poco diferente al que calculamos previamente en la sección [](). El valor calculado en la sección anterior es más confiable.
 
+![Diapositiva82](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva82.PNG)
 
+También podemos observar la fracción de esta fase en el material, que por ahora es del 100%. Cuando agreguemos la segunda fase y hagamos el refinamiento ese valor deberá cambiar.
 
-
+![Diapositiva83](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva83.PNG)
 
 
 ## Creación del archivo .PCR de la segunda fase

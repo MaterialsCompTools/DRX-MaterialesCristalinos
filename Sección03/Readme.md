@@ -115,7 +115,7 @@ Otra opción para descargar un archivo con extensión **.CIF** sin acceder al MA
 
 <div align="center">
 
-![Diapositiva1](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva1.PNG)
+![Diapositiva1-1](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva1-1.PNG)
 
 </div>
 

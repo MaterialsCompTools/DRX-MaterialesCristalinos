@@ -353,7 +353,7 @@ En <kbd>Profile</kbd> refinamos varios factores. Uno de ellos es _Scale Factor_,
 
 La rutina recomendada usando la **pseudo-voigt** como curva de ajuste y la **interpolación lineal** para el _background_ es el siguiente:
 **1.**	Refinar el factor de escala
-**2.**	Refinar el backgroound
+**2.**	Refinar el background
 **3.**	Refinar los parámetros de red
 **4.**	Fijar los parámetros de red y el background
 **5.**	Refinar el punto cero del detector en Instrumental

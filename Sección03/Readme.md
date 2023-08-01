@@ -24,9 +24,13 @@ FullProf es una herramienta para el refinamiento rietveld de forma automatizada.
 
 ## Refinamiento Rietveld
 
+<div align="justify">
+
 Es una técnica de refinamiento con precisión alta que se usa para determinar los parámetros estructurales de una muestra de análisis. Esto se hace a partir de la construcción de un modelo teórico que se ajuste al patrón de difracción experimental, usando el métodod de mínimos cuadrados.
 
 Para esto, lo primero que se hace es calcular la intensidad total en cada uno de los puntos del difractograma. La intensidad a calcular en un punto _i_ está dada por la siguiente ecuación:
+
+</div>
 
 <div align="center">
 
@@ -97,7 +101,11 @@ Para trabajar con esta herramienta se requieren 3 archivos de entradas con las s
 
 ### Archivos .CIF
 
+<div align="justify">
+
 El archivo con extensión .CIF puede descargarse de MATCH! Es el archivo que usamos para llevar a cabo la indexación. Para ello, abrimos nuestro archivo en **MATCH!** y abrimos el <kbd>DATA SHEET</kbd> de nuestra fase. Haciendo click en el número al lado de <kbd>Link to orig. entry</kbd> podemos descargar el archivo.
+
+</div>
 
 ![Descarga CIF Match](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Descargar%20Match.png)
 
@@ -111,7 +119,11 @@ Esto automáticamente descarga el archivo, que queda con el nombre según el nú
 
 Se recomienda cambiarle al nombre según la fase de trabajo.
 
+<div align="justify">
+
 Otra opción para descargar un archivo con extensión **.CIF** sin acceder al MATCH!, es yendo directamente a la **base de datos** [Crystallography Open Database](http://www.crystallography.net/cod/) Damos _click_ en <kbd>SEARCH</kbd>, en el menú de la parte izquierda:
+
+</div>
 
 <div align="center">
 
@@ -119,7 +131,11 @@ Otra opción para descargar un archivo con extensión **.CIF** sin acceder al MA
 
 </div>
 
+<div align="justify">
+
 Inmediatamente se abre una nueva página, que nos pide información sobre la fase de la que necesitamos el archivo **.CIF**. Escribimos el nombre o fórmula química de la fase. Para efectos de este ejercicio práctico empezaremos con la fase 1, que es la de aluminio.
+
+</div>
 
 ![Diapositiva2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva2.PNG)
 
@@ -141,7 +157,11 @@ Guardamos los archivos con extensión **.CIF** de las fases que vamos a refinar.
 
 ### Archivos .DAT
 
+<div align="justify">
+
 El archivo de nuestro patrón de difracción con extensión *.DAT que usa FullProf tiene algunas algunas características: En la primera fila deben ir el ángulo 2Theta de inicio de los datos; el paso (que es la diferencia que hay de un punto a otro); y el ángulo 2 Theta de finalización de los datos. Después tenemos columnas de datos con la información de las intensidades.
+
+</div>
 
 ![Diapositiva6](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva6.PNG)
 
@@ -149,7 +169,11 @@ Para descargar este archivo de MATCH! vamos a <kbd>File</kbd>, <kbd>Export</kbd>
 
 ![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/MatchDAT-1.png)
 
+<div align="justify">
+
 Al dar _click_ se nos abre una ventana que nos pregunta la ruta para guardar el archivo (la seleccionamos o buscamos), el nombre del archivo (lo cambiamos si es necesario) y el **tipo de archivo**. Desplegamos la ventana y escogemos <kbd>Profile (start,step,end, intensities)(*dat)</kbd>.
+
+</div>
 
 ![image](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/MatchDAT-2.png)
 
@@ -159,7 +183,11 @@ Al dar _click_ en <kbd>GUARDAR</kbd> se nos genera el archivo:
 
 ### Archivo .BGR
 
+<div align="justify">
+
 Para crear el archivo con extensión **.BGR** abrimos el FullProf. De la barra de tareas clickeamos en el botón que se muestra a continuación. Esto abre la ventana de **WinPLOTR**. Ahí damos _click_ en <kbd>File</kbd>
+
+</div>
 
 ![Diapositiva7](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva7.PNG)
 
@@ -191,9 +219,13 @@ Eso nos abre una ventana que nos pide información.
 
 ![Diapositiva13](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva13.PNG)
 
+<div align="justify">
+
 En <kbd>Background threshold</kbd> un valor entre 0.05 y 0.07 funciona bien. Esto está relacionado con la cantidad de puntos que tendrá el archivo del background.
 
 La cantidad de puntos generada fue de 58. Podemos cerrar la ventanita. Puede verse que en azul está representado nuestro patrón experimental, y en verde aparecen los puntos del _background_.
+
+</div>
 
 ![Diapositiva14](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva14.PNG)
 
@@ -220,6 +252,8 @@ Ya tenemos listos los 4 archivos
 ![Diapositiva18](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva18.PNG)
 
 ## Creación de archivo .PCR de la primera fase
+
+<div align="justify">
 
 Ahora vamos a crear el archivo con extensión **.PCR**. Para ello abrimos el _software_ FullProf. Esto abre la barra de tareas. Posteriormente abrimos <kbd>ED PCR</kbd>. Eso hace que se abra una ventana, como se ve abajo, que es el **editor de archivos PCR**. Usamos el ícono de CIF $\rightarrow$ Pcr.
 
@@ -259,8 +293,13 @@ Con esto quedamos de nuevo en el Editor de archivos PCR. Ahora damos _click_ en 
 
 Esto nos crea el archivo con extensión **.PCR**. Lo nombramos con el nombre de la fase o el material.
 
+</div>
+
+<div align="center">
+
 ![Diapositiva30-2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva30-2.PNG)
 
+</div>
 
 ## Cargue del archivo .BGR
 
@@ -276,7 +315,11 @@ Con esta acción queda cargado nuestro archivo **.BGR**.
 
 ## Refinamiento de la primera fase
 
+<div align="justify">
+
 El refinamiento Rietveld con el FullProf consta de una serie de pasos, en los que se señalan ciertas casillas (lo que significa que ese parámetro se libera para la iteración del _software_, por lo que se espera que su valor cambie después de correr el programa) y otras no (cuando una casilla no está señalada, significa que su valor queda fijo durante la corrida del _software_). En este ejemplo trabajaremos usando la **_psudo-voigt_** que, como veíamos, ajusta muy bien para nuestro material.
+
+ </div>
 
 Para el refinamiento usamos la casilla de Refinement del Editor de archivos PCR.  Hay cuatro botones con los que trabajaremos: <kbd>Background</kbd> <kbd>Instrumental</kbd> <kbd>Profile</kbd> y <kbd>Atoms</kbd>
 
@@ -294,7 +337,11 @@ Para el refinamiento usamos la casilla de Refinement del Editor de archivos PCR.
 
  ![FP-3](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/FP-3.png)
 
- En <kbd>Profile</kbd> refinamos varios factores. Uno de ellos es _Scale Factor_, que ajusta la intensidad neta del patrón, multiplicando cada punto de datos por el factor de escala. También están los parámetros de red: _a_, _b, _c_ y los ángulos _alfa_, _beta_ y _gamma_. Los **parámetros de forma del perfil**, que son de dos tipos: los del ancho a la altura media del pico (FWHM) y otros parámetros. Los relacionados con FWHM son <kbd>U</kbd>, <kbd>V</kbd> y <kbd>W</kbd>, que son parámetros de la parte gaussiana de la pseudo-voigt. <kbd>V</kbd> y <kbd>W</kbd> relacionados con el ensanchamiento instrumental y <kbd>U</kbd> con las microdeformaciones. Los otros parámetros de forma son <kbd>Eta_0</kbd> y <kbd>X</kbd>, siendo <kbd>X</kbd> un parámetro de la curva lorentziana, relacionada con el tamaño de cristalito, y <kbd>Eta_0</kbd> (η) es la razón entre gaussiana y lorentziana, como veíamos en [Ajuste de Picos](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#ajuste-de-picos). Dentro de los parámetros del perfil también tenemos el de **orientación preferencial**, <kbd>G1</kbd>.
+ <div align="justify">
+
+En <kbd>Profile</kbd> refinamos varios factores. Uno de ellos es _Scale Factor_, que ajusta la intensidad neta del patrón, multiplicando cada punto de datos por el factor de escala. También están los parámetros de red: _a_, _b_, _c_ y los ángulos _alfa_, _beta_ y _gamma_. Los **parámetros de forma del perfil**, que son de dos tipos: los del ancho a la altura media del pico (FWHM) y otros parámetros. Los relacionados con FWHM son <kbd>U</kbd>, <kbd>V</kbd> y <kbd>W</kbd>, que son parámetros de la parte gaussiana de la pseudo-voigt. <kbd>V</kbd> y <kbd>W</kbd> relacionados con el ensanchamiento instrumental y <kbd>U</kbd> con las microdeformaciones. Los otros parámetros de forma son <kbd>Eta_0</kbd> y <kbd>X</kbd>, siendo <kbd>X</kbd> un parámetro de la curva lorentziana, relacionada con el tamaño de cristalito, y <kbd>Eta_0</kbd> (η) es la razón entre gaussiana y lorentziana, como veíamos en [Ajuste de Picos](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#ajuste-de-picos). Dentro de los parámetros del perfil también tenemos el de **orientación preferencial**, <kbd>G1</kbd>.
+
+ </div>
 
  ![FP-4](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/FP-4.png)
 
@@ -321,7 +368,11 @@ La rutina recomendada usando la **pseudo-voigt** como curva de ajuste y la **int
 **14.**	Refinar el factor de escala, los parámetros U y V y el factor Eta_0 
 **15.**	Refinar el factor de escala, los parámetros U y V, el factor Eta_0 y el factor orientación preferencia G1
  
+<div align="justify">
+
 Estando en el Editor de archivos PCR, clickeamos en el botón de <kbd>Refinement</kbd>. La ventana que se abre consta de 5 zonas. Nos dirigimos a <kbd>Profile</kbd> y clickeamos ahí. Eso nos abre una nueva ventana (**Profile Parameters: Phase 1**). Señalamos la casilla de <kbd>Scale</kbd> de la parte de <kbd>Coefficients</kbd>. Al señalar una casilla lo que hacemos es decirle al sistema que haga iteraciones no dejándola fija. Es decir, puede variar su valor. Lo que no se señala queda fijo para el programa. Señalamos y damos _click_ en <kbd>OK</kbd> y <kbd>OK</kbd>. 
+
+</div>
 
 ![Diapositiva3](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva3.PNG)
 
@@ -333,9 +384,13 @@ Cuando hago eso, él me pide confirmación del archivo con el que estamos trabaj
 
 ![Diapositiva5](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva5.PNG)
 
+<div align="justify">
+
 El software hace las iteraciones sobre la ventana que se abre, y al terminar queda como se muestra a continuación. Podemos ver, en rojo, el patrón experimental. En negro, sobre la curva roja, aparece una negra, que corresponde al patrón teórico o refinado. Lo que esperamos al final es que ambas curvas coincidan. En azul aparece el background, que irá cambiando a medida que se lleva a cabo el refinamiento. Al final esperamos que quede plano, sin mucho ruido.
 
 Encontramos 2 valores importantes que nos indicarán que tan bien está quedando el refinamiento. Uno de ellos es el **factor de Bragg** que indica qué tan diferentes son las intensidades de las curvas experimental y teórica. Mientras más alto el valor, más diferencias entre ellas. Un valor por debajo de 10 es adecuado para que un refinamiento sea aceptable. El otro es el **chi-cuadrado reducido**, que relaciona el factor del perfil con el factor del perfil ponderado. Un valor adecuado de Chi-2 es menor a 5. Si desea profundizar en estos conocimientos, puede dirigirse a la página del [FullProf-Tutoriales](https://www.ill.eu/sites/fullprof/php/tutorials.html)
+
+</div>
 
 En este caso el **Factor de Bragg = 83** y el **Chi-2 = 12.8**. Como recién empezamos el proceso estos valores son altos.
 
@@ -595,7 +650,11 @@ Ahora con <kbd>Profile</kbd> <kbd>Preferred Orientation</kbd> <kbd>G1</kbd> nos 
 
 ![Diapositiva79](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva79.PNG)
 
+<div align="justify">
+
 Aunque el resultado podría ser mejor -para ello puede repetirse toda la rutina de refinamiento-, vemos que los valores del **Factor de Bragg** y del **Chi-2** son adecuados para suponer un buen resultado. Por tanto, dejaremos el proceso hasta aquí con esta fase. Antes de continuar con el refinamiento de la segunda fase, miremos los resultados. En la carpeta de archivos podemos ver la presencia de un nuevo documento tipo **Archivo SUM**. 
+
+</div>
 
 ![Diapositiva81](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva81.PNG)
 

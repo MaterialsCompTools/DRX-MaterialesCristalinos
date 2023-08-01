@@ -22,6 +22,7 @@ Este es un curso práctico que tiene como objetivo familiarizar al estudiante co
 ## Sección 1: Indexación de picos de patrones de difracción<br>
 
 En este apartado aprenderás a indexar patrones de DRX con ayuda de MATCH!
+Duración: 3 horas
 
 ![Logo Match](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20MATCH-5.png)
              
@@ -43,6 +44,7 @@ En este apartado aprenderás a indexar patrones de DRX con ayuda de MATCH!
 <div align="center">
 
 En este apartado aprenderás a calcular algunos rasgos cristalográficos a partir de un patrón de difracción de rayos X, usando Origin como herramienta. Rasgos cristalográficos como parámetros de red, tamaño de cristalito y microdeformaciones.
+Duración: 5 horas
 
 ![Logo Origin-2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/OriginPro_Logo%20PNG.png)
 
@@ -62,6 +64,7 @@ En este apartado aprenderás a calcular algunos rasgos cristalográficos a parti
 <div align="center">
 
 ## Sección 3: Determinación de porcentajes de fases por refinamiento Rietveld<br>
+Duración: 7 horas
 
 En este apartado aprenderás a refinar patrones de difracción para conocer porcentajes de fases.<br>
 

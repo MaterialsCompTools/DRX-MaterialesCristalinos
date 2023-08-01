@@ -10,7 +10,12 @@ Manejo de _softwares_ para extracción de datos de Difracción de Rayos X de mat
 </div>
 
 ## Objetivos del curso
-Familiarizar al estudiante con las diferentes herramientas matemáticas y computacionales para el análisis de los datos de difracción de rayos de materiales. Esto, con el fin de que aprenda a extraer información valiosa como cantidad y tipos de fases cristalinas presentes en un material, así como calcular parámetros de red, tamaños de cristalito y microdeformaciones. Todos los ejemplos se harán con un patrón de difracción de rayos X que consta de dos fases cristalinas, aluminio y corindón.<br>
+
+<div align="justify">
+
+Este es un curso práctico que tiene como objetivo familiarizar al estudiante con las diferentes herramientas matemáticas y computacionales para el análisis de los datos de difracción de rayos de materiales. Esto, con el fin de que aprenda a extraer información valiosa de un patrón de difracción, como cantidad y tipos de fases cristalinas presentes en un material, parámetros de red, tamaños de cristalito y microdeformaciones. Todos los ejemplos se harán con un patrón de difracción de rayos X que consta de dos fases cristalinas, aluminio y corindón, que puede descargarse [aquí](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/ArchivoTrabajo/Readme.md).<br>
+
+</div>
 
 <div align="center">
 
@@ -33,6 +38,8 @@ En este apartado aprenderás a indexar patrones de DRX con ayuda de MATCH!
 
 ## Sección 2: Determinación de rasgos cristalográficos<br>
 
+</div>
+
 <div align="center">
 
 En este apartado aprenderás a calcular algunos rasgos cristalográficos a partir de un patrón de difracción de rayos X, usando Origin como herramienta. Rasgos cristalográficos como parámetros de red, tamaño de cristalito y microdeformaciones.
@@ -52,9 +59,9 @@ En este apartado aprenderás a calcular algunos rasgos cristalográficos a parti
 | [Cálculo de tamaño de cristalito y microdeformaciones por Williamson-Hall](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#c%C3%A1lculo-de-tama%C3%B1o-de-cristalito-y-microdeformaciones)                     | En este apartado aprenderás a aplicar el método de Williamson-Hall para calcular las microdeformaciones y el tamaño de cristalito|
 | [Cálculo de densidad de dislocaciones](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/Readme.md#c%C3%A1lculo-de-densidad-de-dislocaciones)| En este apartado aprenderás a calcular la densidad de dislocaciones.|
 
-## Sección 3: Determinación de porcentajes de fases por refinamiento Rietveld<br>
-
 <div align="center">
+
+## Sección 3: Determinación de porcentajes de fases por refinamiento Rietveld<br>
 
 En este apartado aprenderás a refinar patrones de difracción para conocer porcentajes de fases.<br>
 

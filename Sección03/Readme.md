@@ -690,6 +690,37 @@ Después de creado el archivo aparecerá con la extensión *.PCR
 
 ## Adición del archivo .PCR de la segunda fase al de la primera fase
 
+Vamos a adicionar alguna información del archivo **Fase 2_Al2O3.PCR** al archivo **Fase 1_Al.PCR**.
+
+Para ello, abrimos el archivo **Fase 2_Al2O3_PCR** y vamos a copiar la información que vemos resaltada en el gráfico (desde el signo de admiración seguido de puntos hasta la línea que termina en ceros antes de ! 2Th1/T0F1).
+
+![Imagen4](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen4.png)
+
+Luego abrimos nuestro archivos **Fase 1_Al.PCR**. 
+
+![Imagen5](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen5.png)
+
+Nos ubicamos en el espacio señalado en el gráfico siguiente, dando un _enter_ en la línea previa.
+
+![Imagen6](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen6.png)
+
+Pegamos la información que habíamos copiado.
+
+![Imagen10](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen10.png)
+
+Antes de cerrar el archivo, nos dirigimos a la parte superior de éste. Miramos justo por debajo de <kbd>Nph</kbd>, que significa _number of phases_. Aparece un 1, porque era la cantidad de fases añadidas en ese archivo. 
+
+![Imagen7](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen7.png)
+
+Cambiamos el número a 2, ya que ahora tenemos dos fases: Al y Al2O3.
+
+![Imagen8](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen8.png)
+
+Cerramos y guardamos cambios.
+
+![Imagen9](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen9.png)
+
+
 ## Refinamiento de la segunda fase
 
 ## WinPlotr

@@ -672,6 +672,12 @@ También podemos observar la fracción de esta fase en el material, que por ahor
 
 ## Creación del archivo .PCR de la segunda fase
 
+El archivo *.PCR de la segunda fase se crea siguiendo los pasos que veíamos en el apartado de [Creación del archivo .PCR de la primera fase](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/Readme.md#creaci%C3%B3n-de-archivo-pcr-de-la-primera-fase)
+
+Nota: nombrarla adecuadamente, según el nombre de la fase.
+
+
+
 ## Adición del archivo .PCR de la segunda fase al de la primera fase
 
 ## Refinamiento de la segunda fase

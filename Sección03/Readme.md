@@ -901,6 +901,38 @@ En mi caso, quedé en un **Factor de Bragg** de la segunda fase de 47.11. Que es
 
 ## WinPlotr
 
+WinPlotr es una herramienta del FullProf para graficar el resultado del refinamiento. Para abrirlo, hacemos _click_ en el ícono que se muestra a continuación en la barra de tareas. Eso abre la ventana que se ve más abajo.
+
+![Imagen71](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen71.png)
+
+Damos _click_ en <kbd>File</kbd> y <kbd>Open Rietveld/Profile file (*.PRF)</kbd>. El archivo con esta extensión se creó en el proceso de refinamiento y está en la carpeta de trabajo.
+
+![Imagen72](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen72.png)
+
+Abrimos el archivo:
+
+![Imagen73](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen73.png)
+
+Y se nos abre el gráfico. En rojo vemos el patrón experimental. En negro, el patrón teórico que resultó del refinamiento Rietveld. En azul el _background_.
+
+![Imagen74](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen74.png)
+
+Podemos hacer zum con ayuda del _mouse_ para ver la coincidencia entre ambos patrones. No es perfecta, pero es aceptable.
+
+![Imagen75](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen75.png)
+
+Podemos guardar el resultado en un PDF, dando _click_ en el ícono del disco azul.
+
+![Imagen76](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen76.png)
+
+Guardamos el archivo:
+
+![Imagen77](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen77.png)
+
+Y este luce así después de abrir el PDF.
+
+![Imagen78](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen78.png)
+
 ## Archivos de salida
 
  ##

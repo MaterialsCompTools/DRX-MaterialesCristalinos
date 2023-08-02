@@ -676,7 +676,17 @@ El archivo *.PCR de la segunda fase se crea siguiendo los pasos que veíamos en 
 
 Nota: nombrarla adecuadamente, según el nombre de la fase.
 
+El archivo *.CIF lo habremos descargado del MATCH!
 
+![Imagen1](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen1.png)
+
+Revisar que la simetría y los parámetros de red del archivo *.CIF correspondan al material que queremos refinar.
+
+![Imagen2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen2.png)
+
+Después de creado el archivo aparecerá con la extensión *.PCR
+
+![Imagen3](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen3.png)
 
 ## Adición del archivo .PCR de la segunda fase al de la primera fase
 

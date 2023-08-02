@@ -775,13 +775,19 @@ Podemos ver cómo cambian los parámetros de red.
 
 Los dejamos fijos:
 
+<div align="center"> 
+
 ![Imagen44](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen44.png)
+
+</div> 
 
 Así como dejamos fijo el _Background_:
 
+<div align="center"> 
+
 ![Imagen45](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen45.png)
 
-
+</div>
 
 
 ## WinPlotr

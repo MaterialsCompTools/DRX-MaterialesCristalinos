@@ -789,6 +789,29 @@ Así como dejamos fijo el _Background_:
 
 </div>
 
+Esto aumenta levemente el **Factor de Bragg**
+
+![Imagen46](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen46.png)
+
+Ahora refinamos el coeficiente del punto cero del instrumento:
+
+![Imagen47](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen47.png)
+
+Tampoco hay mucho cambio
+
+![Imagen48](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen48.png)
+
+De nuevo refinamos el **Factor de escala**
+
+![Imagen49](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen49.png)
+
+El resultado:
+
+![Imagen50](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen50.png)
+
+Ahora vamos con los parámetros del ancho a la altura media del pico:. Empezamos con <kbd>U</kbd> y <kbd>V</kbd>
+
+
 
 ## WinPlotr
 

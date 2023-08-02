@@ -759,11 +759,27 @@ Continuamos con el refinamiento del <kbd>Background</kbd>
 
 El resultado es la estabilización del **Factor de Bragg** y del **Chi-2** de la primera fase y la disminución de estos valores para la fase 2.
 
-![Imagen19](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen19.png)
+![Imagen19](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen40.png)
 
-Continuamos con el refinamiento de los parámetros de red:
+Continuamos con el refinamiento de los parámetros de red. Estar pendiente de que la ventana corresponda a la fase que estamos refinando.
 
-![Imagen20](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen20.png)
+![Imagen20](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen41.png)
+
+Esta acción baja un poco el **factor de Bragg** de la fase a 43.30:
+
+![Imagen42](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen42.png)
+
+Podemos ver cómo cambian los parámetros de red.
+
+![Imagen43](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen43.png)
+
+Los dejamos fijos:
+
+![Imagen44](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen44.png)
+
+Así como dejamos fijo el _Background_:
+
+![Imagen45](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen45.png)
 
 
 

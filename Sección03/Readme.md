@@ -739,9 +739,11 @@ Al hacer esto, se activan los botones del editor de archivos PCR. Damos _click_ 
 
 ![Imagen14](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen14-2.png)
 
-Damos _click_ en <kbd>Profile</kbd>
+Damos _click_ en <kbd>Phase 2</kbd> y después en <kbd>Profile</kbd>
 
 ![Imagen15](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen15.png)
+
+**RECOMENDACIÓN:** Fijarse en siempre seleccionar <kbd>Phase 2</kbd> antes de seleccionar alguna casilla. De otro modo, por defecto el programa selecciona a la fase 1 para el refinamiento.
 
 Como ya sabemos, empezamos la rutina de refinamiento con el factor de escala:
 

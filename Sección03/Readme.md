@@ -352,21 +352,21 @@ En <kbd>Profile</kbd> refinamos varios factores. Uno de ellos es _Scale Factor_,
  ![FP-6](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/FP-6.png)
 
 La rutina recomendada usando la **pseudo-voigt** como curva de ajuste y la **interpolación lineal** para el _background_ es el siguiente:
-**1.**	Refinar el factor de escala
-**2.**	Refinar el background
-**3.**	Refinar los parámetros de red
-**4.**	Fijar los parámetros de red y el background
-**5.**	Refinar el punto cero del detector en Instrumental
-**6.**	Refinar el factor de escala
-**7.**	Refinar el factor de escala y los parámetros U y V
-**8.**	Refinar el factor de escala y los parámetros U y W
-**9.**	Refinar el factor de escala y los parámetros V y W
-**10.**	Refinar el factor de escala, los parámetros U y V y el factor X
-**11.**	Refinar el factor de escala, los parámetros U y V y el factor Eta_0
-**12.**	Refinar el factor de escala, los parámetros U y V, el factor Eta_0 y las posiciones atómicas
-**13.**	Refinar el factor de escala, los parámetros U y V, el factor Eta_0 y el factor de ocupación
-**14.**	Refinar el factor de escala, los parámetros U y V y el factor Eta_0 
-**15.**	Refinar el factor de escala, los parámetros U y V, el factor Eta_0 y el factor orientación preferencia G1
+* **1.**	Refinar el factor de escala
+* **2.**	Refinar el background
+* **3.**	Refinar los parámetros de red
+* **4.**	Fijar los parámetros de red y el background
+* **5.**	Refinar el punto cero del detector en Instrumental
+* **6.**	Refinar el factor de escala
+* **7.**	Refinar el factor de escala y los parámetros U y V
+* **8.**	Refinar el factor de escala y los parámetros U y W
+* **9.**	Refinar el factor de escala y los parámetros V y W
+* **10.**	Refinar el factor de escala, los parámetros U y V y el factor X
+* **11.**	Refinar el factor de escala, los parámetros U y V y el factor Eta_0
+* **12.**	Refinar el factor de escala, los parámetros U y V, el factor Eta_0 y las posiciones atómicas
+* **13.**	Refinar el factor de escala, los parámetros U y V, el factor Eta_0 y el factor de ocupación
+* **14.**	Refinar el factor de escala, los parámetros U y V y el factor Eta_0 
+* **15.**	Refinar el factor de escala, los parámetros U y V, el factor Eta_0 y el factor orientación preferencia G1
  
 <div align="justify">
 

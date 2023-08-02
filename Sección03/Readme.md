@@ -935,6 +935,18 @@ Y este luce así después de abrir el PDF.
 
 ## Archivos de salida
 
+Como ya veíamos al acabar de refinar la fase 1, el archivo *.SUM resume el resultado del refinamiento. Este archivo también se creó durante el proceso:
+
+![Imagen79](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen79.png)
+
+Al abrirlo, casi al final del archivo, encontramos el resultado del porcentaje de fases. Nos da que el porcentaje del aluminio es de 89.64% y el de la alúmina o corindón es de 10.36%. 
+
+![Imagen80](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen80.png)
+
+También podemos ver los parámetros de red del corindón -ya veíamos los del aluminio-, que difieren levemente de los valores calculados en el Origin.
+
+![Imagen81](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen81.png)
+
  ##
 
 <div align="center">

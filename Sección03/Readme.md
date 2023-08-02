@@ -737,7 +737,7 @@ Se abre la ventana para seleccionar el archivo *.PCR. Escogemos el de la fase 1,
 
 Al hacer esto, se activan los botones del editor de archivos PCR. Damos _click_ en el botón <kbd>Refinement</kbd>.
 
-![Imagen14](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen14.png)
+![Imagen14](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen14-2.png)
 
 Damos _click_ en <kbd>Profile</kbd>
 

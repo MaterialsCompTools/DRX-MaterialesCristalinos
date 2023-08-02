@@ -951,7 +951,7 @@ También podemos ver los parámetros de red del corindón -ya veíamos los del a
 
 Por último, podemos colocar parte de los resultados en un gráfico de Origin:
 
-![Reporte final](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Reporte%final.png)
+![Reporte final](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Reporte%20final.png)
 
  ##
 

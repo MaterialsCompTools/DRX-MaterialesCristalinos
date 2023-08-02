@@ -809,8 +809,89 @@ El resultado:
 
 ![Imagen50](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen50.png)
 
-Ahora vamos con los parámetros del ancho a la altura media del pico:. Empezamos con <kbd>U</kbd> y <kbd>V</kbd>
+Ahora vamos con los parámetros del ancho a la altura media del pico. Empezamos con <kbd>U</kbd> y <kbd>V</kbd>
 
+![Imagen51](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen51.png)
+
+Esto disminuye el **Factor de Bragg**
+
+![Imagen52](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen52.png)
+
+Ahora vamos con con <kbd>U</kbd> y <kbd>W</kbd>
+
+![Imagen53](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen53.png)
+
+Esto baja bastante el **Factor de Bragg** de la fase 2, a 34.89 
+
+![Imagen54](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen54.png)
+
+Ahora vamos con con <kbd>V</kbd> y <kbd>W</kbd>
+
+![Imagen55](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen55.png)
+
+Esto aumenta levemente el **Factor de Bragg**
+
+![Imagen56](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen56.png)
+
+Ahora vamos con el coeficiente <kbd>X</kbd> del parámetro de forma:
+
+![Imagen57](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen57.png)
+
+Vemos un aumento en el **Factor de Bragg**
+
+![Imagen58](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen58.png)
+
+Ahora vamos con el coeficiente <kbd>Eta_0</kbd> del parámetro de forma:
+
+![Imagen59](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen59.png)
+
+De nuevo vemos un aumento en el **Factor de Bragg**
+
+![Imagen60](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen60.png)
+
+Ahora refinamos las posiciones atómicas:
+
+![Imagen60-2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen60-2.png)
+
+No hay mucho cambio:
+
+![Imagen61](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen61.png)
+
+Vemos cómo cambian las posiciones atómicas:
+
+![Imagen62](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen62.png)
+
+Las dejamos fijas y refinamos el factor de ocupación de los cationes (iones de aluminio):
+
+![Imagen63](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen63.png)
+
+Y vemos que vuelve a disminuir el **Factor de Bragg**
+
+![Imagen63-2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen63-2.png)
+
+Refinamos el factor de ocupación de los aniones (iones de oxígeno):
+
+![Imagen64](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen64.png)
+
+Eso incrementa nuevamente el **Factor de Bragg**
+
+![Imagen65](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen65.png)
+
+Fijamos todo en posiciones atómicas:
+
+![Imagen66](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen66.png)
+
+No cambia mucho el **Factor de Bragg**
+
+![Imagen67](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen67.png)
+
+Ahora refinamos el coeficiente <kbd>G1</kbd> de orientación preferencial
+
+![Imagen68](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen68.png)
+
+Pero esa acción incrementa el **Factor de Bragg**
+
+![Imagen69](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen69.png)
 
 
 ## WinPlotr

@@ -668,11 +668,27 @@ Aunque el resultado podría ser mejor -para ello puede repetirse toda la rutina 
 
 ![Diapositiva81](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva81.PNG)
 
+</div>
+
+<div align="justify">
+
 Si lo abrimos podemos encontrar varias cosas. Entre ellas el valor de los parámetros de red: _a = 4.05285 Å_. Este valor es un poco diferente al que calculamos previamente en la sección [Cálculo del parámetro de red](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#c%C3%A1lculo-de-par%C3%A1metros-de-red). El valor calculado en la sección anterior es más confiable:  _a = 4.05424 Å_
+
+</div>
+
+<div align="center">
 
 ![Diapositiva82](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva82.PNG)
 
+</div>
+
+<div align="justify">
+
 También podemos observar la fracción de esta fase en el material, que por ahora es del 100%. Cuando agreguemos la segunda fase y hagamos el refinamiento ese valor deberá cambiar.
+
+</div>
+
+<div align="center">
 
 ![Diapositiva83](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva83.PNG)
 

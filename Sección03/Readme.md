@@ -723,6 +723,49 @@ Cerramos y guardamos cambios.
 
 ## Refinamiento de la segunda fase
 
+Empezamos abriendo el FullProf para desplegar la barra de tareas (_ToolBar_). En la barra de tareas clickeamos en ED PCR para abrir el editor de archivos PCR.
+
+![Imagen11](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen11.png)
+
+En el editor de archivos PCR damos _click_ en <kbd>File</kbd>y <kbd>Open</kbd>
+
+![Imagen12](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen12.png)
+
+Se abre la ventana para seleccionar el archivo *.PCR. Escogemos el de la fase 1, con la que estábamos trabajando y a la que añadimos los datos de la segunda fase.
+
+![Imagen13](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen13.png)
+
+Al hacer esto, se activan los botones del editor de archivos PCR. Damos _click_ en el botón <kbd>Refinement</kbd>.
+
+![Imagen14](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen14.png)
+
+Damos _click_ en <kbd>Profile</kbd>
+
+![Imagen15](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen15.png)
+
+Como ya sabemos, empezamos la rutina de refinamiento con el factor de escala:
+
+![Imagen16](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen16.png)
+
+Al correr el _software_ observamos ya aparece incluido el resultado de la fase 2, con un **Factor de Bragg = 64.25** y un **Chi-2 = 2.98**. Vemos que hacer esto también ha afectado los valores de la primera fase.
+
+![Imagen17](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen17.png)
+
+Continuamos con el refinamiento del <kbd>Background</kbd>
+
+![Imagen18](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen18.png)
+
+El resultado es la estabilización del **Factor de Bragg** y del **Chi-2** de la primera fase y la disminución de estos valores para la fase 2.
+
+![Imagen19](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen19.png)
+
+Continuamos con el refinamiento de los parámetros de red:
+
+![Imagen20](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen20.png)
+
+
+
+
 ## WinPlotr
 
 ## Archivos de salida

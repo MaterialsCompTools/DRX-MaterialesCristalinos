@@ -16,7 +16,7 @@
 
 ## Requerimientos
 
-* Descargar la versión del software que más le convenga: [FullProf Suite](https://www.ill.eu/sites/fullprof/php/downloads.html)
+* Descargar la versión del _software_ que más le convenga: [FullProf Suite](https://www.ill.eu/sites/fullprof/php/downloads.html)
 
 ## Qué es FullProf
 

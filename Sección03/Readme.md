@@ -893,6 +893,11 @@ Pero esa acción incrementa el **Factor de Bragg**
 
 ![Imagen69](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen69.png)
 
+Repetimos todo el procedimiento, con el fin de disminuir el **Factor de Bragg** de la segunda fase.
+
+En mi caso, quedé en un **Factor de Bragg** de la segunda fase de 47.11. Que es un valor alto. Sin embargo, teniendo en cuenta que la intensidad de los picos es baja y que el **Chi-2** tiene un valor muy aceptable, dejaré el proceso hasta ahí.
+
+![Imagen70](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Imagen70.png)
 
 ## WinPlotr
 

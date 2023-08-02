@@ -10,7 +10,7 @@
 
 * Conocer qué es el método Rietveld
 * Conocer para qué sirve el _software_ FullProf
-* Conocer los archivos de trabajo del software
+* Conocer los archivos de trabajo del _software_
 * Utilizar FullProf para llevar a cabo el refinamiento Rietveld de un patrón de DRX
 * Conocer los archivas de salida del _software_
 
@@ -26,7 +26,7 @@ FullProf es una herramienta para el refinamiento rietveld de forma automatizada.
 
 <div align="justify">
 
-Es una técnica de refinamiento con precisión alta que se usa para determinar los parámetros estructurales de una muestra de análisis. Esto se hace a partir de la construcción de un modelo teórico que se ajuste al patrón de difracción experimental, usando el métodod de mínimos cuadrados.
+Es una técnica de refinamiento con precisión alta que se usa para determinar los parámetros estructurales de una muestra de análisis. Esto se hace a partir de la construcción de un modelo teórico que se ajuste al patrón de difracción experimental, usando el método de mínimos cuadrados.
 
 Para esto, lo primero que se hace es calcular la intensidad total en cada uno de los puntos del difractograma. La intensidad a calcular en un punto _i_ está dada por la siguiente ecuación:
 
@@ -63,19 +63,19 @@ $M = \displaystyle\sum_{j}^{} {\frac{{(y_{0j}-y_{cj})^2}}{{y_{0j}}}}$
 Esa función se minimiza con relación a los M parámetros de refinamiento, así: $\frac{{𝜕M}}{{𝜕p_i}}$
 
 Los parámetros de refinamiento son:<br>
-* Coeficientes de la expansión en series de la función que describe el background (línea base)
+* Coeficientes de la expansión en series de la función que describe el _background_ (línea base)
 * El factor de escala
 * Los parámetros de red
 * Los coeficientes en la función del perfil
 
-Ya veíamos las funciones más utilizadas para simular los [Picos difractados](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#ajuste-de-picos)<br>
+Ya veíamos las funciones más utilizadas para [ajustar los picos difractados](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#ajuste-de-picos)<br>
 También veíamos las causas del [ensanchamiento de los picos](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n02#ensanchamiento-de-picos)
 
 El ancho para una curva Gaussiana puede escribirse así:
 
 <div align="center">
 
-$Γ_G= U tan^2 (θ) + V tan(θ) +W + \frac{{V}}{{cos^2 (θ)}}$
+$Γ_G= U tan^2 (θ) + V tan(θ) +W + \frac{{P}}{{cos^2 (θ)}}$
 
 </div>
 
@@ -191,7 +191,7 @@ Para crear el archivo con extensión **.BGR** abrimos el FullProf. De la barra d
 
 ![Diapositiva7](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva7.PNG)
 
-amos _click_ en <kbd>Open pattern file </kbd>
+Damos _click_ en <kbd>Open pattern file </kbd>
 
 ![Diapositiva8](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva8.PNG)
 

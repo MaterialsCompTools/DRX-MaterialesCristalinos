@@ -1,4 +1,10 @@
 <div align="center">
+   
+![LogoCGTEI](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20CGTEI%20png.png)
+
+</div><br>
+
+<div align="center">
 
 # Indexación de picos de patrones de difracción. Herramienta computacional: MATCH!<br>
 

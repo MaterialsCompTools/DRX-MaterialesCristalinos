@@ -91,9 +91,8 @@ En este apartado aprenderás a refinar patrones de difracción para conocer porc
 | [Archivos de salida](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/Readme.md#archivos-de-salida)                          | En este apartado aprenderás a extraer la información después del proceso de refinamiento.|
 
 <div align="center">
-
-![Certificado](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Certificado%20PNG.png)
-
-[Formulario de admisión](https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL)
-
+  
+  <a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Certificado%20PNG.png" alt="R.LTWB" width="100%" border="0" /></a>
+  
 </div>
+

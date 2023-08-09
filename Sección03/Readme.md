@@ -1,6 +1,12 @@
+<div align="center">
+   
+![LogoCGTEI](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20CGTEI%20png.png)
+
+</div><br>
+
 <div align="center"> 
 
-# Determinación de porcentajes de fases por refinamiento Rietveld. 
+# Determinación de porcentajes de fases por refinamiento Rietveld
 
 ![FullProf logo](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/FullProf%20logo%20PNG.png)
 

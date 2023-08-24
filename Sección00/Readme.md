@@ -141,7 +141,7 @@ Estos planos, a su vez, pueden representarse de forma no compacta:
 
 <div align="center">
 
-![Plano_grueso]()
+![Plano_grueso](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen27.png)
 
 </div>
 

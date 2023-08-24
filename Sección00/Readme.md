@@ -105,7 +105,7 @@ Los rayos X son una radiación electromagnética, que es invisible al ojo humano
 
 <div align="center">
 
-![Onda_sinusoidal]()
+![Onda_sinusoidal](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen0.png)
 
 </div>
 
@@ -129,6 +129,6 @@ Recuérdese que los materiales cristalinos, a escala nanométrica, pueden ser vi
 
 <div align="center">
 
-![Plano_grueso]()
+![Plano_grueso](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen1.png)
 
 </div>

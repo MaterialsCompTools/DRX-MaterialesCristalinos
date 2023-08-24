@@ -371,7 +371,7 @@ El goniómetro permite que la fuente de rayos-X y el detector se muevan con resp
 
 <div align="center">
 
-![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen14.png)
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen14.jpg)
 
 </div>
 
@@ -409,3 +409,60 @@ El detector recibe los rayos X difractados y los traduce en un patrón de difrac
 </div>
 
 <div align="justify">
+
+## Interacción de los rayos X con la materia
+
+Cuando consideramos un átomo con Z electrones, la amplitud dispersada por él en cierta dirección 2θ, es la suma vectorial de las amplitudes dispersadas por cada electrón en dicha dirección. Se define un factor atómico de dispersión f o factor de forma:
+
+</div>
+
+<div align="center">
+
+$f = \frac{amplitud de la onda dispersada por un átomo}{amplitud de la onda dispersada por un electrón}$
+
+</div>
+
+<div align="justify">
+
+El factor de dispersión depende del ángulo de difracción:
+
+</div>
+
+<div align="center">
+
+$f \approx \frac{Sen(\theta)}{\lambda}$
+
+</div>
+
+<div align="justify">
+
+Al hacer la gráfica, queda algo así:
+
+</div>
+
+<div align="center">
+
+![Otra](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen17.png)
+
+</div>
+
+<div align="justify">
+
+Esto hace que, por lo general, la intensidad de las líneas de difracción tienda a decrecer a medida que el ángulo aumenta, tal como lo vemos en el patrón de difracción de más arriba. 
+
+</div>
+
+<div align="center">
+
+![Otra](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen18.png)
+
+</div>
+
+<div align="justify">
+
+La amplitud de la onda dispersada por un átomo situado en un punto x,y,z del plano con índices de Miller (hkl) dentro de la celda unitaria se puede escribir:
+
+</div>
+
+<div align="center">
+

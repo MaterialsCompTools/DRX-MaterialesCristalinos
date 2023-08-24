@@ -93,3 +93,42 @@ Ambos recibieron el premio Nobel en 2015. Lawrence, con solo 25 años, sigue sie
 
 </div>
 
+<div align="justify">
+
+## Bases teóricas de la técnica 
+
+### ¿Qué son los rayos X?
+
+Los rayos X son una radiación electromagnética, que es invisible al ojo humano y es capaz de atravesar cuerpos opacos. Los rayos X son de la misma naturaleza que las ondas de radio, las microondas y la luz visible. Al ser ondas, se representan gráficamente por una función sinusoidal.
+
+</div>
+
+<div align="center">
+
+![Onda_sinusoidal]()
+
+</div>
+
+<div align="justify">
+
+Además, tienen las características de una onda:
+* Longitud de onda: que es la distancia entre crestas o entre valles.
+* Amplitud: que es la distancia entre la cresta y el seno de la onda.
+* Frecuencia: que es la cantidad de ondas que pasan por un punto en un tiempo determinado.
+* Período: que es el tiempo que tarda una onda en completar un ciclo.
+
+Las diferencias con las otras ondas mencionadas son, además de su procedencia, la longitud de onda, que es mucho más pequeña en los rayos X (del orden de 1000 metros para las ondas de radio; o del orden de los 500 nm para la luz visibile), del orden de las distancias atómicas, es decir, los Angstroms (Å), así como su frecuencia, que es mucho más alta.
+
+## Difracción de rayos X
+
+Estos rayos X interactúan con la materia de diferentes formas: son absorbidos por ella, atenuando el haz transmitido al perder energía por todo tipo de interacciones; son dispersados, es decir, cambian de dirección; son reflejados, es decir, regresan al mismo lugar del que salieron, formando un ángulo igual al incidente; y, por último, son difractados. Esto último quiere decir que **son desviados al atravesar una abertura de espesor comparable a la longitud de la radiación.**
+
+Recuérdese que los materiales cristalinos, a escala nanométrica, pueden ser vistos como formados por planos atómicos apilados entre sí, tal como se esquematiza a continuación.
+
+</div>
+
+<div align="center">
+
+![Plano_grueso]()
+
+</div>

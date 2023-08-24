@@ -4,6 +4,8 @@
 
 # Historia y bases teóricas de la técnica
 
+Duración: 2.0 horas
+
 La historia del descubrimiento y aplicación de los rayos X ha sido tan importante para la ciencia y la ingeniería, que fue premiada con varios premios Nobel.
 
 ![Nobel-Prize](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig1.jpg)

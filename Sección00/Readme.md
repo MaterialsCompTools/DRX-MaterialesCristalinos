@@ -132,3 +132,47 @@ Recuérdese que los materiales cristalinos, a escala nanométrica, pueden ser vi
 ![Plano_grueso](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen1.png)
 
 </div>
+
+<div align="justify">
+
+Estos planos, a su vez, pueden representarse de forma no compacta:
+
+</div>
+
+<div align="center">
+
+![Plano_grueso](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen2.png)
+
+</div>
+
+<div align="justify">
+
+El fenómeno de difracción de los rayos X se da por la interacción de éstos con las aberturas o distancias entre los planos cristalográficos, de valores similares a la longitud de onda de los rayos X. Al ser irradiados sobre la muestra, los rayos X se difractan a ángulos que dependen de las distancias interatómicas. Es decir, el ángulo de difracción o de salida de los rayos X dependerá de los planos con los que interactúe.
+
+Esta es una de las técnicas no destructivas más importante para el análisis de materiales, ya sea que estén en forma de polvo o _bulk_.
+
+## Ley de Bragg
+
+Recordemos que una onda o fenómeno ondulatorio es una propagación en el espacio y en el tiempo de una perturbación oscilatoria, es decir, es un fenómeno regularmente repetido. Las perturbaciones ondulatorias pueden interactuar entre ellas. Cuando las ondas se superponen se habla de una interferencia. Esta superposición da como resultado la suma de las ondas. Sin embargo, esta interferencia puede ser constructiva o destructiva. La interferencia constructiva es cuando al sumar las ondas la onda resultante tiene una amplitud mayor. Por otro lado, la interferencia destructiva es cuando al sumar las ondas éstas se anulan entre sí, produciendo una amplitud menor.
+
+</div>
+
+<div align="center">
+
+![Plano_grueso](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen33.png)
+
+</div>
+
+<div align="justify">
+
+Cuando los rayos X, que son fenómenos ondulatorios, interactúan con los átomos, éstos reemiten la radiación en diferentes direcciones y con la misma frecuencia. Estos rayos X reemitidos por átomos cercanos interfieren entre ellos, ya sea de forma constructiva o destructiva. Los puntos en los que la interferencia es constructiva se muestra como la zona de intersección de los anillos. Puede apreciarse que existen ángulos privilegiados en los cuales la interferencia es constructiva, siendo en este caso a 45°.
+
+</div>
+
+<div align="center">
+
+![Plano_grueso](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen44.png)
+
+</div>
+
+<div align="justify">

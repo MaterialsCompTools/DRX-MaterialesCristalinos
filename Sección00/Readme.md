@@ -4,8 +4,6 @@
 
 # Historia y bases teóricas de la técnica
 
-Duración: 2.0 horas
-
 La historia del descubrimiento y aplicación de los rayos X ha sido tan importante para la ciencia y la ingeniería, que fue premiada con varios premios Nobel.
 
 ![Nobel-Prize](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig1.jpg)
@@ -468,3 +466,18 @@ La amplitud de la onda dispersada por un átomo situado en un punto x,y,z del pl
 
 <div align="center">
 
+$A e^{i \phi} = f e^{2 \pi i (hu+kv+lw)}$
+
+</div>
+
+<div align="justify">
+
+Donde los valores _u_, _v_, _w_ son los valores del vector de la posición del átomo. La amplitud de la onda resultante dispersada por los átomos de una celda unitaria se denomina FACTOR DE ESTRUCTURA, F.
+
+<div align="center">
+
+![Otra](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen19.png)
+
+</div>
+
+<div align="justify">

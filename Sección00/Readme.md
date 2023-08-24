@@ -6,7 +6,7 @@
 
 La historia del descubrimiento y aplicación de los rayos X ha sido tan importante para la ciencia y la ingeniería, que fue premiada con varios premios Nobel.
 
-![Nobel-Prize]()
+![Nobel-Prize](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig1.jpg)
 
 </div>
 
@@ -37,7 +37,7 @@ Wilhelm nació en Lennep, Alemania, el 27 de marzo de 1845. Pasó su infancia en
 
 <div align="center">
 
-![Wilhem]()
+![Wilhem](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig2.jpg)
 
 </div>
 
@@ -53,7 +53,7 @@ Su descubrimiento lo llevó a ganar el Premio Nobel en 1901.
 
 <div align="center">
 
-![Nobel-2]()
+![Nobel-2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig3.jpg)
 
 </div>
 
@@ -67,7 +67,7 @@ Max von Laue también nació en Alemania, pero en la ciudad de Pfaffendorf, el 9
 
 <div align="center">
 
-![Laue]()
+![Laue](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig4.jpg)
 
 </div>
 
@@ -89,7 +89,7 @@ Ambos recibieron el premio Nobel en 2015. Lawrence, con solo 25 años, sigue sie
 
 <div align="center">
 
-![Braggs]()
+![Braggs](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig5.jpg)
 
 </div>
 

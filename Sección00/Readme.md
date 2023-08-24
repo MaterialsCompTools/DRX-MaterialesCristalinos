@@ -481,3 +481,52 @@ Donde los valores _u_, _v_, _w_ son los valores del vector de la posición del �
 </div>
 
 <div align="justify">
+
+Al sumar todas las ondas dispersadas por los N átomos individuales de la celda unitaria, tenemos la siguiente expresión para el factor de estructura.
+
+</div>
+
+<div align="center">
+
+$F_{hkl} = \displaystyle\sum_{1}^{n} f e^{2 \pi i (hu+kv+lw)}$
+
+</div>
+
+<div align="justify">
+
+Para el caso de una celda unitaria cúbica simple, con un átomo en el origen (u = 0, v = 0 y w = 0), el cálculo de F sería como se muestra a continuación:
+
+<div align="center">
+
+![Otra](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen20.png)
+
+$$F_{hkl} = \displaystyle\sum_{1}^{n} f e^{2 \pi i (hu+kv+lw)} = f e^{2 \pi i (0)} = f $$
+
+</div>
+
+<div align="justify">
+
+Por lo que podemos deducir que F es independiente de los índices de Miller hkl, por lo que todos los planos difractarán y deben aparecer sus líneas en el difractograma. Ese es el caso del polonio, que exhibe estructura cristalina cúbica simple.
+
+</div>
+
+<div align="center">
+
+![Otra](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen21.png)
+
+</div>
+
+<div align="justify">
+
+Para una celda unitaria centrada en el cuerpo (BCC), para los dos átomos del mismo tipo ubicados en las posiciones 0,0,0 y 1⁄2,1⁄2,1⁄2, el cálculo del valor de F sería así:
+
+</div>
+
+<div align="center">
+
+![Otra](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen22.png)
+
+$$F_{hkl} = \displaystyle\sum_{1}^{n} f e^{2 \pi i (hu+kv+lw)} = f e^{2 \pi i (0)} + f e^{2 \pi i (\frac{h}{2} + \frac{k}{2} \frac{l}{2})} = f (1 + e^{\pi i (h+k+l)}) $$
+
+</div>
+

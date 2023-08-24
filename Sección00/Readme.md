@@ -141,7 +141,7 @@ Estos planos, a su vez, pueden representarse de forma no compacta:
 
 <div align="center">
 
-![Plano_grueso](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen2.png)
+![Plano_grueso]()
 
 </div>
 
@@ -171,7 +171,240 @@ Cuando los rayos X, que son fenómenos ondulatorios, interactúan con los átomo
 
 <div align="center">
 
-![Plano_grueso](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/Imagen44.jpg)
+![Plano_grueso](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/Imagen44.png)
+
+</div>
+
+<div align="justify">
+
+La ley de Bragg dice que la interferencia es constructiva cuando la diferencia de fase entre la radiación emitida por diferentes átomos es proporcional a 2π y se expresa según la siguiente ecuación:
+
+</div>
+
+<div align="center">
+
+$2d Sen(\theta) = n \lambda$
+
+</div>
+
+<div align="justify">
+
+Theta es el ángulo de difracción. Es decir, el ángulo al que sale el rayo X.
+
+</div>
+
+<div align="center">
+
+![Bragg_1](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen2.png)
+
+</div>
+
+<div align="justify">
+
+Haciendo la siguiente relación geométrica, podemos sacar la relación entre el ángulo de difracción (θ) y la distancia interplanar d.
+
+</div>
+
+<div align="center">
+
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen3.png)
+
+</div>
+
+<div align="justify">
+
+De la figura anterior podemos extraer el siguiente triángulo rectángulo:
+
+</div>
+
+<div align="center">
+
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen4.png)
+
+</div>
+
+<div align="justify">
+
+Como sabemos, podemos calcular la longitud del cateto rojo con la relación del seno.  El seno de theta es el cateto opuesto sobre la hipotenusa:
+
+</div>
+
+<div align="center">
+
+$Sen(\theta) = \frac{x}{d}$
+
+</div>
+
+Por lo que
+
+<div align="center">
+
+$x = d Sen(\theta)$
+
+</div>
+
+<div align="justify">
+
+Ahora, la ley de Bragg establece que para que la interferencia sea constructiva, debe cumplirse lay de Bragg. O, dicho de otro modo, cuando se cumple la condición de Bragg, que 2dSinTheta es proporcional a la longitud de onda de los rayos X, se produce una interferencia constructiva.
+
+## Cómo se producen los rayos X
+
+Los rayos-X se producen cuando cualquier partícula cargada eléctricamente que se mueve a una velocidad alta se desacelera al encontrarse con un obstáculo (por ejemplo, los electrones). Los rayos X también se producen por las transiciones de los electrones atómicos de un orbital a otro: la luz visible corresponde a transiciones de electrones más externos y los rayos X a los electrones más internos.
+
+El generador convencional del equipo de difracción consiste de un cátodo con un filamento de tungsteno (W) que emite electrones. Los electrones son emitidos por el calentamiento del filamento y el fenómeno se denomina emisión termiónica. Posteriormente, estos electrones son acelerados bajo vacío por acción de una diferencia de potencial o alto voltaje, que se aplica a lo largo del tubo ( ̴30kV). Este haz de electrones, por último, incide sobre un blanco metálico, ánodo o anticátodo (habitualmente Cu o Mo y menos frecuentemente Cr, Fe o Ag).
+
+</div>
+
+<div align="center">
+
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen5.png)
+
+</div>
+
+<div align="justify">
+
+Al incidir sobre el ánodo, los electrones que llegan arrancan electrones de las capas más internas de los átomos. El átomo puede existir en el estado excitado por muy poco tiempo, así que la tendencia natural es a que los electrones vuelvan a su estado característico. Lo que sucede es que un electrón de una capa superior cae a llenar el vacío del nivel inferior. Cuando esto ocurre, además, se produce un fotón de rayos X. Estos son los rayos X usados en la medida.
+
+</div>
+
+<div align="center">
+
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen6.png)
+
+</div>
+
+<div align="justify">
+
+Si la diferencia de potencial usada es de 30 kV, la velocidad de los electrones es cercana a 1/3 de la velocidad de la luz. Sin embargo, al colisionar con el blanco, la mayoría de la energía cinética de los electrones se disipa como calor, y solamente menos del 1% se convierte en rayos X.
+
+Dentro del tubo se producen muchos rayos X: algunos, por la desaceleración de los electrones emitidos, más los producidos por el ánodo. Los rayos X que se producen por la desaceleración de los electrones emitidos por el filamento de tungsteno produce un espectro continuo de longitudes de ondas, como se ve en la siguiente figura. Además, se muestra el espectro continuo para otros potenciales de aceleración.
+
+</div>
+
+<div align="center">
+
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen7.png)
+
+</div>
+
+<div align="justify">
+
+Los rayos X producidos por el ánodo, es decir, los producidos por la caída de electrones de un nivel a otro para llenar un hueco dejado, producen in espectro discreto de longitudes de onda. **La longitud de onda de los rayos dependerá de la fuente utilizada (o ánodo)**. Las fuentes pueden ser de Cu, Co, Mo, Fe, Cr o Ag. En Colombia son comunes las de Cu y Co.
+
+</div>
+
+<div align="center">
+
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen8.png)
+
+</div>
+
+<div align="justify">
+
+Pueden observarse dos líneas, la Kalpha y la Kbeta. Resulta que si ese electrón viene de la capa L a llenar un vacío de electrón dejado en la capa K, entonces el fotón que se produce se llama K_α. Si ese electrón viene de la capa M, entonces el fotón que se produce se llama K_β (con una energía levemente menor).
+
+</div>
+
+<div align="center">
+
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen9.png)
+
+</div>
+
+<div align="justify">
+
+La longitud de onda de los rayos X depende de la fuente que se use. En la siguiente figura se muestra el espectro discreto para una fuente de cobre (Cu) y para una fuente de molibdeno (Mo). Puede verse que la longitud de onda de los rayos X de la fuente del Cu es más alta que la de los rayos X de la fuente del Mo.
+
+</div>
+
+<div align="center">
+
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen10.png)
+
+</div>
+
+Además, dependiendo de los niveles energéticos dentro de los orbitales de donde vienen los electrones a llenar el vacío, pueden encontrarse líneas kα1 y kα2.
+
+</div>
+
+<div align="center">
+
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen11.png)
+
+</div>
+
+El espectro discreto luciría como se ve a continuación:
+
+</div>
+
+<div align="center">
+
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen12.png)
+
+</div>
+
+<div align="justify">
+
+Con el fin de garantizar una longitud de onda determinada o monocromática para las pruebas con rayos X se usan filtros en el tubo. 
+
+## Equipo de rayos X
+
+### Fuente de rayos X
+
+En la siguiente tabla se muestran las longitudes de onda en nm de las diferentes radiaciones. También se muestra el potencial de excitación necesario para producir los rayos X y los filtros utilizados para garantizar una radiación monocromática.
+
+</div>
+
+<div align="center">
+
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen13.png)
+
+</div>
+
+<div align="justify">
+
+### Goniómetros
+
+El goniómetro permite que la fuente de rayos-X y el detector se muevan con respecto a la muestra.
+
+</div>
+
+<div align="center">
+
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen14.png)
+
+</div>
+
+<div align="justify">
+
+En rayos X pueden hacerse dos tipos de medidas:
+
+*	Medidas en geometría Bragg-Brentano:
+
+Cuando la distancia entre el detector y la muestra es constante para todo ángulo θ. Es útil para muestras en polvo o muestras masivas.
+
+*	Medidas en geometría asimétrica de Bragg (haz rasante):
+
+Es útil para para películas delgadas o depósitos.
+Así luce un equipo de difracción de rayos X. Puede verse la fuente de los rayos X, el portamuestras (con capacidad para 10 muestras) y el detector.
+
+</div>
+
+<div align="center">
+
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen15.png)
+
+</div>
+
+<div align="justify">
+
+El detector recibe los rayos X difractados y los traduce en un patrón de difracción o difractograma. El gráfico muestra cómo varía la intensidad (medida en unidades arbitrarias) con el dos veces el ángulo de difracción.
+
+</div>
+
+<div align="center">
+
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen16.png)
 
 </div>
 

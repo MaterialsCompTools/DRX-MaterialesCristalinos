@@ -159,7 +159,7 @@ Recordemos que una onda o fenómeno ondulatorio es una propagación en el espaci
 
 <div align="center">
 
-![Plano_grueso](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen33.png)
+![Plano_grueso](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/Imagen33.jpg)
 
 </div>
 
@@ -171,7 +171,7 @@ Cuando los rayos X, que son fenómenos ondulatorios, interactúan con los átomo
 
 <div align="center">
 
-![Plano_grueso](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen44.png)
+![Plano_grueso](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/Imagen44.jpg)
 
 </div>
 

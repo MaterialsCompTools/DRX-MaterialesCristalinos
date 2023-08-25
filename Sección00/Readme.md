@@ -4,7 +4,7 @@
 
 # Historia y bases teóricas de la técnica
 
-La historia del descubrimiento y aplicación de los rayos X ha sido tan importante para la ciencia y la ingeniería, que fue premiada con varios premios Nobel.
+El descubrimiento de los rayos X ha sido tan importante para la ciencia y la ingeniería, que fue premiado con varios premios Nobel.
 
 ![Nobel-Prize](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig1.jpg)
 
@@ -537,3 +537,44 @@ Ahora analicemos cómo se comporta F si:
 * _h+k+l_ es impar
 
 Recordando que $e^{πi} = -1$
+
+* Entonces, si _h+k+l_ es par
+
+Por ejemplo, con el plano (110) tenemos que _h+k+l=2_
+
+</div>
+
+<div align="center">
+
+$F = f [1 + e^{2 \pi i}] = f [1 + e^{\pi i} e^{\pi i}] = f [1 + (-1 \times -1)] = f [1 + (+1)] = 2f$
+
+</div>
+
+<div align="justify">
+   
+Esto quiere decir que los planos de esos índices de Miller difractarán y deben aparecer sus líneas en el difractograma.
+
+* Ahora, si _h+k+l_ es impar
+
+Con el plano (111), por ejemplo se tendría que _h+k+l=3_
+
+</div>
+
+<div align="center">
+
+$F = f [1 + e^{3 \pi i}] = f [1 + e^{\pi i} e^{\pi i} e^{\pi i}] = f [1 + (-1 \times -1 \times -1)] = f [1 + (-1)] = 0$
+
+</div>
+
+<div align="justify">
+
+Esto quiere decir que Los planos de esos índices de Miller no difractarán y sus líneas no aparecerán en el difractograma.
+
+Esto pasa, por ejemplo, con el patrón de difracción del hierro, que es BCC a temperatura ambiente. Los planos que difractan son aquellos cuya suma de los índices de Miller son pares:
+
+</div>
+
+<div align="center">
+
+![Otra](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen23.png)
+

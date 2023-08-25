@@ -530,3 +530,10 @@ $$F_{hkl} = \displaystyle\sum_{1}^{n} f e^{2 \pi i (hu+kv+lw)} = f e^{2 \pi i (0
 
 </div>
 
+<div align="justify">
+
+Ahora analicemos cómo se comporta F si:
+* _h+k+l_ es par
+* _h+k+l_ es impar
+
+Recordando que $e^{πi} = -1$

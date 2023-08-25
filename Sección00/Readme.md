@@ -526,7 +526,7 @@ Para una celda unitaria centrada en el cuerpo (BCC), para los dos átomos del mi
 
 ![Otra](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen22.png)
 
-$$F_{hkl} = \displaystyle\sum_{1}^{n} f e^{2 \pi i (hu+kv+lw)} = f e^{2 \pi i (0)} + f e^{2 \pi i (\frac{h}{2} + \frac{k}{2} \frac{l}{2})} = f (1 + e^{\pi i (h+k+l)}) $$
+$$F_{hkl} = \displaystyle\sum_{1}^{n} f e^{2 \pi i (hu+kv+lw)} = f e^{2 \pi i (0)} + f e^{2 \pi i (\frac{h}{2} + \frac{k}{2} + \frac{l}{2})} = f (1 + e^{\pi i (h+k+l)}) $$
 
 </div>
 
@@ -578,3 +578,40 @@ Esto pasa, por ejemplo, con el patrón de difracción del hierro, que es BCC a t
 
 ![Otra](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen23.png)
 
+</div>
+
+<div align="justify">
+
+Para una celda unitaria centrada en las caras (FCC), para los cuatro átomos del mismo tipo ubicados en las posiciones 0,0,0; 1⁄2,1⁄2,0; 1⁄2,0,1⁄2; y 0,1⁄2,1⁄2, el cálculo del valor de F sería así:
+
+</div>
+
+<div align="center">
+
+![Otra](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen24.png)
+
+$F_{hkl} = \displaystyle\sum_{1}^{n} f e^{2 \pi i (hu+kv+lw)} = f e^{2 \pi i (0)} + f e^{2 \pi i (\frac{h}{2} + \frac{k}{2})} + f e^{2 \pi i (\frac{h}{2} + \frac{l}{2})} + f e^{2 \pi i (\frac{k}{2} + \frac{l}{2})} = f (1 + e^{\pi i (h+k)} + e^{\pi i (h+l)} + e^{\pi i (k+l)})$
+
+</div>
+
+<div align="justify">
+
+Si los hkl son todos pares o impares (no mezclados):
+
+$F=4f$
+
+Si los hkl están mezclados, siendo al menos uno par o impar:
+
+$F=0$
+
+Esto quiere decir que los planos que difractan en una estructura cristalina FCC son aquellos con índices de Miller pares o impares, sin mezclarse.
+
+Y así luce un patrón de difracción de un material FCC (el cobre). Pueden verse planos difractados con índices de Miller todos impares, como el (111) o todos pares, como los (200) y (220).
+
+</div>
+
+<div align="center">
+
+![Otra](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen25.png)
+
+</div>

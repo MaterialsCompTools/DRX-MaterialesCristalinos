@@ -615,3 +615,34 @@ Y así luce un patrón de difracción de un material FCC (el cobre). Pueden vers
 ![Otra](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen25.png)
 
 </div>
+
+<div align="justify">
+
+Para resumir, Con estos datos podemos saber qué planos producen y no producen reflexiones para las celdas cúbicas.
+
+La estructura cristalina cúbica simple difracta todos los planos
+La estructura cristalina BCC sólo difracta aquellos planos con índices de Miller que sumen par
+Y la estructura cristalina FCC sólo difracta aquellos planos con índices de Miller con paridad no mezclada.
+
+Para cada conjunto de planos se produce entonces la difracción a un ángulo diferente de Bragg. En un difractómetro el ángulo 2θ se varía de forma continua y se usa un detector o contador de centelleo, para que el equipo genere un gráfico en el que aparecen las veces que un plano difracta.
+
+</div>
+
+<div align="center">
+
+![Otra](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen26.png)
+
+</div>
+
+##
+
+<div align="center">
+   
+   <a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20Obtener%20certificado%20PNG.png" alt="R.LTWB" width="260" border="0" /></a>
+
+</div>
+
+##
+
+![Logo botón](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20cierre%20sección.png)
+

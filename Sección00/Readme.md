@@ -389,6 +389,7 @@ Cuando la distancia entre el detector y la muestra es constante para todo ángul
 *	Medidas en geometría asimétrica de Bragg (haz rasante):
 
 Es útil para para películas delgadas o depósitos.
+
 Así luce un equipo de difracción de rayos X. Puede verse la fuente de los rayos X, el portamuestras (con capacidad para 10 muestras) y el detector.
 
 </div>
@@ -401,7 +402,7 @@ Así luce un equipo de difracción de rayos X. Puede verse la fuente de los rayo
 
 <div align="justify">
 
-El detector recibe los rayos X difractados y los traduce en un patrón de difracción o difractograma. El gráfico muestra cómo varía la intensidad (medida en unidades arbitrarias) con el dos veces el ángulo de difracción.
+El detector recibe los rayos X difractados y los traduce en un patrón de difracción o difractograma. El gráfico muestra cómo varía la intensidad (medida en unidades arbitrarias) con dos veces el ángulo de difracción.
 
 </div>
 
@@ -463,7 +464,7 @@ Esto hace que, por lo general, la intensidad de las líneas de difracción tiend
 
 <div align="justify">
 
-La amplitud de la onda dispersada por un átomo situado en un punto x,y,z del plano con índices de Miller (hkl) dentro de la celda unitaria se puede escribir:
+La amplitud de la onda dispersada por un átomo situado en un punto _x_, _y_, _z_ del plano con índices de Miller _(hkl)_ dentro de la celda unitaria se puede escribir:
 
 </div>
 
@@ -497,7 +498,7 @@ $F_{hkl} = \displaystyle\sum_{1}^{n} f e^{2 \pi i (hu+kv+lw)}$
 
 <div align="justify">
 
-Para el caso de una celda unitaria cúbica simple, con un átomo en el origen (u = 0, v = 0 y w = 0), el cálculo de F sería como se muestra a continuación:
+Para el caso de una celda unitaria cúbica simple, con un átomo en el origen (_u_ = 0, _v_ = 0 y _w_ = 0), el cálculo de F sería como se muestra a continuación:
 
 <div align="center">
 
@@ -509,7 +510,7 @@ $$F_{hkl} = \displaystyle\sum_{1}^{n} f e^{2 \pi i (hu+kv+lw)} = f e^{2 \pi i (0
 
 <div align="justify">
 
-Por lo que podemos deducir que F es independiente de los índices de Miller hkl, por lo que todos los planos difractarán y deben aparecer sus líneas en el difractograma. Ese es el caso del polonio, que exhibe estructura cristalina cúbica simple.
+Por lo que podemos deducir que F es independiente de los índices de Miller _hkl_, por lo que todos los planos difractarán y deben aparecer sus líneas en el difractograma. Ese es el caso del polonio, que exhibe estructura cristalina cúbica simple.
 
 </div>
 
@@ -521,7 +522,7 @@ Por lo que podemos deducir que F es independiente de los índices de Miller hkl,
 
 <div align="justify">
 
-Para una celda unitaria centrada en el cuerpo (BCC), para los dos átomos del mismo tipo ubicados en las posiciones 0,0,0 y 1⁄2,1⁄2,1⁄2, el cálculo del valor de F sería así:
+Para una celda cúbica centrada en el cuerpo (BCC), para los dos átomos del mismo tipo ubicados en las posiciones 0,0,0 y 1⁄2,1⁄2,1⁄2, el cálculo del valor de F sería así:
 
 </div>
 
@@ -585,7 +586,7 @@ Esto pasa, por ejemplo, con el patrón de difracción del hierro, que es BCC a t
 
 <div align="justify">
 
-Para una celda unitaria centrada en las caras (FCC), para los cuatro átomos del mismo tipo ubicados en las posiciones 0,0,0; 1⁄2,1⁄2,0; 1⁄2,0,1⁄2; y 0,1⁄2,1⁄2, el cálculo del valor de F sería así:
+Para una celda cúbica centrada en las caras (FCC), para los cuatro átomos del mismo tipo ubicados en las posiciones 0,0,0; 1⁄2,1⁄2,0; 1⁄2,0,1⁄2; y 0,1⁄2,1⁄2, el cálculo del valor de F sería así:
 
 </div>
 
@@ -599,11 +600,11 @@ $F_{hkl} = \displaystyle\sum_{1}^{n} f e^{2 \pi i (hu+kv+lw)} = f e^{2 \pi i (0)
 
 <div align="justify">
 
-Si los hkl son todos pares o impares (no mezclados):
+Si los _hkl_ son todos pares o impares (no mezclados):
 
 $F=4f$
 
-Si los hkl están mezclados, siendo al menos uno par o impar:
+Si los _hkl_ están mezclados, siendo al menos uno par o impar:
 
 $F=0$
 
@@ -621,11 +622,11 @@ Y así luce un patrón de difracción de un material FCC (el cobre). Pueden vers
 
 <div align="justify">
 
-Para resumir, Con estos datos podemos saber qué planos producen y no producen reflexiones para las celdas cúbicas.
+Para resumir, con estos datos podemos saber qué planos producen y no producen reflexiones para las celdas cúbicas:
 
-La estructura cristalina cúbica simple difracta todos los planos
-La estructura cristalina BCC sólo difracta aquellos planos con índices de Miller que sumen par
-Y la estructura cristalina FCC sólo difracta aquellos planos con índices de Miller con paridad no mezclada.
+* La estructura cristalina cúbica simple difracta todos los planos
+* La estructura cristalina BCC sólo difracta aquellos planos con índices de Miller que sumen par
+* La estructura cristalina FCC sólo difracta aquellos planos con índices de Miller con paridad no mezclada.
 
 Para cada conjunto de planos se produce entonces la difracción a un ángulo diferente de Bragg. En un difractómetro el ángulo 2θ se varía de forma continua y se usa un detector o contador de centelleo, para que el equipo genere un gráfico en el que aparecen las veces que un plano difracta.
 

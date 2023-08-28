@@ -6,7 +6,7 @@
 
 El descubrimiento de los rayos X ha sido tan importante para la ciencia y la ingeniería, que fue premiado con varios premios Nobel.
 
-![Nobel-Prize](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig1.jpg)
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig1.jpg" alt="R.LTWB" width="30%" border="0" /></a></div>
 
 </div>
 
@@ -37,7 +37,7 @@ Wilhelm nació en Lennep, Alemania, el 27 de marzo de 1845. Pasó su infancia en
 
 <div align="center">
 
-![Wilhem](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig2.jpg)
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig2.jpg" alt="R.LTWB" width="30%" border="0" /></a></div>
 
 </div>
 
@@ -53,7 +53,8 @@ Su descubrimiento lo llevó a ganar el Premio Nobel en 1901.
 
 <div align="center">
 
-![Nobel-2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig3.jpg)
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig3.jpg" alt="R.LTWB" width="40%" border="0" /></a></div>
+
 
 </div>
 
@@ -67,7 +68,7 @@ Max von Laue también nació en Alemania, pero en la ciudad de Pfaffendorf, el 9
 
 <div align="center">
 
-![Laue](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig4.jpg)
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig4.jpg" alt="R.LTWB" width="30%" border="0" /></a></div>
 
 </div>
 
@@ -89,7 +90,7 @@ Ambos recibieron el premio Nobel en 2015. Lawrence, con solo 25 años, sigue sie
 
 <div align="center">
 
-![Braggs](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig5.jpg)
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig5.jpg" alt="R.LTWB" width="40%" border="0" /></a></div>
 
 </div>
 
@@ -257,7 +258,8 @@ El generador convencional del equipo de difracción consiste de un cátodo con u
 
 <div align="center">
 
-![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen5.png)
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen5.png" alt="R.LTWB" width="60%" border="0" /></a></div>
+
 
 </div>
 
@@ -269,7 +271,8 @@ Al incidir sobre el ánodo, los electrones que llegan arrancan electrones de las
 
 <div align="center">
 
-![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen6.png)
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen6.png" alt="R.LTWB" width="60%" border="0" /></a></div>
+
 
 </div>
 
@@ -307,7 +310,7 @@ Pueden observarse dos líneas, la Kalpha y la Kbeta. Resulta que si ese electró
 
 <div align="center">
 
-![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen9.png)
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen9.png" alt="R.LTWB" width="40%" border="0" /></a></div>
 
 </div>
 

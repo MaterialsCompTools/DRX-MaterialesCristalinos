@@ -25,7 +25,8 @@ En este apartado conocerás la historia de los rayos X y las bases teóricas de 
 
 **Duración:** 1 hora
 
-![Nobel](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig1.jpg)
+<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig1.jpg" alt="R.LTWB" width="30%" border="0" /></a></div>
+
 
 
 |    Microcontenidos     | Contenido |

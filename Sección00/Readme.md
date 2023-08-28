@@ -304,7 +304,7 @@ Los rayos X producidos por el ánodo, es decir, los producidos por la caída de 
 
 <div align="justify">
 
-Pueden observarse dos líneas, la Kalpha y la Kbeta. Resulta que si ese electrón viene de la capa L a llenar un vacío de electrón dejado en la capa K, entonces el fotón que se produce se llama K_α. Si ese electrón viene de la capa M, entonces el fotón que se produce se llama K_β (con una energía levemente menor).
+Pueden observarse dos líneas, la $K_{alpha}$ y la $K_{beta}$. Resulta que si ese electrón viene de la capa L a llenar un vacío de electrón dejado en la capa K, entonces el fotón que se produce se llama $K_α$. Si ese electrón viene de la capa M, entonces el fotón que se produce se llama $K_β$ (con una energía levemente menor).
 
 </div>
 
@@ -326,7 +326,7 @@ La longitud de onda de los rayos X depende de la fuente que se use. En la siguie
 
 </div>
 
-Además, dependiendo de los niveles energéticos dentro de los orbitales de donde vienen los electrones a llenar el vacío, pueden encontrarse líneas kα1 y kα2.
+Además, dependiendo de los niveles energéticos dentro de los orbitales de donde vienen los electrones a llenar el vacío, pueden encontrarse líneas $k_{α1}$ y $k{α2}$.
 
 </div>
 

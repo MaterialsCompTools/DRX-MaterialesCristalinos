@@ -19,6 +19,19 @@ Este es un curso práctico que tiene como objetivo familiarizar al estudiante co
 
 <div align="center">
 
+## Sección 0: Historia y bases teóricas<br>
+
+En este apartado conocerás la historia de los rayos X y las bases teóricas de la técnica de caracterización conocida como difracción de rayos X.
+
+**Duración:** 1 hora
+
+![Nobel](__)
+
+|    Microcontenidos     | Contenido |
+|------------------------|:---------------------|
+| [Historia](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n00#historia)|En este apartado conocerás la historia del descrubrimiento de los rayos X y del planteamiento de la ley de Bragg|
+| [Bases teóricas de la técnica](__)|En este apartado aprenderás qué son los rayos X, cómo se producen, cómo interactúan estos con la materia, y conocerás los equipos que se utilizan para la caracterización de materiales.|
+
 ## Sección 1: Indexación de picos de patrones de difracción<br>
 
 En este apartado aprenderás a indexar patrones de DRX con ayuda de MATCH!

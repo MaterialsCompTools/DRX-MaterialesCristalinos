@@ -31,7 +31,7 @@ En este apartado conocerás la historia de los rayos X y las bases teóricas de 
 |    Microcontenidos     | Contenido |
 |------------------------|:---------------------|
 | [Historia](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n00#historia)|En este apartado conocerás la historia del descrubrimiento de los rayos X y del planteamiento de la ley de Bragg|
-| [Bases teóricas de la técnica](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n00#bases-te%C3%B3ricas-de-la-t%C3%A9cnica)|En este apartado aprenderás qué son los rayos X, cómo se producen, cómo interactúan estos con la materia, y conocerás los equipos que se utilizan para la caracterización de materiales.|
+| [Bases teóricas de la técnica](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/tree/main/Secci%C3%B3n00#bases-te%C3%B3ricas-de-la-t%C3%A9cnica)|En este apartado aprenderás qué son los rayos X, cómo se producen, cómo interactúan éstos con la materia, y conocerás los equipos que se utilizan para la caracterización de materiales.|
 
 ## Sección 1: Indexación de picos de patrones de difracción<br>
 

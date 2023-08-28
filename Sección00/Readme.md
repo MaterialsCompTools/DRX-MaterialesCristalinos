@@ -326,7 +326,7 @@ La longitud de onda de los rayos X depende de la fuente que se use. En la siguie
 
 </div>
 
-Además, dependiendo de los niveles energéticos dentro de los orbitales de donde vienen los electrones a llenar el vacío, pueden encontrarse líneas $k_{α1}$ y $k{α2}$.
+Además, dependiendo de los niveles energéticos dentro de los orbitales de donde vienen los electrones a llenar el vacío, pueden encontrarse líneas $k_{α1}$ y $k_{α2}$.
 
 </div>
 

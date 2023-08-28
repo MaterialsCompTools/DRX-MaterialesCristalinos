@@ -322,7 +322,7 @@ La longitud de onda de los rayos X depende de la fuente que se use. En la siguie
 
 <div align="center">
 
-![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen10.png)
+![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen10.gif)
 
 </div>
 
@@ -332,7 +332,7 @@ Además, dependiendo de los niveles energéticos dentro de los orbitales de dond
 
 <div align="center">
 
-![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen11.png)
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen11.png" alt="R.LTWB" width="40%" border="0" /></a></div>
 
 </div>
 
@@ -342,7 +342,7 @@ El espectro discreto luciría como se ve a continuación:
 
 <div align="center">
 
-![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen12.png)
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen12.png" alt="R.LTWB" width="40%" border="0" /></a></div>
 
 </div>
 
@@ -360,7 +360,7 @@ En la siguiente tabla se muestran las longitudes de onda en nm de las diferentes
 
 <div align="center">
 
-![Bragg_2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen13.png)
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen13.png" alt="R.LTWB" width="60%" border="0" /></a></div>
 
 </div>
 
@@ -615,7 +615,7 @@ Y así luce un patrón de difracción de un material FCC (el cobre). Pueden vers
 
 <div align="center">
 
-![Otra](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen25.png)
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen25.png" alt="R.LTWB" width="80%" border="0" /></a></div>
 
 </div>
 

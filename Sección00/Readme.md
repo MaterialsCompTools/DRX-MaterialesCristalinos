@@ -280,7 +280,7 @@ Al incidir sobre el ánodo, los electrones que llegan arrancan electrones de las
 
 Si la diferencia de potencial usada es de 30 kV, la velocidad de los electrones es cercana a 1/3 de la velocidad de la luz. Sin embargo, al colisionar con el blanco, la mayoría de la energía cinética de los electrones se disipa como calor, y solamente menos del 1% se convierte en rayos X.
 
-Dentro del tubo se producen muchos rayos X: algunos por la desaceleración de los electrones emitidos, otros son producidos por el ánodo. Los rayos X que se producen por la desaceleración de los electrones emitidos por el filamento de tungsteno produce un espectro continuo de longitudes de ondas, como se ve en la siguiente figura. Además, se muestra el espectro continuo para otros potenciales de aceleración.
+Dentro del tubo se producen muchos rayos X: algunos por la desaceleración de los electrones emitidos, otros son producidos por el ánodo. Los rayos X que se producen por la desaceleración de los electrones emitidos por el filamento de tungsteno producen un espectro continuo de longitudes de ondas, como se ve en la siguiente figura. Además, se muestra el espectro continuo para otros potenciales de aceleración.
 
 </div>
 

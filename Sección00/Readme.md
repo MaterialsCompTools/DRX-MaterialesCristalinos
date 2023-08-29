@@ -6,7 +6,7 @@
 
 El descubrimiento de los rayos X ha sido tan importante para la ciencia y la ingeniería, que fue premiado con varios premios Nobel.
 
-<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig1.jpg" alt="R.LTWB" width="30%" border="0" /></a></div>
+<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen56.jpg" alt="R.LTWB" width="20%" border="0" /></a></div>
 
 </div>
 

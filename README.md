@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo CGTEI](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20CGTEI%20png.png)
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-de-gestion-de-tecnologia-e-innovacion/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/Logo%20CGTEI%20png.png" alt="R.LTWB" width="80%" border="0" /></a></div>
 
 # DRX-MaterialesCristalinos
 Manejo de _softwares_ para extracción de datos de Difracción de Rayos X de materiales cristalinos<br>

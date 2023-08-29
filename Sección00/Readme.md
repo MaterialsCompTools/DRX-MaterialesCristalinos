@@ -37,7 +37,7 @@ Wilhelm nació en Lennep, Alemania, el 27 de marzo de 1845. Pasó su infancia en
 
 <div align="center">
 
-<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig2.jpg" alt="R.LTWB" width="30%" border="0" /></a></div>
+<div align="center"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig2.jpg" alt="R.LTWB" width="30%" border="0" /></a></div>
 
 </div>
 
@@ -53,7 +53,7 @@ Su descubrimiento lo llevó a ganar el Premio Nobel en 1901.
 
 <div align="center">
 
-<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig3.jpg" alt="R.LTWB" width="40%" border="0" /></a></div>
+<div align="center"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig3.jpg" alt="R.LTWB" width="40%" border="0" /></a></div>
 
 
 </div>
@@ -68,7 +68,7 @@ Max von Laue también nació en Alemania, pero en la ciudad de Pfaffendorf, el 9
 
 <div align="center">
 
-<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig4.jpg" alt="R.LTWB" width="30%" border="0" /></a></div>
+<div align="center"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig4.jpg" alt="R.LTWB" width="30%" border="0" /></a></div>
 
 </div>
 
@@ -90,7 +90,7 @@ Ambos recibieron el premio Nobel en 2015. Lawrence, con solo 25 años, sigue sie
 
 <div align="center">
 
-<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig5.jpg" alt="R.LTWB" width="40%" border="0" /></a></div>
+<div align="center"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Fig5.jpg" alt="R.LTWB" width="40%" border="0" /></a></div>
 
 </div>
 
@@ -342,7 +342,7 @@ El espectro discreto luciría como se ve a continuación:
 
 <div align="center">
 
-<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen12.png" alt="R.LTWB" width="40%" border="0" /></a></div>
+<div align="center"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen12.png" alt="R.LTWB" width="40%" border="0" /></a></div>
 
 </div>
 

@@ -23,7 +23,7 @@ Este es un curso práctico que tiene como objetivo familiarizar al estudiante co
 
 En este apartado conocerás la historia de los rayos X y las bases teóricas de la técnica de caracterización conocida como difracción de rayos X.
 
-**Duración:** 1 hora
+**Duración:** 0 horas
 
 <div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen56.jpg" alt="R.LTWB" width="20%" border="0" /></a></div>
 
@@ -84,7 +84,7 @@ En este apartado aprenderás a calcular algunos rasgos cristalográficos a parti
 
 En este apartado aprenderás a refinar patrones de difracción para conocer porcentajes de fases.<br>
 
-**Duración**: 7 horas
+**Duración**: 8 horas
 
 ![Logo FullProf](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/FullProf%20logo%20PNG.png)
 

@@ -23,6 +23,8 @@ Este es un curso práctico que tiene como objetivo familiarizar al estudiante co
 
 En este apartado conocerás la historia de los rayos X y las bases teóricas de la técnica de caracterización conocida como difracción de rayos X.
 
+No es necesario hacer esta sección si se cuenta con las bases teóricas de la técnica. Sin embargo, si desea recordar algunos conceptos puede tomarle 1 hora. Esta hora no está incluida en la certificación -si desea tomarla-, ya que el enfoque del curso es el manejo de los _softwares_.
+
 **Duración:** 0 horas
 
 <div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen56.jpg" alt="R.LTWB" width="20%" border="0" /></a></div>

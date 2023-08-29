@@ -332,7 +332,7 @@ Además, dependiendo de los niveles energéticos dentro de los orbitales de dond
 
 <div align="center">
 
-<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen11.png" alt="R.LTWB" width="40%" border="0" /></a></div>
+<div align="center"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen11.png" alt="R.LTWB" width="40%" border="0" /></a></div>
 
 </div>
 
@@ -360,7 +360,7 @@ En la siguiente tabla se muestran las longitudes de onda en nm de las diferentes
 
 <div align="center">
 
-<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen13.png" alt="R.LTWB" width="60%" border="0" /></a></div>
+<div align="center"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen13.png" alt="R.LTWB" width="60%" border="0" /></a></div>
 
 </div>
 
@@ -616,7 +616,7 @@ Y así luce un patrón de difracción de un material FCC (el cobre). Pueden vers
 
 <div align="center">
 
-<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen25.png" alt="R.LTWB" width="80%" border="0" /></a></div>
+<div align="center"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n00/.graph/Imagen25.png" alt="R.LTWB" width="80%" border="0" /></a></div>
 
 </div>
 

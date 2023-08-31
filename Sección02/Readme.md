@@ -694,7 +694,7 @@ $ρ = \frac{{2 \sqrt {3} ε}} {{D×b}}$
 
 Siendo _ε_ el valor absoluto de la microdeformación, _D_ el tamaño de cristalito y _b_ el vector de Burger.
 
-Recordemos que para la estructura cristalina FCC, según la siguiente tabla, el módulo del vector de Burger es $b = \frac{{a}} {{\sqrt {3}}}$. 
+Recordemos que para la estructura cristalina FCC, según la siguiente tabla, el módulo del vector de Burger es $b = \frac{{a}} {{\sqrt {2}}}$. 
 
 |     Estructura cristalina    | Dirección de deslizamiento | Vector de Burgers |
 |---------|:---------------------|:--------:|

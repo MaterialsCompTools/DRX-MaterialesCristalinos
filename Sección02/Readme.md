@@ -57,7 +57,7 @@ Como puede verse, tenemos 4 barras de tareas, en las partes superior, inferior, 
 
 El libro tiene varias partes importantes. Nos indica la columna del eje _x_ y del eje _y_. El nombre del libro, que quedará definido por el título del archivo que abramos. Nos indica cuáles son las casillas para los nombres de las columnas, donde pondremos la variable medida. Esto definirá el título de cada uno de los ejes. Luego tenemos la casilla de las unidades de medida de cada variable. Los comentarios son para poner alguna información relevante sobre la muestra que vamos a analizar: una temperatura o un tiempo de proceso, por ejemplo, o una composición química. Esto dependerá de lo que estemos analizando. Y <kbd>F(x)</kbd> es para colocar alguna fórmula matemática para que se haga alguna operación.<br>
 
-![Figura 54](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image054.png)<br>
+<div align="center"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image054.png" alt="R.LTWB" width="60%" border="0" /></a></div>
 
 ## Importar archivo y reportar el patrón de DRX
 
@@ -141,7 +141,7 @@ En <kbd>File name(s)</kbd> ponemos el nombre de la figura y en <kbd>Path</kbd> b
 
 Como resultado, se genera el gráfico con la extensión y nombre escogidos, en la carpeta seleccionada. Esa gráfica podemos pegarla en algún documento de interés:
 
-![Figura 76](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image076.png)<br>
+<div align="center"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image076.png" alt="R.LTWB" width="50%" border="0" /></a></div>
 
 Otra forma de mostrar el resultado es poniendo los índices de Miller de los planos difractados. Para ello, en el archivo del Match! abrimos la lista de picos <kbd>Peak list</kbd>. Recordemos que al Match! le podemos pedir que muestre los índices de Miller sobre cada pico.
 
@@ -185,7 +185,7 @@ Podemos copiar y pegar este texto, y editarlo para escribir los índices de Mill
 
 Después de exportar el gráfico en *.tiff, queda así:
 
-![Figura 86](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image086.png)<br>
+<div align="center"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image086.png" alt="R.LTWB" width="50%" border="0" /></a></div>
 
 ## Ajuste de picos
 
@@ -248,11 +248,12 @@ Nos paramos donde termina el pico, y leemos el valor de 2Theta.
 ![Figura 96](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image096.png)<br>
 
 Como puede verse, el pico va desde 37.75° hasta 38.98°. <br>
+
 Para salir del modo lectura de puntos, utilizamos la tecla de <kbd>ESCAPE</kbd> y cerramos la ventana de lectura.<br>
 Para volver la imagen al tamaño real, clickeamos en la lupa con el signo de menos.<br>
 Ahora, hacemos pequeña la ventana de la figura, y del libro resaltamos, con _clik_ izquierdo sostenido, los datos que queremos copiar. Damos <kbd>CRT+C</kbd>.<br>
 
-![Figura 97](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image097.png)<br>
+<div align="center"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image097.png" alt="R.LTWB" width="50%" border="0" /></a></div>
 
 Con los datos copiados, creamos otro libro:<br>
 
@@ -471,7 +472,7 @@ Si la estructura cristalina no es cúbica, el cálculo de los parámetros de red
 
 <div align="center">
 
-![Figura 133](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image133.png)<br>
+<div align="center"><img src="https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/image133.png" alt="R.LTWB" width="30%" border="0" /></a></div>
 
 </div>
 

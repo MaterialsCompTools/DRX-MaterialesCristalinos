@@ -642,7 +642,7 @@ Remplazando los términos del ensanchamiento por tamaño de cristalito y por mic
 
 <div align="center">
 
-$FWHM cos(θ) = \frac{{0.9λ}}{{D)}} + 2 ε sen(θ)$
+$FWHM cos(θ) = \frac{{0.9λ}}{{D}} + 2 ε sen(θ)$
 
 </div>
 

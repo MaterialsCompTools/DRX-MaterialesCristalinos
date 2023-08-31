@@ -707,7 +707,7 @@ Como ya conocemos el valor del parámetro de red porque lo calculamos con el mé
 
 <div align="center">
 
-$b = \frac{{4.05424 Å}} {{\sqrt {3}}}$ = 2.34072 Å = 0.234072 nm
+$b = \frac{{4.05424 Å}} {{\sqrt {2}}}$ = 2.34072 Å = 0.234072 nm
 
 </div>
 

@@ -18,7 +18,7 @@
 * Conocer para qué sirve el _software_ FullProf
 * Conocer los archivos de trabajo del _software_
 * Utilizar FullProf para llevar a cabo el refinamiento Rietveld de un patrón de DRX
-* Conocer los archivas de salida del _software_
+* Conocer los archivos de salida del _software_
 
 ## Requerimientos
 

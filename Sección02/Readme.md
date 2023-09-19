@@ -716,11 +716,11 @@ Calculando la densidad de dislocaciones:
 
 <div align="center">
 
-$ρ = \frac{{2 \sqrt {3} ε}} {{D×b}} = \frac{{2 \sqrt {3} × 00188}} {{63.62 nm × 0.234072 nm}}$ = 4.37332× ${10^5}$ $\frac{{dislocaciones}}{nm^2}$
+$ρ = \frac{{2 \sqrt {3} ε}} {{D×b}} = \frac{{2 \sqrt {3} × 0.00188}} {{63.62 nm × 0.234072 nm}}$ = 4.37326× ${10^-4}$ $\frac{{dislocaciones}}{nm^2}$
 
 </div>
 
-Pasándolo a ${cm^2}$, tenemos 4.37 * ${10^{11}}$ $\frac{{dislocaciones}}{cm^2}$, que también pueden expresarse como 4.37 * ${10^{11}}$ cm de línea de $\frac{{dislocaciones}}{cm^3}$.
+Pasándolo a ${cm^2}$, tenemos 4.37 * ${10^{10}}$ $\frac{{dislocaciones}}{cm^2}$, que también pueden expresarse como 4.37 * ${10^{10}}$ cm de línea de $\frac{{dislocaciones}}{cm^3}$.
 
 ##
 

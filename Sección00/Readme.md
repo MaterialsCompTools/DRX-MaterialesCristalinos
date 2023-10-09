@@ -247,6 +247,15 @@ $x = d Sen(\theta)$
 <div align="justify">
 
 Ahora, la ley de Bragg establece que para que la interferencia sea constructiva, debe cumplirse lay de Bragg. O, dicho de otro modo, cuando se cumple la condición de Bragg, que 2dSinTheta es proporcional a la longitud de onda de los rayos X, se produce una interferencia constructiva.
+</div>
+
+<div align="center">
+
+$n(\lambda) = 2d Sen(\theta)$
+
+</div>
+
+<div align="justify">
 
 ## Cómo se producen los rayos X
 

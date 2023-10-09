@@ -223,11 +223,11 @@ En <kbd>Points Selection</kbd> escogemos <kbd>Automatic Background</kbd>
 
 Eso nos abre una ventana que nos pide información.
 
-![Diapositiva13](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph3/Imagen12.png)
+![Diapositiva13](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph_2/Diapositiva%20de%20correcci%C3%B3n-2.png)
 
 <div align="justify">
 
-En <kbd>Background threshold</kbd> un valor entre 0.05 y 0.07 funciona bien. Esto está relacionado con la cantidad de puntos que tendrá el archivo del background.
+En <kbd>Background threshold</kbd> un valor entre 0.05 y 0.07 funciona bien. Esto está relacionado con la cantidad de puntos que tendrá el archivo del _background_.
 
 La cantidad de puntos generada fue de 68. Podemos cerrar la ventanita. Puede verse que en azul está representado nuestro patrón experimental, y en verde aparecen los puntos del _background_.
 

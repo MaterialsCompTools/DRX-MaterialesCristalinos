@@ -253,7 +253,7 @@ Se nos confirma que se ha creado el archivo con la cantidad de puntos correspond
 
 ![Diapositiva15](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph3/Imagen9.png)
 
-Si se desea, podemos editar el archivo. Yo diré que no.
+Si se desea, podemos editar el archivo. Yo diré que no. Listo esto, cerramos la ventana azul.
 
 ![Diapositiva15](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph3/Imagen10.png)
 

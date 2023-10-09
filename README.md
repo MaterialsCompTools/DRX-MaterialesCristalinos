@@ -13,7 +13,7 @@ Manejo de _softwares_ para extracción de datos de Difracción de Rayos X de mat
 
 <div align="justify">
 
-Este es un curso práctico que tiene como objetivo familiarizar al estudiante con las diferentes herramientas matemáticas y computacionales para el análisis de los datos de difracción de rayos de materiales. Esto, con el fin de que aprenda a extraer información valiosa de un patrón de difracción, como cantidad y tipos de fases cristalinas presentes en un material, parámetros de red, tamaños de cristalito y microdeformaciones. Todos los ejemplos se harán con un patrón de difracción de rayos X que consta de dos fases cristalinas, aluminio y corindón, que puede descargarse [aquí](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/ArchivoTrabajo/Readme.md).<br>
+Este es un curso práctico que tiene como objetivo familiarizar al estudiante con las diferentes herramientas matemáticas y computacionales para el análisis de los datos de difracción de rayos de materiales. Esto, con el fin de que aprenda a extraer información valiosa de un patrón de difracción, como cantidad y tipos de fases cristalinas presentes en un material, parámetros de red, tamaños de cristalito y microdeformaciones. Todos los ejemplos se harán con un patrón de difracción de rayos X que consta de dos fases cristalinas, aluminio y corindón, que puede descargarse [aquí](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/ArchivoTrabajo/Al_56_h_MMH.xrdml).<br>
 
 </div>
 

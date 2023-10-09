@@ -236,7 +236,7 @@ $Sen(\theta) = \frac{x}{d}$
 
 </div>
 
-Por lo que
+Por lo que X, es decir, el cateto rojo de la imagen, es:
 
 <div align="center">
 

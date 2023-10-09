@@ -301,11 +301,21 @@ En la ventana que se abre vamos a marcar <kbd>X-ray</kbd> en la parte de **Type 
 
 ![Diapositiva28](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva28.PNG)
 
+Cargamos el archivo **.BGR**. Para esto, vamos al Editor de archivos PCR y damos _click_ en el botón de <kbd>Refinement</kbd>.
+
+![Diapositiva32](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva32.PNG)
+
+Esto nos abre una ventana que se denomina **Refinement Information**. En la parte de <kbd>Cycles of Refinement</kbd> colocamos **40**, que es un valor adecuado. Abajo al lado derecho clickeamos en <kbd>Background</kbd>. Eso nos abre la ventana de **Linear interpolation between a set of Background Points**. Clickeamos en <kbd>Import from Background File</kbd>. Eso nos abre una ventana para buscar nuestro archivo con extensión **.BGR**. Lo cargamos. Al cargar el archivo, la ventanita de **Number of Points** debe actualizarse, y debe aparecer ahí el número de puntos de nuestro archivo de _Backgroound_. Damos <kbd>OK</kbd> y <kbd>OK</kbd>.
+
+![Diapositiva33](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva33.PNG)
+
+Con esta acción queda cargado nuestro archivo **.BGR**. Damos _click_ en _Ok_.
+
 Con esto quedamos de nuevo en el Editor de archivos PCR. Ahora damos _click_ en el botón de los 3 discos en azul, como se ve a continuación. 
 
 ![Diapositiva29](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva29.PNG)
 
-Esto nos crea el archivo con extensión **.PCR**. Lo nombramos con el nombre de la fase o el material.
+Esto nos crea el archivo con extensión **.PCR**. Lo nombramos con el nombre de la fase o el material y finalizamos poniendo .PCR para que quede creado con la extensión adecuada..
 
 </div>
 
@@ -314,18 +324,6 @@ Esto nos crea el archivo con extensión **.PCR**. Lo nombramos con el nombre de 
 ![Diapositiva30-2](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva30-2.PNG)
 
 </div>
-
-## Cargue del archivo .BGR
-
-Para cargar el archivo de extensión **.BGR** vamos al Editor de archivos PCR y damos _click_ en el botón de <kbd>Refinement</kbd>.
-
-![Diapositiva32](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva32.PNG)
-
-Esto nos abre una ventana que se denomina **Refinement Information**. En la parte de <kbd>Cycles of Refinement</kbd> colocamos **40**, que es un valor adecuado. Abajo al lado derecho clickeamos en <kbd>Background</kbd>. Eso nos abre la ventana de **Linear interpolation between a set of Background Points**. Clickeamos en <kbd>Import from Background File</kbd>. Eso nos abre una ventana para buscar nuestro archivo con extensión **.BGR**. Lo cargamos. Al cargar el archivo, la ventanita de **Number of Points** debe actualizarse, y debe aparecer ahí el número de puntos de nuestro archivo de _Backgroound_. Damos <kbd>OK</kbd> y <kbd>OK</kbd>.
-
-![Diapositiva33](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n03/.graph/Diapositiva33.PNG)
-
-Con esta acción queda cargado nuestro archivo **.BGR**.
 
 ## Refinamiento de la primera fase
 

@@ -301,7 +301,7 @@ Dentro del tubo se producen muchos rayos X: algunos por la desaceleración de lo
 
 <div align="justify">
 
-Los rayos X producidos por el ánodo, es decir, los producidos por la caída de electrones de un nivel a otro para llenar un hueco dejado, producen in espectro discreto de longitudes de onda. **La longitud de onda de los rayos dependerá de la fuente utilizada (o ánodo)**. Las fuentes pueden ser de Cu, Co, Mo, Fe, Cr o Ag. En Colombia son comunes las de Cu y Co.
+Los rayos X producidos por el ánodo, es decir, los producidos por la caída de electrones de un nivel a otro para llenar un hueco dejado, producen un espectro discreto de longitudes de onda. **La longitud de onda de los rayos dependerá de la fuente utilizada (o ánodo)**. Las fuentes pueden ser de Cu, Co, Mo, Fe, Cr o Ag. En Colombia son comunes las de Cu y Co.
 
 </div>
 

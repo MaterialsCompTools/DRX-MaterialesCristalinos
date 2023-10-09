@@ -112,7 +112,7 @@ Al dar _click_ en la pestañita, se despliega la siguiente lista. En este caso, 
 
 ### Segundo paso
 
-Vamos a eliminar la intensidad de los picos causada por la difracción **kα-2**. Primero veamos cómo se ve este, al hacer zum a 2 picos de ángulo de difracción alto (que es donde más se nota):
+Vamos a eliminar la intensidad de los picos causada por la difracción **kα-2**. Primero veamos cómo se ve este, al hacer zum a 2 picos de ángulo alto de difracción (que es donde más se nota) (para hacer zum, señale el área que desea agrandar manteniendo el _click_ izquierdo del _mouse_ sostenido por el área):
 
 ![Figura 10](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image010.png)
 

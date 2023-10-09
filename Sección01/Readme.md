@@ -138,7 +138,7 @@ Manualmente, cogiendo cada punto, de los que se señalan algunos con flechas roj
 
 Hacer que el _software_ reconozca los picos de nuestro patrón de difracción. Para ello, nos vamos a la pestaña de <kbd>Peaks</kbd>, <kbd>Peak searching</kbd> y _clickeamos_ en <kbd>Peak Search</kbd>.
 
-![Figura 15](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/.graph/image015.png)
+![Figura 15](https://github.com/MaterialsCompTools/DRX-MaterialesCristalinos/blob/main/Secci%C3%B3n02/.graph/Diapositiva%20de%20correcci%C3%B3n.png)
 
 El resultado se muestra a continuación. En la parte de abajo, en el eje _x_ que corresponde a 2 veces el ángulo de difracción, como unas rayitas azules. Con flechas en verde se muestran los picos reconocidos por el _software_, y con flechas en rojo se muestran los picos no reconocidos.
 

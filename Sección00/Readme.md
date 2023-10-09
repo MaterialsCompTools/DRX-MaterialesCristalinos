@@ -363,7 +363,7 @@ Con el fin de garantizar una longitud de onda determinada o monocromática para 
 
 ### Fuente de rayos X
 
-En la siguiente tabla se muestran las longitudes de onda en nm de las diferentes radiaciones. También se muestra el potencial de excitación necesario para producir los rayos X y los filtros utilizados para garantizar una radiación monocromática.
+En la siguiente tabla se muestran las longitudes de onda en nm de las diferentes radiaciones. También se muestra el potencial de excitación, en kV, necesario para producir los rayos X y los filtros utilizados para garantizar una radiación monocromática.
 
 </div>
 
